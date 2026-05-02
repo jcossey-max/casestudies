@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-04-30  
-**Issues processed:** 9 of 355  
+**Last updated:** 2026-05-02  
+**Issues processed:** 15 of 355  
 
 ---
 
@@ -45,6 +45,8 @@
 | **Global Goal on Adaptation (GGA) Indicators** | UNFCCC | Global | Adaptation measurement | 100 indicators mapped to 11 targets; "Baku Adaptation Road Map" created; transformational adaptation included; NAP assessment deferred to 2025 | — | Nov 2024 |
 | **FEMA BRIC Program Restoration** | FEMA | USA | Infrastructure hazard mitigation | $4.5bn channeled since creation; estimated $150bn in disaster damages prevented over 2 decades. Cancelled Apr 2025, reinstated Mar 2026 | $4.5bn total | Mar 23, 2026 |
 | **Hazelwood Adaptation Innovation Lab** | Hazelwood Network | Nigeria, Costa Rica, Argentina, South Africa, Bolivia | Early-stage adaptation innovation | Seven emerging-market fellows. Includes: Suyana Climate Insurance (satellite-priced ag/RE risk) and Satellites on Fire (AI wildfire detection) | — | Mar 23, 2026 |
+| **ICECHIP Hail Field Campaign** | IBHS + NSF + 19 organizations | Great Plains, USA | Hail risk / severe convective storms | First US hail-focused field campaign in 40 years; 19 organizations (10 US universities, 4 international partners); data to improve hail detection, forecasting, and warning; IBHS field teams participated in 2025 season | NSF-funded | Apr 2026 |
+| **Winter Storm Fern Insured Loss Event** | US insurance industry | USA (30+ states) | Winter storm / insured losses / grid resilience | Jan 23-27, 2026; $6.7bn privately insured losses (Karen Clark & Co. flash estimate; Verisk est. $4bn); Texas/Tennessee highest losses from freeze; 230M+ under severe alerts; 85 deaths; exposed grid vulnerabilities; CEOs discussed grid hardening and climate resilience in Q1 2026 earnings calls | $6.7bn insured | Apr 2026 |
 
 ---
 
@@ -72,6 +74,7 @@
 | **Nuveen / AllianceBernstein / MetLife / L&G** | Asset managers | USA / UK | Outcome bonds | Investors in World Bank spekboom restoration bond | Apr 27, 2026 |
 | **NorthX Climate Tech** | Venture fund | Canada | Wildfire / climate tech | Deployed CAD$52.1mn across 82 projects; CAD$2.2mn to 3 BC wildfire tech companies | Apr 20, 2026 |
 | **Andreessen Horowitz (a16z)** | VC firm | Menlo Park, USA | Climate/ocean tech | Led $38mn Series A for Ulysses (ocean vehicles) | Apr 20, 2026 |
+| **S&P Global Ratings** | Financial analytics / ratings | New York, USA | Corporate adaptation disclosures | Tracks corporate adaptation planning globally; 2025 data: 42% of companies (2,835/6,751) disclosed adaptation/resilience plans; utilities and real estate lead, healthcare and finance lag | Apr 2026 |
 
 ### Insurance
 
@@ -82,6 +85,8 @@
 | **TruStage** | Mutual insurer | USA | Wildfire / hail / property risk | Deployed ZestyAI's climate risk models for underwriting and California compliance | Jan 5, 2026 |
 | **TT Club / Haskoning UK** | Insurer / consultancy | UK | Port/logistics risk | Report: 90% of major ports face climate hazards; $122bn annual trade at risk | Sep 29, 2025 |
 | **InnSure** | Non-profit incubator | Boston, USA | Insurtech | Selected 9 companies for Creation Labs cohort 2: flood analytics, wildfire detection, battery storage | Mar 23, 2026 |
+| **IBHS (Insurance Institute for Business & Home Safety)** | Industry research org | Richlands, SC, USA | Building/hail resilience research | Operates dedicated Hail Lab; annual hail field research; joined ICECHIP (2025); ZestyAI partnership for hail loss predictability; publishes Hail Impact-Resistant Shingle Ratings (24 products, ~95% US market) | Apr 2026 |
+| **Cotality** | Property analytics / cat modeling | USA | Property/hail risk analytics | 2026 Severe Convective Storm Report: 43.5M US properties at moderate+ hail risk; $17.8trn in reconstruction cost value; $30bn single hail event "likely within decades"; 142 hail days in 2025 vs 20-yr avg of 122 | Apr 2026 |
 
 ### Technology Companies
 
@@ -130,6 +135,7 @@
 | **African Development Bank** | Multilateral | Abidjan, Côte d'Ivoire | $10.4mn grant to Ghana for climate finance governance | Apr 13, 2026 |
 | **Kirin Holdings** | Corporation | Japan | Developed heat/drought-resilient hops cultivation (6-week heat treatment) for Saaz, Hersbrucker varieties | Sep 29, 2025 |
 | **The Cultured Hub** | Startup | Switzerland | Plant cell cultivation for climate-resilient cocoa, coffee, citrus | Jan 5, 2026 |
+| **C2ES (Center for Climate and Energy Solutions)** | Think tank / NGO | Arlington, VA, USA | Corporate Climate Resilience Pathways Initiative; Climate Resilient Communities Accelerator connects diverse stakeholders on wildfire, heat, and resilience to build adaptive capacity and advance federal policy | Apr 2026 |
 
 ---
 
@@ -166,6 +172,7 @@
 | Mauritius Commercial Bank (10yr) | MCB | $100mn | Mauritius | Climate facility | Apr 6, 2026 |
 | Virgin Islands Climate Change Trust Fund | British Virgin Islands | $5.5mn+ | BVI | Climate adaptation | Apr 20, 2026 |
 | Extreme Weather + Work Initiative | Health Action Alliance | — | USA (11 founding members) | Workforce heat resilience | Apr 20, 2026 |
+| FEMA BRIC FY24/25 Grant Cycle | FEMA | $1bn | USA | Infrastructure hazard mitigation | App window Mar 25 – Jul 23, 2026; redesigned to prioritize construction-ready projects; removes planning and technical assistance funding | Apr 2026 |
 
 ---
 
@@ -195,6 +202,7 @@
 | **Plant Cell Cultivation (Climate-resilient crops)** | The Cultured Hub | Food system resilience | Expanding | Climate-resilient cocoa, coffee, citrus via plant cell cultivation | Jan 5, 2026 |
 | **Sterna Satellite Constellation** | OHB Sweden (ESA contract) | Arctic weather monitoring / extreme weather | Under contract (through 2042) | 20 satellites for Arctic atmospheric monitoring | Mar 23, 2026 |
 | **Space4Climate Initiative** | Suparco (Pakistan) | Flood / glacial outburst / sea-level monitoring | Launched | Satellite imagery + ground sensors for Pakistan climate monitoring | Mar 23, 2026 |
+| **Climative Insurance Platform** | Climative | Insurance/homeowner climate risk | Launched (Mar 2026) | Address-level hazard ratings; portfolio analytics; property-specific step-by-step adaptation plans; turns climate risk insight into homeowner action; originally deployed for banks/utilities/public sector in Canada and Northeast USA | Apr 2026 |
 
 ---
 
@@ -217,6 +225,8 @@
 | **US Hurricane Season** | — | From Jun 1, 2026 | USA | FEMA context / preparedness |
 | **EBA Climate Disclosure Framework** | European Banking Authority | Consultation through Jul 10, 2026 → effective Sep 2027 | EU | Tiered climate risk reporting framework for lenders |
 | **UK National Heat Risk Commission Report** | LSE / Emma Howard Boyd | Summer 2026 (interim); Jun 2027 (final) | UK | National heat preparedness assessment |
+| **Winter Storm Fern** | — | Jan 23–27, 2026 | USA (30+ states) | $6.7bn insured losses; exposed grid/infrastructure cold-weather vulnerabilities; 85 deaths; triggered Q1 2026 corporate climate risk disclosures in earnings calls |
+| **FEMA BRIC FY24/25 Application Window** | FEMA | Mar 25 – Jul 23, 2026 | USA | $1bn for infrastructure disaster mitigation; applications open to states, local govts, territories, tribes |
 
 ---
 
@@ -239,6 +249,8 @@
 | **COP29 NCQG Climate Finance Goal** | UNFCCC | Agreed Nov 2024 | $300bn/year by 2035; $1.3trn aspiration; adaptation finance gap $187–359bn annually | Nov 2024 |
 | **Global Goal on Adaptation (GGA) — Baku Road Map** | UNFCCC | Framework agreed COP29 | 100 indicators across 11 adaptation targets; "transformational adaptation" included | Nov 2024 |
 | **Hawaii Climate Adaptation Fee** | Hawaii, USA | Blocked (Dec 31, 2025) | Ninth Circuit froze the climate-linked fee mechanism | Jan 5, 2026 |
+| **Markwayne Mullin Appointment as DHS Secretary** | USA (federal) | Effective Mar 2026 | Replaced Kristi Noem (removed Mar 5, 2026); reversed Noem's $100K+ personal-approval spending rule; released $1bn+ in backlogged FEMA grants and reimbursements; said FEMA should be restructured, not eliminated | Mar 2026 |
+| **UK Climate Change Committee New Appointments** | UK | Effective Apr 6, 2026 | Three new members: Prof. Laura Díaz Anadón (Cambridge, IPCC AR6/7 lead author), Prof. Andrew Jordan (Tyndall Centre, EU policy), Emily Norton (agriculture/land use); 5-year terms; Nigel Topping CMG is Chair (since Jul 2025) | Apr 2026 |
 
 ---
 
@@ -255,6 +267,12 @@
 | 7 | LA Wildfires Push California's Insurance Market to the Brink | Jan 16, 2026 | /p/la-wildfires-push-california-s-insurance-market-to-the-brink | ✅ |
 | 8 | COP29 Adaptation Wins and Fails | Nov 2024 | /p/cop29-adaptation-wins-and-fails | ✅ |
 | 9 | MSCI Spotlights Hidden Adaptation Opportunity, FEMA Restores BRIC Grants, New Insurtech Accelerator | Mar 23, 2026 | /p/msci-spotlights-hidden-adaptation-opportunity-fema-restores-bric-grants-new-insurtech-accelerator-an | ✅ |
+| 10 | Inside the Hail Lab: Confronting a $30 Billion Challenge | Apr 2026 | /p/inside-the-hail-lab-confronting-a-30-billion-challenge | ✅ |
+| 11 | Weathering Storm Fern and Hardening the Grid: What US CEOs Said About Climate Risk in Q1 | Apr 2026 | /p/weathering-storm-fern-and-hardening-the-grid-what-us-ceos-said-about-climate-risk-in-q1 | ✅ |
+| 12 | Paul Munday on the Latest in Corporate Adaptation Planning | Apr 2026 | /p/paul-munday-on-the-latest-in-corporate-adaptation-planning | ✅ |
+| 13 | Verena Radulovic & Libby Zemaitis on Why Corporate Resilience Starts in the Community | Apr 2026 | /p/verena-radulovic-libby-zemaitis-on-why-corporate-resilience-starts-in-the-community | ✅ |
+| 14 | European Corporate Adaptation Plans Lack Depth, FEMA's $1bn for Disaster Resilience Grants, Climative's Platform | Apr 2026 | /p/european-corporate-adaptation-plans-lack-depth-fema-s-1bn-for-disaster-resilience-grants-climative-s | ✅ |
+| 15 | People Moves: Mullin Confirmed as Homeland Security Secretary, UK Climate Change Committee Appointments | Mar 2026 | /p/people-moves-mullin-confirmed-as-homeland-security-secretary-uk-climate-change-committee-appointment | ✅ |
 
-**Remaining unprocessed:** 346 issues  
+**Remaining unprocessed:** 340 issues  
 **Full archive URL list:** See `newsletter_urls.md`

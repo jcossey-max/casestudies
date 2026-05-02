@@ -16,16 +16,16 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - https://www.climateproof.news/p/adaptation10-adaptation-sommeliers
 - https://www.climateproof.news/p/jakob-thom-on-how-markets-and-governments-could-respond-to-climate-shocks
 - ✅ https://www.climateproof.news/p/deal-structure-mismatch-stops-private-investors-from-adapting-cities-feds-grapple-with-colorado-rive
-- https://www.climateproof.news/p/inside-the-hail-lab-confronting-a-30-billion-challenge
+- ✅ https://www.climateproof.news/p/inside-the-hail-lab-confronting-a-30-billion-challenge
 - ✅ https://www.climateproof.news/p/eu-natural-catastrophe-fund-california-s-wildfire-resiliency-study-xoople-s-130mn-raise-and-more
-- https://www.climateproof.news/p/weathering-storm-fern-and-hardening-the-grid-what-us-ceos-said-about-climate-risk-in-q1
-- https://www.climateproof.news/p/paul-munday-on-the-latest-in-corporate-adaptation-planning
+- ✅ https://www.climateproof.news/p/weathering-storm-fern-and-hardening-the-grid-what-us-ceos-said-about-climate-risk-in-q1
+- ✅ https://www.climateproof.news/p/paul-munday-on-the-latest-in-corporate-adaptation-planning
 - ✅ https://www.climateproof.news/p/green-climate-fund-approves-near-1bn-in-new-projects-us-forest-service-overhaul-climate-emergencies
 - https://www.climateproof.news/p/no-radar-tower-required-reinventing-weather-forecasting-in-the-age-of-ai
-- https://www.climateproof.news/p/verena-radulovic-libby-zemaitis-on-why-corporate-resilience-starts-in-the-community
-- https://www.climateproof.news/p/european-corporate-adaptation-plans-lack-depth-fema-s-1bn-for-disaster-resilience-grants-climative-s
+- ✅ https://www.climateproof.news/p/verena-radulovic-libby-zemaitis-on-why-corporate-resilience-starts-in-the-community
+- ✅ https://www.climateproof.news/p/european-corporate-adaptation-plans-lack-depth-fema-s-1bn-for-disaster-resilience-grants-climative-s
 - https://www.climateproof.news/p/adaptation10-nature-based-solutions
-- https://www.climateproof.news/p/people-moves-mullin-confirmed-as-homeland-security-secretary-uk-climate-change-committee-appointment
+- ✅ https://www.climateproof.news/p/people-moves-mullin-confirmed-as-homeland-security-secretary-uk-climate-change-committee-appointment
 - https://www.climateproof.news/p/kevin-stiroh-on-the-bank-climate-risk-management-rollback
 - ✅ https://www.climateproof.news/p/msci-spotlights-hidden-adaptation-opportunity-fema-restores-bric-grants-new-insurtech-accelerator-an
 - https://www.climateproof.news/p/cities-know-how-to-climate-proof-themselves-they-just-can-t-pay-for-it
