@@ -21,18 +21,18 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/weathering-storm-fern-and-hardening-the-grid-what-us-ceos-said-about-climate-risk-in-q1
 - ✅ https://www.climateproof.news/p/paul-munday-on-the-latest-in-corporate-adaptation-planning
 - ✅ https://www.climateproof.news/p/green-climate-fund-approves-near-1bn-in-new-projects-us-forest-service-overhaul-climate-emergencies
-- https://www.climateproof.news/p/no-radar-tower-required-reinventing-weather-forecasting-in-the-age-of-ai
+- ✅ https://www.climateproof.news/p/no-radar-tower-required-reinventing-weather-forecasting-in-the-age-of-ai
 - ✅ https://www.climateproof.news/p/verena-radulovic-libby-zemaitis-on-why-corporate-resilience-starts-in-the-community
 - ✅ https://www.climateproof.news/p/european-corporate-adaptation-plans-lack-depth-fema-s-1bn-for-disaster-resilience-grants-climative-s
 - https://www.climateproof.news/p/adaptation10-nature-based-solutions
 - ✅ https://www.climateproof.news/p/people-moves-mullin-confirmed-as-homeland-security-secretary-uk-climate-change-committee-appointment
-- https://www.climateproof.news/p/kevin-stiroh-on-the-bank-climate-risk-management-rollback
+- ✅ https://www.climateproof.news/p/kevin-stiroh-on-the-bank-climate-risk-management-rollback
 - ✅ https://www.climateproof.news/p/msci-spotlights-hidden-adaptation-opportunity-fema-restores-bric-grants-new-insurtech-accelerator-an
-- https://www.climateproof.news/p/cities-know-how-to-climate-proof-themselves-they-just-can-t-pay-for-it
-- https://www.climateproof.news/p/stacy-swann-on-angel-investing-in-climate-resilience
-- https://www.climateproof.news/p/global-finance-lab-finalists-carney-s-arctic-play-google-s-ai-flash-flood-forecaster-and-more
-- https://www.climateproof.news/p/corporate-america-enters-the-wildfire-war
-- https://www.climateproof.news/p/kate-stein-on-confronting-america-s-uninsurability-crisis
+- ✅ https://www.climateproof.news/p/cities-know-how-to-climate-proof-themselves-they-just-can-t-pay-for-it
+- ✅ https://www.climateproof.news/p/stacy-swann-on-angel-investing-in-climate-resilience
+- ✅ https://www.climateproof.news/p/global-finance-lab-finalists-carney-s-arctic-play-google-s-ai-flash-flood-forecaster-and-more
+- ✅ https://www.climateproof.news/p/corporate-america-enters-the-wildfire-war
+- ✅ https://www.climateproof.news/p/kate-stein-on-confronting-america-s-uninsurability-crisis
 - https://www.climateproof.news/p/insurer-survey-spotlights-climate-preparedness-gap-noem-s-ouster-jp-morgan-s-adaptech-review-and-mor
 - https://www.climateproof.news/p/axa-munich-re-turn-to-satellites-to-tame-climate-risk
 - https://www.climateproof.news/p/revamped-finance-alliance-highlights-resilience-eu-climate-risk-framework-feedback-neural-earth-clos

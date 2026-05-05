@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-05-02  
-**Issues processed:** 15 of 355  
+**Last updated:** 2026-05-05  
+**Issues processed:** 22 of 355  
 
 ---
 
@@ -47,6 +47,9 @@
 | **Hazelwood Adaptation Innovation Lab** | Hazelwood Network | Nigeria, Costa Rica, Argentina, South Africa, Bolivia | Early-stage adaptation innovation | Seven emerging-market fellows. Includes: Suyana Climate Insurance (satellite-priced ag/RE risk) and Satellites on Fire (AI wildfire detection) | — | Mar 23, 2026 |
 | **ICECHIP Hail Field Campaign** | IBHS + NSF + 19 organizations | Great Plains, USA | Hail risk / severe convective storms | First US hail-focused field campaign in 40 years; 19 organizations (10 US universities, 4 international partners); data to improve hail detection, forecasting, and warning; IBHS field teams participated in 2025 season | NSF-funded | Apr 2026 |
 | **Winter Storm Fern Insured Loss Event** | US insurance industry | USA (30+ states) | Winter storm / insured losses / grid resilience | Jan 23-27, 2026; $6.7bn privately insured losses (Karen Clark & Co. flash estimate; Verisk est. $4bn); Texas/Tennessee highest losses from freeze; 230M+ under severe alerts; 85 deaths; exposed grid vulnerabilities; CEOs discussed grid hardening and climate resilience in Q1 2026 earnings calls | $6.7bn insured | Apr 2026 |
+| **Emberpoint Wildfire JV** | PG&E, Lockheed Martin, Salesforce, Wells Fargo | USA | Wildfire prevention / detection / response | Corporate JV launched Jan 26, 2026; integrates AI, autonomous systems, smart fire suppression, and integrated command/control to help first responders detect, prevent, and fight wildfires; targeting demonstrations 2026; $100mn+ committed by four partners | $100mn+ | Mar 12, 2026 |
+| **Carney Arctic Infrastructure Program** | Government of Canada | Canada (Arctic) | Arctic infrastructure / climate-driven strategic resilience | C$32bn for Forward Operating Location upgrades; C$3bn for 4 new operational support hubs; 800km Mackenzie Valley Highway (Yellowknife to Inuvik, NWT — first year-round road link); framed as response to Arctic warming 3× faster than global average | C$35bn (~US$25.7bn) | Mar 16, 2026 |
+| **Ignitia Uganda EW4A Pilot** | Ignitia / EW4A Initiative | Uganda | AI weather forecasting / flood early warning | "Virtual radar" technology tested for flood warnings to rural farming communities and fast-growing urban centers; EW4A (Early Warnings for All) and Uganda government monitoring results; if successful, planned expansion to Cambodia and Ecuador | — | Apr 2, 2026 |
 
 ---
 
@@ -75,6 +78,7 @@
 | **NorthX Climate Tech** | Venture fund | Canada | Wildfire / climate tech | Deployed CAD$52.1mn across 82 projects; CAD$2.2mn to 3 BC wildfire tech companies | Apr 20, 2026 |
 | **Andreessen Horowitz (a16z)** | VC firm | Menlo Park, USA | Climate/ocean tech | Led $38mn Series A for Ulysses (ocean vehicles) | Apr 20, 2026 |
 | **S&P Global Ratings** | Financial analytics / ratings | New York, USA | Corporate adaptation disclosures | Tracks corporate adaptation planning globally; 2025 data: 42% of companies (2,835/6,751) disclosed adaptation/resilience plans; utilities and real estate lead, healthcare and finance lag | Apr 2026 |
+| **Resilient Earth Capital** | Angel investor community | USA | Climate resilience / early-stage startups | Co-founded by Stacy Swann (ex-IFC; now also IDB-Invest MD for Blended Finance); community of angels coaching and investing in agriculture, water, extreme heat, and wildfire startups; notes shift from energy transition focus to adaptation-oriented startups | Mar 2026 |
 
 ### Insurance
 
@@ -87,6 +91,7 @@
 | **InnSure** | Non-profit incubator | Boston, USA | Insurtech | Selected 9 companies for Creation Labs cohort 2: flood analytics, wildfire detection, battery storage | Mar 23, 2026 |
 | **IBHS (Insurance Institute for Business & Home Safety)** | Industry research org | Richlands, SC, USA | Building/hail resilience research | Operates dedicated Hail Lab; annual hail field research; joined ICECHIP (2025); ZestyAI partnership for hail loss predictability; publishes Hail Impact-Resistant Shingle Ratings (24 products, ~95% US market) | Apr 2026 |
 | **Cotality** | Property analytics / cat modeling | USA | Property/hail risk analytics | 2026 Severe Convective Storm Report: 43.5M US properties at moderate+ hail risk; $17.8trn in reconstruction cost value; $30bn single hail event "likely within decades"; 142 hail days in 2025 vs 20-yr avg of 122 | Apr 2026 |
+| **EDF+Business** | Advocacy / NGO | Washington DC, USA | Climate insurance reform | Insurance Director Kate Stein leads work on US climate "uninsurability crisis" — rising premiums and insurer pullouts from high-risk states; engages insurers, regulators, and corporations on systemic insurance reform | Mar 2026 |
 
 ### Technology Companies
 
@@ -108,6 +113,7 @@
 | **CRWN.ai** | Canada | IoT monitoring | Transmission corridor wildfire | Deploying 500 devices across BC transmission corridors | Apr 20, 2026 |
 | **Nova** | Canada | Aerial fire-mapping | Wildfire operations | 200+ clients in N. America/Australia; expanding from drones to multi-platform | Apr 20, 2026 |
 | **Skyward Wildfire Technologies** | Canada | Lightning-ignition reduction | Wildfire prevention | Field testing lightning-ignition reduction technology | Apr 20, 2026 |
+| **Ignitia** | Sweden (global) | AI weather intelligence | Climate-resilient agriculture / flood early warning | "Virtual radar" combining satellite imagery, ensemble forecasts, and deep learning; delivers radar-quality nowcast alerts without physical infrastructure; 3M+ users in 15 countries across Africa, LatAm, and Asia; targets $3B hazard warning market | Apr 2, 2026 |
 | **7Analytics** | — | Geospatial flood risk | Underwriting / risk scoring | High-resolution flood risk scores; InnSure cohort | Mar 23, 2026 |
 | **Orbital Sentry** | — | Infrared satellite monitoring | Wildfire detection | Continuous wildfire monitoring from geostationary orbit; InnSure cohort | Mar 23, 2026 |
 | **CLIM ETF (Climate Global / ETC)** | USA | Climate-resilient REIT ETF | Real estate investment | First US climate-resilient REIT ETF; uses Moody's cat models to underweight climate-exposed REITs | Mar 23, 2026 |
@@ -136,6 +142,7 @@
 | **Kirin Holdings** | Corporation | Japan | Developed heat/drought-resilient hops cultivation (6-week heat treatment) for Saaz, Hersbrucker varieties | Sep 29, 2025 |
 | **The Cultured Hub** | Startup | Switzerland | Plant cell cultivation for climate-resilient cocoa, coffee, citrus | Jan 5, 2026 |
 | **C2ES (Center for Climate and Energy Solutions)** | Think tank / NGO | Arlington, VA, USA | Corporate Climate Resilience Pathways Initiative; Climate Resilient Communities Accelerator connects diverse stakeholders on wildfire, heat, and resilience to build adaptive capacity and advance federal policy | Apr 2026 |
+| **CDP (Carbon Disclosure Project)** | Data platform / NGO | London, UK | Urban climate finance gap data and reporting | 2024 data: 124 US cities sought $62.7bn for climate-resilient infrastructure vs $22bn available = $40.8bn gap; developing countries will need $310–400bn/year by 2035 for climate adaptation | Mar 2026 |
 
 ---
 
@@ -173,6 +180,13 @@
 | Virgin Islands Climate Change Trust Fund | British Virgin Islands | $5.5mn+ | BVI | Climate adaptation | Apr 20, 2026 |
 | Extreme Weather + Work Initiative | Health Action Alliance | — | USA (11 founding members) | Workforce heat resilience | Apr 20, 2026 |
 | FEMA BRIC FY24/25 Grant Cycle | FEMA | $1bn | USA | Infrastructure hazard mitigation | App window Mar 25 – Jul 23, 2026; redesigned to prioritize construction-ready projects; removes planning and technical assistance funding | Apr 2026 |
+| Emberpoint Wildfire JV Launch | PG&E, Lockheed Martin, Salesforce, Wells Fargo | $100mn+ | USA | Wildfire prevention / detection / response | Jan 26, 2026 launch; AI, autonomous systems, smart fire suppression | Mar 12, 2026 |
+| Carney Arctic Infrastructure | Government of Canada | C$35bn (~US$25.7bn) | Canada (Arctic) | Arctic infrastructure / climate resilience | C$32bn for military Forward Operating Locations; C$3bn for 4 operational support hubs; Mackenzie Valley Highway | Mar 16, 2026 |
+| Global Innovation Lab 2026 Selection (8 vehicles) | Climate Policy Initiative | ~$600M potential | Global / Emerging markets | Climate adaptation finance vehicles | Record 1,172 applications; 7-month incubation; winners include SME insurance-credit (Brazil), Amazon fund, India CSA lending, Latin American coffee resilience | Mar 16, 2026 |
+| Building SMEs Climate Resilience | StoneCo + Zurich Insurance | $10–20M insurance → $200M lending | Brazil | SME climate resilience (insurance-credit mechanism) | Lab 2026 finalist | Mar 16, 2026 |
+| IMPAQTO Capital Amazon Andes Fund | IMPAQTO Capital | $30M | Andean Amazon | Regenerative value chains / forest livelihoods / deforestation reduction | Lab 2026 finalist | Mar 16, 2026 |
+| Insurance-Backed Loans for CSA Adoption | IFPRI + DVARA E-Registry | $90M credit facility | India | Smallholder climate-smart agriculture lending | Uses satellite and smartphone data; Lab 2026 finalist | Mar 16, 2026 |
+| LATTE (Latin American Climate Resilient Coffee Facility) | IDH Investment Management | $30M | Colombia, Honduras, Mexico | Coffee supply chain climate resilience | Channels capital via agri-fintech lenders to small coffee producers; Lab 2026 finalist | Mar 16, 2026 |
 
 ---
 
@@ -203,6 +217,8 @@
 | **Sterna Satellite Constellation** | OHB Sweden (ESA contract) | Arctic weather monitoring / extreme weather | Under contract (through 2042) | 20 satellites for Arctic atmospheric monitoring | Mar 23, 2026 |
 | **Space4Climate Initiative** | Suparco (Pakistan) | Flood / glacial outburst / sea-level monitoring | Launched | Satellite imagery + ground sensors for Pakistan climate monitoring | Mar 23, 2026 |
 | **Climative Insurance Platform** | Climative | Insurance/homeowner climate risk | Launched (Mar 2026) | Address-level hazard ratings; portfolio analytics; property-specific step-by-step adaptation plans; turns climate risk insight into homeowner action; originally deployed for banks/utilities/public sector in Canada and Northeast USA | Apr 2026 |
+| **Groundsource** | Google Research | AI flash flood forecasting | Launched Mar 2026 | Gemini LLM processes 2.6M historical news reports in 80 languages across 150+ countries; extracts geo-tagged, time-stamped flood events; 82% accuracy for real-world use; enables 24-hour advance urban flash flood prediction; integrated into Google Flood Hub | Mar 16, 2026 |
+| **Virtual Radar (Ignitia)** | Ignitia | AI weather nowcasting for developing-world hazard warning | Pilot — Uganda (2026) | Satellite imagery + ensemble forecasts + deep learning = radar-quality nowcast alerts with no physical radar infrastructure; informs daily forecasts and climate-smart agriculture advisories for 3M+ users | Apr 2, 2026 |
 
 ---
 
@@ -227,6 +243,8 @@
 | **UK National Heat Risk Commission Report** | LSE / Emma Howard Boyd | Summer 2026 (interim); Jun 2027 (final) | UK | National heat preparedness assessment |
 | **Winter Storm Fern** | — | Jan 23–27, 2026 | USA (30+ states) | $6.7bn insured losses; exposed grid/infrastructure cold-weather vulnerabilities; 85 deaths; triggered Q1 2026 corporate climate risk disclosures in earnings calls |
 | **FEMA BRIC FY24/25 Application Window** | FEMA | Mar 25 – Jul 23, 2026 | USA | $1bn for infrastructure disaster mitigation; applications open to states, local govts, territories, tribes |
+| **World Bank Spring Meetings DFI–Mayors Roundtable** | World Bank + DFIs | Apr 2026 | Washington DC, USA | High-level roundtable "Scaling Sustainable Investment in Cities"; focused on accelerating DFI finance flows to cities for efficient and resilient urban development |
+| **Emberpoint Launch** | PG&E, Lockheed Martin, Salesforce, Wells Fargo | Jan 26, 2026 | USA | Launch of wildfire prevention/detection/response JV; $100mn+ committed; targeting 2026 demonstrations |
 
 ---
 
@@ -251,6 +269,7 @@
 | **Hawaii Climate Adaptation Fee** | Hawaii, USA | Blocked (Dec 31, 2025) | Ninth Circuit froze the climate-linked fee mechanism | Jan 5, 2026 |
 | **Markwayne Mullin Appointment as DHS Secretary** | USA (federal) | Effective Mar 2026 | Replaced Kristi Noem (removed Mar 5, 2026); reversed Noem's $100K+ personal-approval spending rule; released $1bn+ in backlogged FEMA grants and reimbursements; said FEMA should be restructured, not eliminated | Mar 2026 |
 | **UK Climate Change Committee New Appointments** | UK | Effective Apr 6, 2026 | Three new members: Prof. Laura Díaz Anadón (Cambridge, IPCC AR6/7 lead author), Prof. Andrew Jordan (Tyndall Centre, EU policy), Emily Norton (agriculture/land use); 5-year terms; Nigel Topping CMG is Chair (since Jul 2025) | Apr 2026 |
+| **US Banking Regulators Withdraw Climate Risk Principles** | USA (federal) | Withdrawn Oct 2025 | OCC, Federal Reserve, and FDIC jointly withdrew interagency climate-related financial risk management principles for large banks; former Fed NY climate lead Kevin Stiroh (now at Resources for the Future) called it a setback for the climate risk profession | Oct 2025 |
 
 ---
 
@@ -273,6 +292,13 @@
 | 13 | Verena Radulovic & Libby Zemaitis on Why Corporate Resilience Starts in the Community | Apr 2026 | /p/verena-radulovic-libby-zemaitis-on-why-corporate-resilience-starts-in-the-community | ✅ |
 | 14 | European Corporate Adaptation Plans Lack Depth, FEMA's $1bn for Disaster Resilience Grants, Climative's Platform | Apr 2026 | /p/european-corporate-adaptation-plans-lack-depth-fema-s-1bn-for-disaster-resilience-grants-climative-s | ✅ |
 | 15 | People Moves: Mullin Confirmed as Homeland Security Secretary, UK Climate Change Committee Appointments | Mar 2026 | /p/people-moves-mullin-confirmed-as-homeland-security-secretary-uk-climate-change-committee-appointment | ✅ |
+| 16 | No Radar Tower Required: How AI Is Reinventing Weather Forecasting for the Developing World | Apr 2, 2026 | /p/no-radar-tower-required-reinventing-weather-forecasting-in-the-age-of-ai | ✅ |
+| 17 | Kevin Stiroh on the Bank Climate Risk Management Rollback | Mar 2026 | /p/kevin-stiroh-on-the-bank-climate-risk-management-rollback | ✅ |
+| 18 | Cities Know How to Climate-Proof Themselves, They Just Can't Pay for It | Mar 2026 | /p/cities-know-how-to-climate-proof-themselves-they-just-can-t-pay-for-it | ✅ |
+| 19 | Stacy Swann on Angel Investing in Climate Resilience | Mar 2026 | /p/stacy-swann-on-angel-investing-in-climate-resilience | ✅ |
+| 20 | Global Finance Lab Finalists, Carney's Arctic Play, Google's AI Flash Flood Forecaster, and More | Mar 16, 2026 | /p/global-finance-lab-finalists-carney-s-arctic-play-google-s-ai-flash-flood-forecaster-and-more | ✅ |
+| 21 | Corporate America Enters the Wildfire War | Mar 12, 2026 | /p/corporate-america-enters-the-wildfire-war | ✅ |
+| 22 | Kate Stein on Confronting America's Uninsurability Crisis | Mar 2026 | /p/kate-stein-on-confronting-america-s-uninsurability-crisis | ✅ |
 
-**Remaining unprocessed:** 340 issues  
+**Remaining unprocessed:** 333 issues  
 **Full archive URL list:** See `newsletter_urls.md`
