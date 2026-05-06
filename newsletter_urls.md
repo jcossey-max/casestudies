@@ -33,13 +33,13 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/global-finance-lab-finalists-carney-s-arctic-play-google-s-ai-flash-flood-forecaster-and-more
 - ✅ https://www.climateproof.news/p/corporate-america-enters-the-wildfire-war
 - ✅ https://www.climateproof.news/p/kate-stein-on-confronting-america-s-uninsurability-crisis
-- https://www.climateproof.news/p/insurer-survey-spotlights-climate-preparedness-gap-noem-s-ouster-jp-morgan-s-adaptech-review-and-mor
-- https://www.climateproof.news/p/axa-munich-re-turn-to-satellites-to-tame-climate-risk
-- https://www.climateproof.news/p/revamped-finance-alliance-highlights-resilience-eu-climate-risk-framework-feedback-neural-earth-clos
-- https://www.climateproof.news/p/adaptation10-urban-resilience
-- https://www.climateproof.news/p/people-moves-smart-switches-s-p-for-bloomberg-erlandsson-exits-anthropocene-fixed-income-institute
-- https://www.climateproof.news/p/climate-risks-amp-government-borrowing-costs-eu-must-urgently-strengthen-adaptation-verisk-s-p-partn
-- https://www.climateproof.news/p/adaptation-finance-s-growth-spurt-calls-for-a-tune-up
+- ✅ https://www.climateproof.news/p/insurer-survey-spotlights-climate-preparedness-gap-noem-s-ouster-jp-morgan-s-adaptech-review-and-mor
+- ✅ https://www.climateproof.news/p/axa-munich-re-turn-to-satellites-to-tame-climate-risk
+- ✅ https://www.climateproof.news/p/revamped-finance-alliance-highlights-resilience-eu-climate-risk-framework-feedback-neural-earth-clos
+- ✅ https://www.climateproof.news/p/adaptation10-urban-resilience
+- ✅ https://www.climateproof.news/p/people-moves-smart-switches-s-p-for-bloomberg-erlandsson-exits-anthropocene-fixed-income-institute
+- ✅ https://www.climateproof.news/p/climate-risks-amp-government-borrowing-costs-eu-must-urgently-strengthen-adaptation-verisk-s-p-partn
+- ✅ https://www.climateproof.news/p/adaptation-finance-s-growth-spurt-calls-for-a-tune-up
 - https://www.climateproof.news/p/cre-dit-agricole-fined-over-climate-risk-failings-trump-scraps-endangerment-finding-open-climate-ris
 - https://www.climateproof.news/p/climate-adaptation-laws-are-booming-but-still-falling-short
 - https://www.climateproof.news/p/climate-economic-models-under-fire-europeans-lagging-on-household-resilience-ai-native-weather-satel

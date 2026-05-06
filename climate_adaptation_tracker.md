@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-05-05  
-**Issues processed:** 22 of 355  
+**Last updated:** 2026-05-06  
+**Issues processed:** 29 of 355  
 
 ---
 
@@ -50,6 +50,10 @@
 | **Emberpoint Wildfire JV** | PG&E, Lockheed Martin, Salesforce, Wells Fargo | USA | Wildfire prevention / detection / response | Corporate JV launched Jan 26, 2026; integrates AI, autonomous systems, smart fire suppression, and integrated command/control to help first responders detect, prevent, and fight wildfires; targeting demonstrations 2026; $100mn+ committed by four partners | $100mn+ | Mar 12, 2026 |
 | **Carney Arctic Infrastructure Program** | Government of Canada | Canada (Arctic) | Arctic infrastructure / climate-driven strategic resilience | C$32bn for Forward Operating Location upgrades; C$3bn for 4 new operational support hubs; 800km Mackenzie Valley Highway (Yellowknife to Inuvik, NWT — first year-round road link); framed as response to Arctic warming 3× faster than global average | C$35bn (~US$25.7bn) | Mar 16, 2026 |
 | **Ignitia Uganda EW4A Pilot** | Ignitia / EW4A Initiative | Uganda | AI weather forecasting / flood early warning | "Virtual radar" technology tested for flood warnings to rural farming communities and fast-growing urban centers; EW4A (Early Warnings for All) and Uganda government monitoring results; if successful, planned expansion to Cambodia and Ecuador | — | Apr 2, 2026 |
+| **AdapTech Accelerator** | MaRS Discovery District + Definity Financial | Canada | Climate adaptation tech incubation | One-year accelerator for up to 10 Canadian climate adaptation/resilience startups; programming, labs, capital connections, government/industry networks; focus: flood/wildfire, building resilience, heat, air quality, grid; launched Nov 19, 2025; applications Jan 2026; inaugural cohort Apr 2026 | — | Nov 2025 |
+| **Adaptation Asia – Panra Fund** | Global Innovation Lab / CPI | Philippines | Agribusiness / water resilience | $50M agribusiness debt fund for cropland ecological health; digital platform with remote sensors to measure and monetize adaptation benefits; Lab 2026 finalist | $50mn | Feb 19, 2026 |
+| **Mitsiry Biodiversity and Climate Fund** | Global Innovation Lab / CPI | Madagascar + SW Indian Ocean LDCs | Ecosystem restoration / blended finance | $50M blended finance for regenerative enterprises restoring ecosystems in Madagascar and least-developed SW Indian Ocean countries; Lab 2026 finalist | $50mn | Feb 19, 2026 |
+| **The Natural Investments Platform** | Global Innovation Lab / CPI | Southern Africa | Conservation / ecosystem restoration | $100M impact-first platform for conservation and restoration; Lab 2026 finalist | $100mn | Feb 19, 2026 |
 
 ---
 
@@ -79,6 +83,8 @@
 | **Andreessen Horowitz (a16z)** | VC firm | Menlo Park, USA | Climate/ocean tech | Led $38mn Series A for Ulysses (ocean vehicles) | Apr 20, 2026 |
 | **S&P Global Ratings** | Financial analytics / ratings | New York, USA | Corporate adaptation disclosures | Tracks corporate adaptation planning globally; 2025 data: 42% of companies (2,835/6,751) disclosed adaptation/resilience plans; utilities and real estate lead, healthcare and finance lag | Apr 2026 |
 | **Resilient Earth Capital** | Angel investor community | USA | Climate resilience / early-stage startups | Co-founded by Stacy Swann (ex-IFC; now also IDB-Invest MD for Blended Finance); community of angels coaching and investing in agriculture, water, extreme heat, and wildfire startups; notes shift from energy transition focus to adaptation-oriented startups | Mar 2026 |
+| **Net Zero Asset Managers (NZAM) Initiative** | Asset manager coalition | Global | Climate investing including adaptation/resilience | Relaunched Feb 25, 2026 with 250+ signatories; updated Commitment Statement now explicitly names adaptation and resilience as investment frameworks alongside decarbonization and climate solutions; BlackRock, Vanguard, JP Morgan AM departed pre-relaunch | Feb 25, 2026 |
+| **Anthropocene Fixed Income Institute (AFII)** | Fixed income research / advocacy | Global | Climate-focused fixed income investing research | Founder/CEO Ulf Erlandsson stepped down Apr 2026, returning to AP4 as Senior Fixed Income Portfolio Manager; Justine Leigh-Bell (co-CEO since Jul 2025; former Climate Bonds Initiative Deputy CEO) appointed CEO | Feb 25, 2026 |
 
 ### Insurance
 
@@ -92,6 +98,9 @@
 | **IBHS (Insurance Institute for Business & Home Safety)** | Industry research org | Richlands, SC, USA | Building/hail resilience research | Operates dedicated Hail Lab; annual hail field research; joined ICECHIP (2025); ZestyAI partnership for hail loss predictability; publishes Hail Impact-Resistant Shingle Ratings (24 products, ~95% US market) | Apr 2026 |
 | **Cotality** | Property analytics / cat modeling | USA | Property/hail risk analytics | 2026 Severe Convective Storm Report: 43.5M US properties at moderate+ hail risk; $17.8trn in reconstruction cost value; $30bn single hail event "likely within decades"; 142 hail days in 2025 vs 20-yr avg of 122 | Apr 2026 |
 | **EDF+Business** | Advocacy / NGO | Washington DC, USA | Climate insurance reform | Insurance Director Kate Stein leads work on US climate "uninsurability crisis" — rising premiums and insurer pullouts from high-risk states; engages insurers, regulators, and corporations on systemic insurance reform | Mar 2026 |
+| **AXA Digital Commercial Platform (AXA DCP)** | Insurer technology subsidiary | Paris, France | Multi-peril commercial climate risk | Partnerships with Planet Labs (Feb 12, 2026) and ICEYE (Jan 21, 2026) to integrate satellite imagery and SAR data into AI-powered AWS risk platform; enables near-real-time monitoring of floods, wildfires, and hurricanes for commercial clients | Mar 5, 2026 |
+| **Munich Re / Risk Management Partners (RMP)** | Reinsurer | Munich, Germany | Physical climate risk platform | Strategic global partnership with ICEYE (live Jan 2026) to embed Flood Archive and Flood Early Warning solutions into Location Risk Intelligence Platform; also integrates Wildfire Insights and Hurricane Rapid Impact products | Mar 5, 2026 |
+| **Ceres** | NGO / advocacy | Boston, USA | US insurer climate preparedness | 2025 Progress Report: only 29% of major US insurers disclosed metrics and targets; 28% disclosed across all 4 TCFD pillars; global protection gap projected at $1.86T (2025); California wildfire protection gap: $1.35–$2T | Mar 2026 |
 
 ### Technology Companies
 
@@ -118,6 +127,10 @@
 | **Orbital Sentry** | — | Infrared satellite monitoring | Wildfire detection | Continuous wildfire monitoring from geostationary orbit; InnSure cohort | Mar 23, 2026 |
 | **CLIM ETF (Climate Global / ETC)** | USA | Climate-resilient REIT ETF | Real estate investment | First US climate-resilient REIT ETF; uses Moody's cat models to underweight climate-exposed REITs | Mar 23, 2026 |
 | **Trex (Univ. of Exeter spinout)** | UK | Tipping point scenarios | Financial risk modeling | Launched "Tipping Point Scenarios Climate" product for financial institutions | Apr 6, 2026 |
+| **ICEYE** | Espoo, Finland | SAR satellite EO | Flood / fire / storm risk analytics | Flood Archive (historical extent/depth data), Flood Early Warning (real-time + 96-hr severity forecasts), Wildfire Insights, Hurricane Rapid Impact; strategic data deals with AXA DCP and Munich Re RMP (live Jan 2026) | Mar 5, 2026 |
+| **Planet Labs** | San Francisco, USA | Daily global satellite imagery | Multi-peril disaster / drought / wildfire risk monitoring | Near-daily global coverage via Basemaps and high-resolution imagery; partnership with AXA DCP (Feb 12, 2026) for disaster prevention, drought monitoring, wildfire/flood risk assessment | Mar 5, 2026 |
+| **Neural Earth** | — | GeoAI physical risk platform | Flood / wind / wildfire risk scoring | Closed $9.3M oversubscribed seed round (Feb 24, 2026); unifies satellite imagery, environmental sensors, proprietary data for risk scores; NLP querying of geospatial datasets; targets P&C insurance, reinsurance, institutional real estate | Feb 2026 |
+| **RainGrid** | Canada | Cloud-based stormwater SaaS | Urban flood management | Intelligent Retention & Reuse/Recharge System (IR3); real-time precipitation and rooftop runoff monitoring; sensor-managed storage optimization; reduces urban flood risk | Feb 26, 2026 |
 
 ### Research, Policy & NGOs
 
@@ -143,6 +156,9 @@
 | **The Cultured Hub** | Startup | Switzerland | Plant cell cultivation for climate-resilient cocoa, coffee, citrus | Jan 5, 2026 |
 | **C2ES (Center for Climate and Energy Solutions)** | Think tank / NGO | Arlington, VA, USA | Corporate Climate Resilience Pathways Initiative; Climate Resilient Communities Accelerator connects diverse stakeholders on wildfire, heat, and resilience to build adaptive capacity and advance federal policy | Apr 2026 |
 | **CDP (Carbon Disclosure Project)** | Data platform / NGO | London, UK | Urban climate finance gap data and reporting | 2024 data: 124 US cities sought $62.7bn for climate-resilient infrastructure vs $22bn available = $40.8bn gap; developing countries will need $310–400bn/year by 2035 for climate adaptation | Mar 2026 |
+| **EU Scientific Advisory Board on Climate Change** | EU advisory body | Brussels, EU | Feb 17, 2026 report: urged EU to "urgently coordinate" adaptation; 5 formal recommendations including mandatory harmonized climate risk assessments, common adaptation planning reference framework; EU annual adaptation cost ~€70B/year vs ~€15–16B/year currently funded | Feb 2026 |
+| **Climate Policy Initiative (CPI)** | Research / finance advisory | Global | Published "How To Guide for Adaptation Finance Vehicles" (Feb 2026) to help structure adaptation finance; flagged growing "adaptation finance washing" risk; manages Global Innovation Lab for Climate Finance | Feb 2026 |
+| **ECB (European Central Bank)** | Central bank | Frankfurt, Germany | Feb 19, 2026 blog: climate disasters push up sovereign borrowing costs; droughts and storms have largest effect; high-debt, fiscally vulnerable countries most exposed; study covers 52 countries over 5-year post-event window | Feb 19, 2026 |
 
 ---
 
@@ -187,6 +203,11 @@
 | IMPAQTO Capital Amazon Andes Fund | IMPAQTO Capital | $30M | Andean Amazon | Regenerative value chains / forest livelihoods / deforestation reduction | Lab 2026 finalist | Mar 16, 2026 |
 | Insurance-Backed Loans for CSA Adoption | IFPRI + DVARA E-Registry | $90M credit facility | India | Smallholder climate-smart agriculture lending | Uses satellite and smartphone data; Lab 2026 finalist | Mar 16, 2026 |
 | LATTE (Latin American Climate Resilient Coffee Facility) | IDH Investment Management | $30M | Colombia, Honduras, Mexico | Coffee supply chain climate resilience | Channels capital via agri-fintech lenders to small coffee producers; Lab 2026 finalist | Mar 16, 2026 |
+| Neural Earth Seed Round | Neural Earth | $9.3mn | Global | GeoAI physical climate risk platform | Feb 24, 2026 |
+| Adaptation Asia – Panra Fund | Global Innovation Lab / CPI | $50mn | Philippines | Agribusiness / cropland ecological health | Feb 19, 2026 |
+| Mitsiry Biodiversity and Climate Fund | Global Innovation Lab / CPI | $50mn | Madagascar + SW Indian Ocean | Ecosystem restoration / blended finance | Feb 19, 2026 |
+| The Natural Investments Platform | Global Innovation Lab / CPI | $100mn | Southern Africa | Conservation / ecosystem restoration | Feb 19, 2026 |
+| Google.org AI for Science Impact Challenge | Google.org | $30mn | Global | Climate resilience and health AI grants | 2026 |
 
 ---
 
@@ -219,6 +240,11 @@
 | **Climative Insurance Platform** | Climative | Insurance/homeowner climate risk | Launched (Mar 2026) | Address-level hazard ratings; portfolio analytics; property-specific step-by-step adaptation plans; turns climate risk insight into homeowner action; originally deployed for banks/utilities/public sector in Canada and Northeast USA | Apr 2026 |
 | **Groundsource** | Google Research | AI flash flood forecasting | Launched Mar 2026 | Gemini LLM processes 2.6M historical news reports in 80 languages across 150+ countries; extracts geo-tagged, time-stamped flood events; 82% accuracy for real-world use; enables 24-hour advance urban flash flood prediction; integrated into Google Flood Hub | Mar 16, 2026 |
 | **Virtual Radar (Ignitia)** | Ignitia | AI weather nowcasting for developing-world hazard warning | Pilot — Uganda (2026) | Satellite imagery + ensemble forecasts + deep learning = radar-quality nowcast alerts with no physical radar infrastructure; informs daily forecasts and climate-smart agriculture advisories for 3M+ users | Apr 2, 2026 |
+| **ICEYE Flood Archive + Flood Early Warning** | ICEYE | Flood / storm insurance risk analytics | Commercial | SAR-based historical flood extent/depth data; real-time flood footprint monitoring + 96-hr severity forecasts; also Wildfire Insights and Hurricane Rapid Impact products; integrated with Munich Re RMP and AXA DCP platforms | Mar 5, 2026 |
+| **Neural Earth Risk Platform** | Neural Earth | Physical climate risk scoring | Seed-funded | Unifies satellite imagery, environmental sensors, proprietary data for flood/wind/wildfire risk scores; NLP querying of complex geospatial datasets; targets P&C insurance, reinsurance, institutional real estate | Feb 24, 2026 |
+| **RainGrid IR3 (Intelligent Retention & Reuse/Recharge)** | RainGrid | Urban stormwater / flood management | Commercial | Cloud-based SaaS; real-time monitoring of precipitation and rooftop runoff; sensor-managed storage optimization; reduces urban flood risk | Feb 26, 2026 |
+| **Resilience Scanner** | urbantech.info | Urban adaptation solution mapping | Operational | Interactive map of climate adaptation solutions deployed across hundreds of cities; filter by hazard, solution type, and region; identifies tech-transfer opportunities (e.g. Paris heat app → Managua, Delhi) | Feb 26, 2026 |
+| **Climanomics + Verisk Insurance-Adjusted Flood Model** | S&P Global Sustainable1 + Verisk | Physical climate risk (insurance-adjusted) | Launched Feb 2026 | First insurance-adjusted climate risk intelligence: S&P climate-adjusted inland flood data combined with Verisk catastrophe event simulations via Touchstone platform; projects flood risk through 2050 for insurers, banks, real estate investors | Feb 17, 2026 |
 
 ---
 
@@ -245,6 +271,9 @@
 | **FEMA BRIC FY24/25 Application Window** | FEMA | Mar 25 – Jul 23, 2026 | USA | $1bn for infrastructure disaster mitigation; applications open to states, local govts, territories, tribes |
 | **World Bank Spring Meetings DFI–Mayors Roundtable** | World Bank + DFIs | Apr 2026 | Washington DC, USA | High-level roundtable "Scaling Sustainable Investment in Cities"; focused on accelerating DFI finance flows to cities for efficient and resilient urban development |
 | **Emberpoint Launch** | PG&E, Lockheed Martin, Salesforce, Wells Fargo | Jan 26, 2026 | USA | Launch of wildfire prevention/detection/response JV; $100mn+ committed; targeting 2026 demonstrations |
+| **AdapTech Accelerator Launch** | MaRS Discovery District + Definity Financial | Nov 19, 2025 | Canada | Canada's first climate adaptation tech accelerator; up to 10 startups; focus: flood/wildfire, building resilience, heat, air quality, grid; applications Jan 2026; inaugural cohort Apr 2026 |
+| **EU Climate Resilience Framework Consultation** | European Commission | Dec 1, 2025 – Feb 23, 2026 | EU | Input period for Q4 2026 legislative package on climate risk and resilience; strong support for mandatory resilience-by-design in public spending and harmonized risk assessment standards |
+| **Google.org AI for Science Impact Challenge** | Google.org | Deadline Apr 17, 2026 | Global | $30mn in grants for nonprofit/academic AI projects covering climate resilience and health |
 
 ---
 
@@ -270,6 +299,9 @@
 | **Markwayne Mullin Appointment as DHS Secretary** | USA (federal) | Effective Mar 2026 | Replaced Kristi Noem (removed Mar 5, 2026); reversed Noem's $100K+ personal-approval spending rule; released $1bn+ in backlogged FEMA grants and reimbursements; said FEMA should be restructured, not eliminated | Mar 2026 |
 | **UK Climate Change Committee New Appointments** | UK | Effective Apr 6, 2026 | Three new members: Prof. Laura Díaz Anadón (Cambridge, IPCC AR6/7 lead author), Prof. Andrew Jordan (Tyndall Centre, EU policy), Emily Norton (agriculture/land use); 5-year terms; Nigel Topping CMG is Chair (since Jul 2025) | Apr 2026 |
 | **US Banking Regulators Withdraw Climate Risk Principles** | USA (federal) | Withdrawn Oct 2025 | OCC, Federal Reserve, and FDIC jointly withdrew interagency climate-related financial risk management principles for large banks; former Fed NY climate lead Kevin Stiroh (now at Resources for the Future) called it a setback for the climate risk profession | Oct 2025 |
+| **EU Climate Resilience Legislative Framework** | EU | Consultation completed Feb 23, 2026; legislative package Q4 2026 | European Commission consultation (Dec 2025 – Feb 23, 2026) on climate risk/resilience legislation; outcomes: strong support for mandatory resilience-by-design in public spending, harmonized risk assessment standards, stable long-term adaptation funding; EU Scientific Advisory Board issued 5 formal recommendations Feb 17, 2026 | Feb 2026 |
+| **NZAM Relaunch — Adaptation/Resilience Added to Scope** | Global (voluntary initiative) | Relaunched Feb 25, 2026 | Net Zero Asset Managers initiative updated Commitment Statement now explicitly includes adaptation and resilience as named investment frameworks; 250+ signatories; BlackRock, Vanguard, JP Morgan AM had departed pre-relaunch | Feb 25, 2026 |
+| **FEMA Workforce Cuts / "Katrina Declaration"** | USA (federal) | Active (2025–26) | ~1,000 FEMA workers facing job losses under Trump/Noem restructuring; FEMA employees signed open letter to Congress ("Katrina Declaration") warning disaster-response capacity at risk; White House FEMA Review Council met Dec 11 with final restructuring recommendations | Mar 2026 |
 
 ---
 
@@ -299,6 +331,13 @@
 | 20 | Global Finance Lab Finalists, Carney's Arctic Play, Google's AI Flash Flood Forecaster, and More | Mar 16, 2026 | /p/global-finance-lab-finalists-carney-s-arctic-play-google-s-ai-flash-flood-forecaster-and-more | ✅ |
 | 21 | Corporate America Enters the Wildfire War | Mar 12, 2026 | /p/corporate-america-enters-the-wildfire-war | ✅ |
 | 22 | Kate Stein on Confronting America's Uninsurability Crisis | Mar 2026 | /p/kate-stein-on-confronting-america-s-uninsurability-crisis | ✅ |
+| 23 | Insurer Survey Spotlights Climate Preparedness Gap, Noem's Ouster, JP Morgan's AdapTech Review | Mar 2026 | /p/insurer-survey-spotlights-climate-preparedness-gap-noem-s-ouster-jp-morgan-s-adaptech-review-and-mor | ✅ |
+| 24 | AXA, Munich Re Turn to Satellites to Tame Climate Risk | Mar 5, 2026 | /p/axa-munich-re-turn-to-satellites-to-tame-climate-risk | ✅ |
+| 25 | Revamped Finance Alliance Highlights Resilience, EU Climate Risk Framework Feedback, Neural Earth Closes Seed | Feb 25, 2026 | /p/revamped-finance-alliance-highlights-resilience-eu-climate-risk-framework-feedback-neural-earth-clos | ✅ |
+| 26 | Adaptation10: Urban Resilience | Feb 26, 2026 | /p/adaptation10-urban-resilience | ✅ |
+| 27 | People Moves: Smart Switches — S&P for Bloomberg, Erlandsson Exits Anthropocene Fixed Income Institute | Feb 25, 2026 | /p/people-moves-smart-switches-s-p-for-bloomberg-erlandsson-exits-anthropocene-fixed-income-institute | ✅ |
+| 28 | Climate Risks & Government Borrowing Costs, EU Must Urgently Strengthen Adaptation, Verisk–S&P Partnership | Feb 19, 2026 | /p/climate-risks-amp-government-borrowing-costs-eu-must-urgently-strengthen-adaptation-verisk-s-p-partn | ✅ |
+| 29 | Adaptation Finance's Growth Spurt Calls for a Tune-Up | Feb 19, 2026 | /p/adaptation-finance-s-growth-spurt-calls-for-a-tune-up | ✅ |
 
-**Remaining unprocessed:** 333 issues  
+**Remaining unprocessed:** 326 issues  
 **Full archive URL list:** See `newsletter_urls.md`
