@@ -14,7 +14,7 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/idb-debuts-new-climate-finance-initiative-un-official-calls-for-real-world-action-ai-driven-weather
 - ✅ https://www.climateproof.news/p/activating-blended-finance-for-resilient-infrastructure-the-climate-threat-to-elections-overstory-s
 - https://www.climateproof.news/p/adaptation10-adaptation-sommeliers
-- https://www.climateproof.news/p/jakob-thom-on-how-markets-and-governments-could-respond-to-climate-shocks
+- ✅ https://www.climateproof.news/p/jakob-thom-on-how-markets-and-governments-could-respond-to-climate-shocks
 - ✅ https://www.climateproof.news/p/deal-structure-mismatch-stops-private-investors-from-adapting-cities-feds-grapple-with-colorado-rive
 - ✅ https://www.climateproof.news/p/inside-the-hail-lab-confronting-a-30-billion-challenge
 - ✅ https://www.climateproof.news/p/eu-natural-catastrophe-fund-california-s-wildfire-resiliency-study-xoople-s-130mn-raise-and-more
@@ -40,13 +40,13 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/people-moves-smart-switches-s-p-for-bloomberg-erlandsson-exits-anthropocene-fixed-income-institute
 - ✅ https://www.climateproof.news/p/climate-risks-amp-government-borrowing-costs-eu-must-urgently-strengthen-adaptation-verisk-s-p-partn
 - ✅ https://www.climateproof.news/p/adaptation-finance-s-growth-spurt-calls-for-a-tune-up
-- https://www.climateproof.news/p/cre-dit-agricole-fined-over-climate-risk-failings-trump-scraps-endangerment-finding-open-climate-ris
-- https://www.climateproof.news/p/climate-adaptation-laws-are-booming-but-still-falling-short
-- https://www.climateproof.news/p/climate-economic-models-under-fire-europeans-lagging-on-household-resilience-ai-native-weather-satel
-- https://www.climateproof.news/p/how-to-guide-for-adaptation-finance-vehicles-america-s-disaster-aid-bottleneck-wildfire-tech-collab
+- ✅ https://www.climateproof.news/p/cre-dit-agricole-fined-over-climate-risk-failings-trump-scraps-endangerment-finding-open-climate-ris
+- ✅ https://www.climateproof.news/p/climate-adaptation-laws-are-booming-but-still-falling-short
+- ✅ https://www.climateproof.news/p/climate-economic-models-under-fire-europeans-lagging-on-household-resilience-ai-native-weather-satel
+- ✅ https://www.climateproof.news/p/how-to-guide-for-adaptation-finance-vehicles-america-s-disaster-aid-bottleneck-wildfire-tech-collab
 - https://www.climateproof.news/p/adaptation10-extreme-cold-snow-ice
-- https://www.climateproof.news/p/people-moves-bhattacharya-joins-tailwind-futures-vanston-out-at-msci-financial-institutions-seek-cli
-- https://www.climateproof.news/p/ai-analysis-reveals-corporate-s-extreme-weather-costs-uk-warns-of-biodiversity-loss-threat-to-nation
+- ✅ https://www.climateproof.news/p/people-moves-bhattacharya-joins-tailwind-futures-vanston-out-at-msci-financial-institutions-seek-cli
+- ✅ https://www.climateproof.news/p/ai-analysis-reveals-corporate-s-extreme-weather-costs-uk-warns-of-biodiversity-loss-threat-to-nation
 - https://www.climateproof.news/p/the-un-s-new-adaptation-metrics-need-eyes-in-the-sky
 - https://www.climateproof.news/p/europe-calculates-adaptation-shortfall-climate-slips-down-global-risk-agenda-supply-chain-tech-compa
 - https://www.climateproof.news/p/is-california-s-wildfire-bond-a-missed-opportunity
