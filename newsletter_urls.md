@@ -47,14 +47,14 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - https://www.climateproof.news/p/adaptation10-extreme-cold-snow-ice
 - ✅ https://www.climateproof.news/p/people-moves-bhattacharya-joins-tailwind-futures-vanston-out-at-msci-financial-institutions-seek-cli
 - ✅ https://www.climateproof.news/p/ai-analysis-reveals-corporate-s-extreme-weather-costs-uk-warns-of-biodiversity-loss-threat-to-nation
-- https://www.climateproof.news/p/the-un-s-new-adaptation-metrics-need-eyes-in-the-sky
-- https://www.climateproof.news/p/europe-calculates-adaptation-shortfall-climate-slips-down-global-risk-agenda-supply-chain-tech-compa
-- https://www.climateproof.news/p/is-california-s-wildfire-bond-a-missed-opportunity
-- https://www.climateproof.news/p/us-municipal-climate-risks-mapped-congress-rejects-cuts-to-noaa-nasa-ai-powered-disease-control-tech
-- https://www.climateproof.news/p/adapt-or-absorb-the-hit-what-us-ceos-said-about-climate-risk-in-q4
+- ✅ https://www.climateproof.news/p/the-un-s-new-adaptation-metrics-need-eyes-in-the-sky
+- ✅ https://www.climateproof.news/p/europe-calculates-adaptation-shortfall-climate-slips-down-global-risk-agenda-supply-chain-tech-compa
+- ✅ https://www.climateproof.news/p/is-california-s-wildfire-bond-a-missed-opportunity
+- ✅ https://www.climateproof.news/p/us-municipal-climate-risks-mapped-congress-rejects-cuts-to-noaa-nasa-ai-powered-disease-control-tech
+- ✅ https://www.climateproof.news/p/adapt-or-absorb-the-hit-what-us-ceos-said-about-climate-risk-in-q4
 - ✅ https://www.climateproof.news/p/2025-s-extreme-weather-toll-trump-s-attack-on-us-climate-hub-zestyai-tapped-by-trustage
-- https://www.climateproof.news/p/the-adaptation-turning-points-of-2025
-- https://www.climateproof.news/p/people-moves-howden-climate-resilience-exec-departs-ey-appoints-new-climate-change-lead-nvidia-seeks
+- ✅ https://www.climateproof.news/p/the-adaptation-turning-points-of-2025
+- ✅ https://www.climateproof.news/p/people-moves-howden-climate-resilience-exec-departs-ey-appoints-new-climate-change-lead-nvidia-seeks
 - https://www.climateproof.news/p/mckinsey-flags-cooling-irrigation-adaptation-costs-fema-overhaul-confusion-klarna-s-ai-for-resilienc
 - https://www.climateproof.news/p/adaptation-tech-finds-a-foothold-in-vc-but-lps-still-need-convincing
 - https://www.climateproof.news/p/will-everill-on-making-pests-invasives-bio-risk-tech-the-next-adaptation-frontier
