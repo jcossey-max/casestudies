@@ -55,13 +55,13 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/2025-s-extreme-weather-toll-trump-s-attack-on-us-climate-hub-zestyai-tapped-by-trustage
 - ✅ https://www.climateproof.news/p/the-adaptation-turning-points-of-2025
 - ✅ https://www.climateproof.news/p/people-moves-howden-climate-resilience-exec-departs-ey-appoints-new-climate-change-lead-nvidia-seeks
-- https://www.climateproof.news/p/mckinsey-flags-cooling-irrigation-adaptation-costs-fema-overhaul-confusion-klarna-s-ai-for-resilienc
-- https://www.climateproof.news/p/adaptation-tech-finds-a-foothold-in-vc-but-lps-still-need-convincing
+- ✅ https://www.climateproof.news/p/mckinsey-flags-cooling-irrigation-adaptation-costs-fema-overhaul-confusion-klarna-s-ai-for-resilienc
+- ✅ https://www.climateproof.news/p/adaptation-tech-finds-a-foothold-in-vc-but-lps-still-need-convincing
 - https://www.climateproof.news/p/will-everill-on-making-pests-invasives-bio-risk-tech-the-next-adaptation-frontier
-- https://www.climateproof.news/p/eu-urged-to-tackle-resilience-financing-challenge-climate-risk-study-retracted-rhizome-partners-with
-- https://www.climateproof.news/p/how-is-adaptation-finance-faring-post-usaid
-- https://www.climateproof.news/p/mike-williams-on-scaling-real-estate-resilience
-- https://www.climateproof.news/p/adaptation-climbs-global-investor-agenda-eu-launches-climate-resilience-consultation-zillow-climate
+- ✅ https://www.climateproof.news/p/eu-urged-to-tackle-resilience-financing-challenge-climate-risk-study-retracted-rhizome-partners-with
+- ✅ https://www.climateproof.news/p/how-is-adaptation-finance-faring-post-usaid
+- ✅ https://www.climateproof.news/p/mike-williams-on-scaling-real-estate-resilience
+- ✅ https://www.climateproof.news/p/adaptation-climbs-global-investor-agenda-eu-launches-climate-resilience-consultation-zillow-climate
 - https://www.climateproof.news/p/adaptation10-geospatial-earth-observation-technology
 - https://www.climateproof.news/p/ana-mulio-alvarez-on-cop30-s-adaptation-highs-lows
 - https://www.climateproof.news/p/cop30-adaptation-wins-fails-epa-to-limit-wetlands-protections-and-more

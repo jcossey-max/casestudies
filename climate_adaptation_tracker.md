@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-05-11  
-**Issues processed:** 43 of 355  
+**Last updated:** 2026-05-12  
+**Issues processed:** 49 of 355  
 
 ---
 
@@ -59,6 +59,10 @@
 | **US Congressional Climate Data "Minibus" Package** | US Congress (bipartisan) | USA | Climate data infrastructure | $467bn bipartisan 3-bill package preserves NOAA funding at $6.1–6.2bn (includes $1.46bn weather prediction, $10mn staffing increase for forecast offices); NASA Earth Science: $2.2bn (including Landsat Next mission); passed ahead of Jan 30, 2026 shutdown deadline | $467bn package | Jan 14, 2026 |
 | **USAID Climate Finance Dismantling** | US Government / DOGE | Global South | Adaptation finance / institutional resilience | Near-erasure of USAID severed ~$500mn/year in climate programs; cut water security (Peru), agricultural resilience (Colombia), and other Global South adaptation projects; disrupted blended-finance ecosystem that had crowded in private capital; ranked top adaptation "turning point" of 2025 by Climate Proof | — | Dec 2025 |
 | **S&P 500 Q4 Earnings Climate Risk Analysis ("Adapt or Absorb the Hit")** | Climate Proof (analysis) | USA (S&P 500 companies) | Physical risk / corporate resilience | Climate Proof analysis of S&P 500 Q4 earnings calls; theme: split between companies proactively investing in adaptation vs. absorbing losses from extreme weather; Utilities, Industrials, Consumer Discretionary sectors most climate-impacted in calls | — | Jan 2026 |
+| **Klarna AI for Climate Resilience Program** | Klarna / Milkywire | Global (LMIC focus) | AI / community adaptation | Grants up to $300K for local innovators in lower- and middle-income countries building AI tools for adaptation and resilience; 18-month mentoring and technical support; 1,200+ proposals received; grantees include SEEDS (India — AI disaster loss verification), Acres of Ice (man-made glaciers for irrigation), Geotek Water Solutions (Nigeria — AI-detected hidden water sources), SEWA/IFPRI (India — AI weather advisor for women workers), Sakawarga Foundation (Indonesia — disaster preparedness), GainForest (LatAm — Indigenous forest monitoring) | — | Dec 2025 |
+| **Rhizome gridFIRM Deployment at National Grid** | Rhizome / National Grid | Massachusetts, New York, UK | Wildfire / grid resilience | gridFIRM AI platform deployed across National Grid's electric T&D networks to map wildfire ignition risks at asset level; combines climate data, infrastructure characteristics, and terrain analysis; NY/MA had 2,626 wildfires in 2024 (2× prior year); Rhizome raised $6.5mn seed (Base10 Partners, MCJ, Convective Capital, Streetlife Ventures) | $6.5mn (Rhizome seed) | Dec 2025 |
+| **SCALE Climate Adaptation Platform (COP30 Launch)** | The Lightsmith Group / GEF / Norwegian Ministry of Foreign Affairs | Global | Climate adaptation investment / blended finance | Announced at COP30 Belém; aspires to be a "virtual green bank" for adaptation offering equity and credit instruments plus technical assistance; GEF + Norway MFA funding for development and launch; targets businesses needing climate-proofing capital across asset classes | — | Dec 2025 |
+| **IDB Brazil Foreign Private Capital Mobilization Program** | IDB / Brazil (National Climate Change Fund / Central Bank) | Brazil | Climate finance / currency hedging | $2bn line of credit supporting Brazil's Foreign Private Capital Mobilization and Currency Hedging Program via National Climate Change Fund; works with Central Bank of Brazil to develop long-term exchange-rate protection market for foreign currency | $2bn | Dec 2025 |
 
 ---
 
@@ -91,6 +95,9 @@
 | **Net Zero Asset Managers (NZAM) Initiative** | Asset manager coalition | Global | Climate investing including adaptation/resilience | Relaunched Feb 25, 2026 with 250+ signatories; updated Commitment Statement now explicitly names adaptation and resilience as investment frameworks alongside decarbonization and climate solutions; BlackRock, Vanguard, JP Morgan AM departed pre-relaunch | Feb 25, 2026 |
 | **Anthropocene Fixed Income Institute (AFII)** | Fixed income research / advocacy | Global | Climate-focused fixed income investing research | Founder/CEO Ulf Erlandsson stepped down Apr 2026, returning to AP4 as Senior Fixed Income Portfolio Manager; Justine Leigh-Bell (co-CEO since Jul 2025; former Climate Bonds Initiative Deputy CEO) appointed CEO | Feb 25, 2026 |
 | **Tailwind Futures** | Investment / adaptation finance | USA | Climate adaptation investment strategy | Arindam Bhattacharya (ex-Schlumberger SLB New Energy, incubated clean energy ventures) joined as Managing Partner; focused on adaptation finance opportunity | Jan 29, 2026 |
+| **Streetlife Ventures** | VC firm | New York, USA | Climate adaptation tech for cities | First fund targeting close in 2026; adaptation portfolio includes Rhizome, Eztia Materials, ThreeV; co-founder Laura Fox notes LP interest rising as disasters hit headlines and P&Ls; focus areas: cities, buildings, water, mobility, adaptive tech | Dec 2025 |
+| **Burnt Island Ventures** | VC firm | — | Water-focused adaptation tech | Closed second $50mn fund Oct 2025; water sector had 7 liquidity events >$1bn in 2025 including acquisitions of Seven Seas and Ovivo; LP interest in water adaptation running high | Oct 2025 |
+| **Insurance Development Forum (IDF)** | Industry initiative | London, UK | Resilient infrastructure investment / insurance-backed finance | Infrastructure Resilience Development Fund (IDF-IRDF) achieved first close (backed by BlackRock and AXA); targets investment in resilient infrastructure to close protection gaps globally | Dec 2025 |
 
 ### Insurance
 
@@ -143,6 +150,9 @@
 | **CarbonPlan** | San Francisco, USA | Climate risk data / transparency | Open climate risk data for adaptation | Launched Open Climate Risk platform: free, transparent, address-level wildfire risk scores with open methodology, data, and code — democratic alternative to proprietary commercial models | Feb 2026 |
 | **Tive** | Boston, USA | Supply chain visibility / IoT tracking | Climate risk management for in-transit goods | Raised $20mn led by Lightsmith Group; real-time monitoring of temperature, humidity, shock, and location of in-transit shipments across 186 countries; 3.5M+ trackers sold; provides early warning of climate-linked supply chain disruptions | Jan 20, 2026 |
 | **SORA Technology** | Japan | AI + drone disease vector control | Climate-adaptive infectious disease management | Raised additional $2.5mn (total $7.3mn); platform fuses satellite data, drone surveillance, and ML to map malaria outbreaks; guides real-time vector control responses; deployed 10+ countries; Africa expansion; partners include WHO and Unitaid | Jan 14, 2026 |
+| **Rhizome** | USA | AI wildfire and grid risk analytics | Utility wildfire risk management and infrastructure resilience | gridFIRM platform: quantifies long-term wildfire risk at utility asset level; integrates climate data, infrastructure characteristics, and terrain analysis; raised $6.5mn seed (Base10 Partners, MCJ, CLAI, Convective Capital, Streetlife Ventures); deployed at National Grid (MA, NY, UK) | Dec 2025 |
+| **ClimateFirst (RWDI)** | Canada | Physical climate risk software for buildings | Commercial real estate climate risk assessment and resilience planning | Platform quantifies climate risks to commercial buildings and produces resiliency plans; partners include BMO Climate Institute and IMCO; case study: $250K flood protection investment reduced projected losses by $3.6M; Dec 2025 study cloned a multifamily building across 9 US locations with different hazard profiles | Dec 2025 |
+| **Klarna** | Stockholm, Sweden | Fintech / AI platforms | AI adaptation tools in lower- and middle-income countries | Launched "AI for Climate Resilience Program" with Milkywire; grants up to $300K per recipient plus 18-month mentoring; 1,200+ proposals received from global innovators; focus: early-warning systems, resource management, disaster preparedness in LMIC communities | Dec 2025 |
 
 ### Research, Policy & NGOs
 
@@ -177,6 +187,8 @@
 | **World Economic Forum** | International convening / research | Geneva, Switzerland | Global Risks Report 2026 (Jan 2026): only 8% of experts cited extreme weather as top short-term crisis driver (down from 14% prior year); climate/environmental risks remain top 5 long-term threats but deprioritized short-term amid geopolitical and economic competition — signals headwinds for adaptation finance and policy | Jan 20, 2026 |
 | **EY (Ernst & Young)** | Professional services | London, UK | Alexis Gazzo appointed Global Leader, Climate Change and Sustainability Services; replaces Matthew Bell who departed to lead Anthesis; signals continued expansion of corporate sustainability/adaptation advisory practices | Dec 2025 |
 | **Anthesis** | Sustainability consultancy | London, UK | Matthew Bell (ex-EY Global Climate Leader) named CEO of pure-play sustainability advisory and solutions firm; reflects growth in dedicated climate adaptation advisory sector | Dec 2025 |
+| **McKinsey Global Institute** | Research | New York, USA | Published major adaptation costs analysis (Dec 2025): world spends $190bn/year on 20 adaptation measures covering 1.2bn people; $1.2trn/year needed at 2°C warming to extend developed-economy standards to all exposed; $540bn/year to protect an additional 3bn in low-income regions; air conditioning = 40% of adaptation costs; adaptation benefits exceed costs ~7× | Dec 2025 |
+| **First Street** | Climate risk analytics | New York, USA | Provides property-level flood, fire, heat, and wind risk data; Zillow removed First Street-powered climate risk scores from listings (~Nov 30, 2025) after real estate agent and industry pressure; Redfin, Realtor.com, Homes.com continue displaying First Street climate risk data; removal sparked debate over climate risk disclosure obligations in real estate markets | Dec 2025 |
 
 ---
 
@@ -230,6 +242,12 @@
 | Golden Bear Re 2025-1 Wildfire Cat Bond | California FAIR Plan | $750mn | California, USA | Wildfire reinsurance; largest pure wildfire cat bond ever issued; per-occurrence indemnity trigger; 3-year term to Dec 2028; 9.75% spread | Dec 2025 |
 | Tive Growth Round | The Lightsmith Group (lead) + Sageview Capital, World Innovation Lab, AVP, Supply Chain Ventures | $20mn | USA (global operations) | Supply chain climate resilience technology | Jan 13, 2026 |
 | SORA Technology Seed Extension | Daiwa House Group, Central Japan Innovative Research Fund, UNERI Capital | $2.5mn (total $7.3mn) | Japan / Africa | AI + drone infectious disease vector control (climate-adaptive health) | Jan 5, 2026 |
+| Rhizome Seed Round | Base10 Partners, MCJ, CLAI, Convective Capital, Streetlife Ventures | $6.5mn | USA | AI wildfire / grid risk analytics platform | Dec 2025 |
+| Burnt Island Ventures Fund II | Burnt Island Ventures | $50mn | Global | Water-focused adaptation tech VC | Oct 2025 |
+| IDB Brazil Foreign Private Capital Mobilization Program | IDB / Brazil National Climate Change Fund | $2bn | Brazil | Climate finance / currency hedging for private capital | Dec 2025 |
+| IDF Infrastructure Resilience Development Fund (IDF-IRDF) | Insurance Development Forum / BlackRock / AXA | — (first close) | Global | Resilient infrastructure investment backed by major insurers and asset managers | Dec 2025 |
+| Klarna AI for Climate Resilience Grants | Klarna / Milkywire | Up to $300K/grant | Global (LMIC focus) | AI tools for community adaptation and resilience in lower- and middle-income countries | Dec 2025 |
+| SCALE Platform Development Funding | The Lightsmith Group / GEF / Norwegian Ministry of Foreign Affairs | — | Global | Climate adaptation investment platform ("virtual green bank") for equity, credit, and technical assistance | Dec 2025 (COP30) |
 
 ---
 
@@ -273,6 +291,8 @@
 | **Tive Supply Chain Tracker** | Tive | Real-time climate risk monitoring for in-transit goods | Commercial (3.5M+ trackers, 186 countries) | Monitors temperature, humidity, shock, and location of in-transit shipments; early warning of climate-linked supply chain disruptions; enables proactive rerouting and risk management | Jan 20, 2026 |
 | **SORA Disease Vector Control Platform** | SORA Technology | AI-powered climate-adaptive disease control | Deployed (10+ countries, Africa expansion) | Fuses satellite data, drone surveillance, and ML for malaria outbreak mapping and real-time vector control; scalable to new geographies; addresses climate-driven disease spread | Jan 14, 2026 |
 | **GGA Satellite Adaptation Indicator Framework** | ESA Φ-lab + academic consortium | Measuring adaptation progress under UN Global Goal on Adaptation | Research / proposed standard (pre-COP30) | Satellite-derived indicators covering agriculture, biodiversity, extreme events, and health; advocates EO-compatible definitions to make GGA progress measurable and reviewable; supports 2026 Global Stocktake | Jan 23, 2026 |
+| **gridFIRM** | Rhizome | Wildfire ignition risk management for utility infrastructure | Commercial (National Grid deployed; Base10 / Convective Capital-backed) | Quantifies long-term wildfire risk at utility asset level; integrates climate data, infrastructure characteristics, and terrain analysis to identify spark-risk points; deployed across National Grid's T&D networks in Massachusetts, New York, and UK | Dec 2025 |
+| **ClimateFirst Building Risk Platform** | ClimateFirst (RWDI) | Physical climate risk assessment and resilience planning for commercial buildings | Commercial (Canada and NE USA) | Quantifies hazard exposure (flood, heat, wind, hurricane) for individual buildings; generates tailored resiliency plans; ROI case study (with BMO Climate Institute + IMCO): $250K flood protection investment → $3.6M projected loss reduction | Dec 2025 |
 
 ---
 
@@ -339,6 +359,10 @@
 | **US Congressional Bipartisan NOAA/NASA Funding ("Minibus")** | USA (federal) | Passed Jan 2026 | Three bipartisan bills totaling $467bn kept government open ahead of Jan 30, 2026 shutdown deadline; NOAA: $6.1–6.2bn near-level (includes $1.46bn weather prediction, $10mn forecast office staffing increase); NASA Earth Science: $2.2bn (Landsat Next constellation); counters proposed Trump administration cuts to climate data infrastructure | Jan 14, 2026 |
 | **UN GGA Indicator EO Framework Advocacy** | UNFCCC / ESA Φ-lab / academic consortium | In development (Jan 2026, pre-COP30) | ESA Φ-lab and npj Climate Atmospheric Science study argued satellite-derived Earth Observation can supply data for majority of 100 proposed GGA indicators; called for EO-compatible definitions to make indicators measurable without physical infrastructure; 100 COP29-proposed indicators later consolidated to 59 Belém indicators at COP30 | Jan 23, 2026 |
 | **USAID Climate Program Cancellation** | USA (federal) | Effected Jan 2025 | DOGE-led near-erasure of USAID: 83% of global USAID projects cancelled; ~$500mn/year in climate programs eliminated; severed water security (Peru), ag resilience (Colombia), and other adaptation projects across Global South; identified as most consequential setback for Global South climate adaptation in 2025 | Dec 2025 |
+| **EU Reflection Group Report on Mobilizing Climate Resilience Financing** | EU (European Commission) | Final report Dec 2, 2025 | High-level group of climate and financial professionals convened under 2024 Climate Risk Communication; proposed: Climate Resilience Project Pipeline (helping local authorities access financing), EU-wide digital blended finance platform, EU observatory on insurability to enhance risk awareness; called for overhaul of EU resilience financing to address mounting physical and economic risks | Dec 2025 |
+| **Nature Climate Economic Study Retraction** | Nature / Global (science) | Retracted Dec 3, 2025 | "The economic commitment of climate change" retracted by authors after errors found in Uzbekistan economic data (1995–1999); original paper projected 19% global income drop by 2050 (~$38trn/year impact); revised estimate: 17% drop; widely used by central banks (incl. ECB) as basis for climate economic risk assessments | Dec 3, 2025 |
+| **FEMA Overhaul Proposal ("FEMA 2.0")** | USA (federal) | Leaked draft; panel meeting canceled | Trump-appointed review panel's leaked draft recommended 50% FEMA workforce cuts and rebranding agency as "FEMA 2.0"; panel canceled its formal meeting after recommendations leaked; White House FEMA Review Council met Dec 11, 2025; part of broader Trump administration push to restructure federal disaster response capacity | Dec 2025 |
+| **Zillow Climate Risk Rating Removal** | USA (private sector / real estate) | Enacted ~Nov 30, 2025 | Zillow removed First Street-powered climate risk scores and color-coded risk maps from US home listings after pressure from real estate agents and California Regional MLS (who argued ratings hurt sales and relied on inaccurate models); Zillow still hyperlinks to First Street data; Redfin, Realtor.com, Homes.com continue showing First Street climate risk data; sparked wider debate over climate risk disclosure obligations in property markets | Nov/Dec 2025 |
 
 ---
 
@@ -389,6 +413,12 @@
 | 41 | Adapt or Absorb the Hit — What US CEOs Said About Climate Risk in Q4 | Jan 2026 | /p/adapt-or-absorb-the-hit-what-us-ceos-said-about-climate-risk-in-q4 | ✅ |
 | 42 | The Adaptation Turning Points of 2025 | Dec 2025 | /p/the-adaptation-turning-points-of-2025 | ✅ |
 | 43 | People Moves: Howden Climate Resilience Exec Departs, EY Appoints New Climate Change Lead, Nvidia Seeks Weather and Climate Business Manager | Dec 2025 | /p/people-moves-howden-climate-resilience-exec-departs-ey-appoints-new-climate-change-lead-nvidia-seeks | ✅ |
+| 44 | McKinsey Flags Cooling, Irrigation Adaptation Costs, FEMA Overhaul Confusion, Klarna's AI for Resilience Push | Dec 2025 | /p/mckinsey-flags-cooling-irrigation-adaptation-costs-fema-overhaul-confusion-klarna-s-ai-for-resilienc | ✅ |
+| 45 | Adaptation Tech Finds a Foothold in VC, but LPs Still Need Convincing | Dec 2025 | /p/adaptation-tech-finds-a-foothold-in-vc-but-lps-still-need-convincing | ✅ |
+| 46 | EU Urged to Tackle Resilience Financing Challenge, Climate Risk Study Retracted, Rhizome Partners with National Grid | Dec 11, 2025 | /p/eu-urged-to-tackle-resilience-financing-challenge-climate-risk-study-retracted-rhizome-partners-with | ✅ |
+| 47 | How is Adaptation Finance Faring Post-USAID? | Dec 2025 | /p/how-is-adaptation-finance-faring-post-usaid | ✅ |
+| 48 | Mike Williams on Scaling Real Estate Resilience | Dec 2, 2025 | /p/mike-williams-on-scaling-real-estate-resilience | ✅ |
+| 49 | Adaptation Climbs Global Investor Agenda, EU Launches Climate Resilience Consultation, Zillow Climate Risk Ratings Furor | Dec 2025 | /p/adaptation-climbs-global-investor-agenda-eu-launches-climate-resilience-consultation-zillow-climate | ✅ |
 
-**Remaining unprocessed:** 312 issues  
+**Remaining unprocessed:** 306 issues  
 **Full archive URL list:** See `newsletter_urls.md`
