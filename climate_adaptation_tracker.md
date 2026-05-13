@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-05-12  
-**Issues processed:** 49 of 355  
+**Last updated:** 2026-05-13  
+**Issues processed:** 55 of 355  
 
 ---
 
@@ -63,6 +63,7 @@
 | **Rhizome gridFIRM Deployment at National Grid** | Rhizome / National Grid | Massachusetts, New York, UK | Wildfire / grid resilience | gridFIRM AI platform deployed across National Grid's electric T&D networks to map wildfire ignition risks at asset level; combines climate data, infrastructure characteristics, and terrain analysis; NY/MA had 2,626 wildfires in 2024 (2× prior year); Rhizome raised $6.5mn seed (Base10 Partners, MCJ, Convective Capital, Streetlife Ventures) | $6.5mn (Rhizome seed) | Dec 2025 |
 | **SCALE Climate Adaptation Platform (COP30 Launch)** | The Lightsmith Group / GEF / Norwegian Ministry of Foreign Affairs | Global | Climate adaptation investment / blended finance | Announced at COP30 Belém; aspires to be a "virtual green bank" for adaptation offering equity and credit instruments plus technical assistance; GEF + Norway MFA funding for development and launch; targets businesses needing climate-proofing capital across asset classes | — | Dec 2025 |
 | **IDB Brazil Foreign Private Capital Mobilization Program** | IDB / Brazil (National Climate Change Fund / Central Bank) | Brazil | Climate finance / currency hedging | $2bn line of credit supporting Brazil's Foreign Private Capital Mobilization and Currency Hedging Program via National Climate Change Fund; works with Central Bank of Brazil to develop long-term exchange-rate protection market for foreign currency | $2bn | Dec 2025 |
+| **FINI (Fostering Investable National Planning and Implementation for Adaptation Resilience)** | Atlantic Council Climate Resilience Center + NRDC + Climate Champions | Global | Adaptation finance mobilization / NAP implementation | Launched at COP30 Nov 20, 2025; 100+ partner organizations from governments, development banks, investors, insurers, philanthropies, civil society; adopted into NAP Implementation Alliance (COP30 Action Agenda); aims to unlock $1trn in adaptation project pipelines within 3 years with 20% from private sector; supported by COP30 Presidency | $1trn pipeline target | Nov 20, 2025 |
 
 ---
 
@@ -98,6 +99,7 @@
 | **Streetlife Ventures** | VC firm | New York, USA | Climate adaptation tech for cities | First fund targeting close in 2026; adaptation portfolio includes Rhizome, Eztia Materials, ThreeV; co-founder Laura Fox notes LP interest rising as disasters hit headlines and P&Ls; focus areas: cities, buildings, water, mobility, adaptive tech | Dec 2025 |
 | **Burnt Island Ventures** | VC firm | — | Water-focused adaptation tech | Closed second $50mn fund Oct 2025; water sector had 7 liquidity events >$1bn in 2025 including acquisitions of Seven Seas and Ovivo; LP interest in water adaptation running high | Oct 2025 |
 | **Insurance Development Forum (IDF)** | Industry initiative | London, UK | Resilient infrastructure investment / insurance-backed finance | Infrastructure Resilience Development Fund (IDF-IRDF) achieved first close (backed by BlackRock and AXA); targets investment in resilient infrastructure to close protection gaps globally | Dec 2025 |
+| **Z Zurich Foundation** | Corporate philanthropy | Zurich, Switzerland | Climate adaptation programs and strategy | Recruiting Head of Adapting to Climate Change (Nov 2025) to operationalize adaptation goals, drive strategy, and oversee 4-year and annual adaptation plans; signals growing institutional focus on adaptation philanthropy | Nov 19, 2025 |
 
 ### Insurance
 
@@ -153,6 +155,8 @@
 | **Rhizome** | USA | AI wildfire and grid risk analytics | Utility wildfire risk management and infrastructure resilience | gridFIRM platform: quantifies long-term wildfire risk at utility asset level; integrates climate data, infrastructure characteristics, and terrain analysis; raised $6.5mn seed (Base10 Partners, MCJ, CLAI, Convective Capital, Streetlife Ventures); deployed at National Grid (MA, NY, UK) | Dec 2025 |
 | **ClimateFirst (RWDI)** | Canada | Physical climate risk software for buildings | Commercial real estate climate risk assessment and resilience planning | Platform quantifies climate risks to commercial buildings and produces resiliency plans; partners include BMO Climate Institute and IMCO; case study: $250K flood protection investment reduced projected losses by $3.6M; Dec 2025 study cloned a multifamily building across 9 US locations with different hazard profiles | Dec 2025 |
 | **Klarna** | Stockholm, Sweden | Fintech / AI platforms | AI adaptation tools in lower- and middle-income countries | Launched "AI for Climate Resilience Program" with Milkywire; grants up to $300K per recipient plus 18-month mentoring; 1,200+ proposals received from global innovators; focus: early-warning systems, resource management, disaster preparedness in LMIC communities | Dec 2025 |
+| **ISS STOXX / Sust Global** | Frankfurt, Germany / San Francisco, USA | Geospatial AI physical climate risk | Institutional investor portfolio and real asset climate risk assessment | Acquired Sust Global (Aug 5, 2025) for geospatial AI-powered physical climate risk capabilities; launched Real Asset Climate Solutions suite (Oct 2025); models cover 6 hazards (flood, sea level rise, wildfire, heat, cyclone, drought); global coverage; IPCC scenario projections through 2100 | Nov 2025 |
+| **Google Earth AI** | Mountain View, USA | Geospatial AI / climate adaptation planning | Flood exposure, population risk, infrastructure impact assessment | Launched Jul 2025; Gemini-powered agents fuse satellite imagery, population dynamics, and environmental forecasting to answer adaptation-critical questions; part of Google's growing investment in adaptation AI | Nov 2025 |
 
 ### Research, Policy & NGOs
 
@@ -189,6 +193,9 @@
 | **Anthesis** | Sustainability consultancy | London, UK | Matthew Bell (ex-EY Global Climate Leader) named CEO of pure-play sustainability advisory and solutions firm; reflects growth in dedicated climate adaptation advisory sector | Dec 2025 |
 | **McKinsey Global Institute** | Research | New York, USA | Published major adaptation costs analysis (Dec 2025): world spends $190bn/year on 20 adaptation measures covering 1.2bn people; $1.2trn/year needed at 2°C warming to extend developed-economy standards to all exposed; $540bn/year to protect an additional 3bn in low-income regions; air conditioning = 40% of adaptation costs; adaptation benefits exceed costs ~7× | Dec 2025 |
 | **First Street** | Climate risk analytics | New York, USA | Provides property-level flood, fire, heat, and wind risk data; Zillow removed First Street-powered climate risk scores from listings (~Nov 30, 2025) after real estate agent and industry pressure; Redfin, Realtor.com, Homes.com continue displaying First Street climate risk data; removal sparked debate over climate risk disclosure obligations in real estate markets | Dec 2025 |
+| **E3G** | Think tank | London, UK | Ana Mulio Alvarez (Policy Advisor, UNFCCC/Adaptation/Loss & Damage) tracked COP30 GGA indicator negotiations; found final outcome "satisfactory" but flagged last-minute alterations by a small group of negotiators that could render some Belém Adaptation Indicators "unusable"; ongoing global adaptation policy monitoring | Nov 2025 |
+| **Atlantic Council Climate Resilience Center** | Think tank | Washington DC, USA | Co-created FINI initiative with NRDC and Climate Champions at COP30 to make National Adaptation Plans investable; co-chairs UNFCCC NAP Implementation Alliance; focuses on public-private finance alignment for adaptation | Nov 20, 2025 |
+| **NRDC (Natural Resources Defense Council)** | NGO | New York, USA | Co-launched FINI with Atlantic Council at COP30; warned that Trump EPA WOTUS wetlands rollback (Nov 2025) could eliminate protections for 55M acres; promotes adaptation finance transparency and NAP implementation | Nov 2025 |
 
 ---
 
@@ -248,6 +255,8 @@
 | IDF Infrastructure Resilience Development Fund (IDF-IRDF) | Insurance Development Forum / BlackRock / AXA | — (first close) | Global | Resilient infrastructure investment backed by major insurers and asset managers | Dec 2025 |
 | Klarna AI for Climate Resilience Grants | Klarna / Milkywire | Up to $300K/grant | Global (LMIC focus) | AI tools for community adaptation and resilience in lower- and middle-income countries | Dec 2025 |
 | SCALE Platform Development Funding | The Lightsmith Group / GEF / Norwegian Ministry of Foreign Affairs | — | Global | Climate adaptation investment platform ("virtual green bank") for equity, credit, and technical assistance | Dec 2025 (COP30) |
+| UN Adaptation Fund COP30 Pledges | UNFCCC Adaptation Fund | $135mn | Global | Adaptation financing | Nov 22, 2025; Germany €60mn (largest donor); Spain, Sweden, Ireland contributed; UK, European Commission, Canada absent; vs $300mn fundraising target |
+| ISS STOXX Acquisition of Sust Global | ISS STOXX (ISS Sustainable Solutions) | Undisclosed | Global | Geospatial AI physical climate risk analytics | Aug 5, 2025; Sust Global founded 2020 by Josh Gilbert and Gopal Erinjippurath (CA-based); integrated into Real Asset Climate Solutions suite (Oct 2025) |
 
 ---
 
@@ -293,6 +302,8 @@
 | **GGA Satellite Adaptation Indicator Framework** | ESA Φ-lab + academic consortium | Measuring adaptation progress under UN Global Goal on Adaptation | Research / proposed standard (pre-COP30) | Satellite-derived indicators covering agriculture, biodiversity, extreme events, and health; advocates EO-compatible definitions to make GGA progress measurable and reviewable; supports 2026 Global Stocktake | Jan 23, 2026 |
 | **gridFIRM** | Rhizome | Wildfire ignition risk management for utility infrastructure | Commercial (National Grid deployed; Base10 / Convective Capital-backed) | Quantifies long-term wildfire risk at utility asset level; integrates climate data, infrastructure characteristics, and terrain analysis to identify spark-risk points; deployed across National Grid's T&D networks in Massachusetts, New York, and UK | Dec 2025 |
 | **ClimateFirst Building Risk Platform** | ClimateFirst (RWDI) | Physical climate risk assessment and resilience planning for commercial buildings | Commercial (Canada and NE USA) | Quantifies hazard exposure (flood, heat, wind, hurricane) for individual buildings; generates tailored resiliency plans; ROI case study (with BMO Climate Institute + IMCO): $250K flood protection investment → $3.6M projected loss reduction | Dec 2025 |
+| **ISS STOXX Real Asset Climate Solutions** | ISS STOXX / Sust Global | Physical climate risk for institutional investors and real asset portfolios | Commercial (launched Oct 2025) | Geospatial AI models covering 6 hazards (flood, sea level rise, wildfire, heat, drought, cyclones); global coverage; IPCC scenario-based annual projections through 2100; portfolio and asset-level physical risk analysis | Nov 2025 |
+| **Google Earth AI** | Google | Geospatial AI for climate adaptation risk assessment | Launched Jul 2025 | Gemini-powered agents fuse satellite imagery, population dynamics, and environmental forecasting; answers adaptation queries on flood exposure, population risk, and infrastructure impact; part of Google's growing investment in adaptation AI | Nov 2025 |
 
 ---
 
@@ -324,6 +335,7 @@
 | **Google.org AI for Science Impact Challenge** | Google.org | Deadline Apr 17, 2026 | Global | $30mn in grants for nonprofit/academic AI projects covering climate resilience and health |
 | **WEF Annual Meeting / Global Risks Report 2026** | World Economic Forum | Jan 2026 | Davos, Switzerland | Only 8% of experts cited extreme weather as top short-term crisis driver (down from 14%); climate/environmental risks remain top long-term threats; signals headwinds for adaptation finance from geopolitical and economic competition dominating short-term global agenda |
 | **US Congressional "Minibus" Bipartisan Climate Data Package** | US Congress | Jan 2026 | Washington DC, USA | $467bn bipartisan 3-bill package preserves NOAA ($6.1–6.2bn) and NASA Earth Science ($2.2bn); passed ahead of Jan 30 shutdown deadline; signals legislative resistance to proposed Trump administration cuts to climate data agencies |
+| **COP30 Belém Package (Final Outcomes)** | UNFCCC | Nov 22, 2025 | Belém, Brazil | Adaptation finance tripling by 2035 (~$120bn/year from $40bn Glasgow baseline); 59 Belém Adaptation Indicators adopted for GGA; NAP Implementation Alliance launched; Adaptation Fund secured $135mn (vs $300mn target); Germany €60mn lead donor; deal agreed ~1 day past scheduled close |
 
 ---
 
@@ -363,6 +375,10 @@
 | **Nature Climate Economic Study Retraction** | Nature / Global (science) | Retracted Dec 3, 2025 | "The economic commitment of climate change" retracted by authors after errors found in Uzbekistan economic data (1995–1999); original paper projected 19% global income drop by 2050 (~$38trn/year impact); revised estimate: 17% drop; widely used by central banks (incl. ECB) as basis for climate economic risk assessments | Dec 3, 2025 |
 | **FEMA Overhaul Proposal ("FEMA 2.0")** | USA (federal) | Leaked draft; panel meeting canceled | Trump-appointed review panel's leaked draft recommended 50% FEMA workforce cuts and rebranding agency as "FEMA 2.0"; panel canceled its formal meeting after recommendations leaked; White House FEMA Review Council met Dec 11, 2025; part of broader Trump administration push to restructure federal disaster response capacity | Dec 2025 |
 | **Zillow Climate Risk Rating Removal** | USA (private sector / real estate) | Enacted ~Nov 30, 2025 | Zillow removed First Street-powered climate risk scores and color-coded risk maps from US home listings after pressure from real estate agents and California Regional MLS (who argued ratings hurt sales and relied on inaccurate models); Zillow still hyperlinks to First Street data; Redfin, Realtor.com, Homes.com continue showing First Street climate risk data; sparked wider debate over climate risk disclosure obligations in property markets | Nov/Dec 2025 |
+| **EPA WOTUS Wetlands Rollback** | USA (federal) | Proposed Nov 17, 2025 | Trump EPA and Army Corps proposed new Waters of the United States rule restricting federal Clean Water Act protections to wetlands with continuous surface water and direct connection to regulated waterways; could eliminate protections for ~55M acres (85% of US wetlands); removes flood-buffering capacity that absorbs up to 1.5M gallons/acre; 45-day public comment period | Nov 25, 2025 |
+| **COP30 Belém Adaptation Finance Goal ("Global Mutirão")** | UNFCCC | Agreed Nov 22, 2025 | Tripling adaptation finance by 2035 (implied baseline: $40bn/year from Glasgow 2021 → ~$120bn/year new target); sub-target within NCQG framework; part of "Baku-to-Belém Roadmap" to $1.3trn/year; no explicit baseline stated in text; 2035 target year | Nov 22, 2025 |
+| **COP30 Belém Adaptation Indicators (GGA)** | UNFCCC | Agreed Nov 22, 2025 | 59 voluntary non-prescriptive Belém Adaptation Indicators adopted across 7 sectors (water, food, health, ecosystems, infrastructure, livelihoods, policy process); not linked to access to finance; 2-year operationalization programme; consolidated from 100 COP29-proposed indicators; some last-minute alterations flagged by E3G as potentially rendering indicators "unusable" | Nov 22, 2025 |
+| **NAP Implementation Alliance** | UNFCCC (COP30 Action Agenda) | Launched Nov 22, 2025 | Coordinating body of governments, development banks, multilateral institutions, private investors, philanthropies, and researchers to implement National Adaptation Plans; FINI adopted into Alliance; aims to transform NAPs into bankable projects; part of Belém Package | Nov 22, 2025 |
 
 ---
 
@@ -419,6 +435,12 @@
 | 47 | How is Adaptation Finance Faring Post-USAID? | Dec 2025 | /p/how-is-adaptation-finance-faring-post-usaid | ✅ |
 | 48 | Mike Williams on Scaling Real Estate Resilience | Dec 2, 2025 | /p/mike-williams-on-scaling-real-estate-resilience | ✅ |
 | 49 | Adaptation Climbs Global Investor Agenda, EU Launches Climate Resilience Consultation, Zillow Climate Risk Ratings Furor | Dec 2025 | /p/adaptation-climbs-global-investor-agenda-eu-launches-climate-resilience-consultation-zillow-climate | ✅ |
+| 50 | Adaptation10: Geospatial & Earth Observation Technology | Nov 2025 | /p/adaptation10-geospatial-earth-observation-technology | ✅ |
+| 51 | Ana Mulio Alvarez on COP30's Adaptation Highs and Lows | Nov 2025 | /p/ana-mulio-alvarez-on-cop30-s-adaptation-highs-lows | ✅ |
+| 52 | COP30 Adaptation Wins & Fails, EPA to Limit Wetlands Protections, and More | Nov 25, 2025 | /p/cop30-adaptation-wins-fails-epa-to-limit-wetlands-protections-and-more | ✅ |
+| 53 | Turning Blueprints Into Billions: COP30 Pushes for Investible Adaptation Plans | Nov 20, 2025 | /p/turning-blueprints-into-billions-cop30-pushes-for-investible-adaptation-plans | ✅ |
+| 54 | People Moves: First Street Appoints CTO, MSCI Climate Research Chief Departs, Zurich Foundation Seeks Adaptation Head | Nov 19, 2025 | /p/people-moves-first-street-appoints-cto-msci-climate-research-chief-departs-zurich-foundation-seeks-a | ✅ |
+| 55 | Sabrina Bachrach on the Ground at COP30 | Nov 2025 | /p/sabrina-bachrach-on-the-ground-at-cop30 | ✅ |
 
-**Remaining unprocessed:** 306 issues  
+**Remaining unprocessed:** 300 issues  
 **Full archive URL list:** See `newsletter_urls.md`
