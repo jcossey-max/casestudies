@@ -68,11 +68,11 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/turning-blueprints-into-billions-cop30-pushes-for-investible-adaptation-plans
 - ✅ https://www.climateproof.news/p/people-moves-first-street-appoints-cto-msci-climate-research-chief-departs-zurich-foundation-seeks-a
 - ✅ https://www.climateproof.news/p/sabrina-bachrach-on-the-ground-at-cop30
-- https://www.climateproof.news/p/philanthropies-300mn-for-climate-related-health-crisis-cop30-indicator-negotiations-intensify-expert
-- https://www.climateproof.news/p/are-banks-ready-for-a-hotter-world-ai-benchmark-puts-climate-adaptation-to-the-test
-- https://www.climateproof.news/p/simon-zadek-on-catalyzing-the-adaptation-economy
-- https://www.climateproof.news/p/climate-finance-roadmap-s-tepid-reception-uneasy-start-to-adaptation-indicators-negotiations-gates-b
-- https://www.climateproof.news/p/ignitia-bets-on-ai-to-disrupt-the-3-billion-hazard-warning-market
+- ✅ https://www.climateproof.news/p/philanthropies-300mn-for-climate-related-health-crisis-cop30-indicator-negotiations-intensify-expert
+- ✅ https://www.climateproof.news/p/are-banks-ready-for-a-hotter-world-ai-benchmark-puts-climate-adaptation-to-the-test
+- ✅ https://www.climateproof.news/p/simon-zadek-on-catalyzing-the-adaptation-economy
+- ✅ https://www.climateproof.news/p/climate-finance-roadmap-s-tepid-reception-uneasy-start-to-adaptation-indicators-negotiations-gates-b
+- ✅ https://www.climateproof.news/p/ignitia-bets-on-ai-to-disrupt-the-3-billion-hazard-warning-market
 - https://www.climateproof.news/p/ben-abraham-on-the-battle-for-adaptation-finance-at-cop30
 - https://www.climateproof.news/p/adaptation-finance-gap-widens-lancet-s-climate-health-risks-warning-firetech-start-up-raises-48mn-an
 - https://www.climateproof.news/p/adaptation10-regenerative-agriculture-ecosystem-restoration

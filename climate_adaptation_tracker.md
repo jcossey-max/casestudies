@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-05-13  
-**Issues processed:** 55 of 355  
+**Last updated:** 2026-05-14  
+**Issues processed:** 60 of 355  
 
 ---
 
@@ -64,6 +64,10 @@
 | **SCALE Climate Adaptation Platform (COP30 Launch)** | The Lightsmith Group / GEF / Norwegian Ministry of Foreign Affairs | Global | Climate adaptation investment / blended finance | Announced at COP30 Belém; aspires to be a "virtual green bank" for adaptation offering equity and credit instruments plus technical assistance; GEF + Norway MFA funding for development and launch; targets businesses needing climate-proofing capital across asset classes | — | Dec 2025 |
 | **IDB Brazil Foreign Private Capital Mobilization Program** | IDB / Brazil (National Climate Change Fund / Central Bank) | Brazil | Climate finance / currency hedging | $2bn line of credit supporting Brazil's Foreign Private Capital Mobilization and Currency Hedging Program via National Climate Change Fund; works with Central Bank of Brazil to develop long-term exchange-rate protection market for foreign currency | $2bn | Dec 2025 |
 | **FINI (Fostering Investable National Planning and Implementation for Adaptation Resilience)** | Atlantic Council Climate Resilience Center + NRDC + Climate Champions | Global | Adaptation finance mobilization / NAP implementation | Launched at COP30 Nov 20, 2025; 100+ partner organizations from governments, development banks, investors, insurers, philanthropies, civil society; adopted into NAP Implementation Alliance (COP30 Action Agenda); aims to unlock $1trn in adaptation project pipelines within 3 years with 20% from private sector; supported by COP30 Presidency | $1trn pipeline target | Nov 20, 2025 |
+| **Gates Foundation Smallholder Farmer Climate Adaptation** | Gates Foundation | Sub-Saharan Africa + South Asia | Agriculture / climate-resilient farming | 4-year commitment announced at COP30; funds digital advisory services, climate-resilient crop varieties, and soil health programs; AIM for Scale delivered AI-powered SMS weather forecasts to 40M farmers across 13 Indian states (2025); TomorrowNow + KALRO provided hyper-local weather alerts to 5M+ Kenyan farmers with plans to expand to Tanzania, Malawi, and Zambia | $1.4bn | Nov 2025 |
+| **Global Bank Climate Adaptation Assessment 2025** | Climate Proof + ClimateAligned | Global (50 banks) | Banking / financial sector adaptation readiness | AI-powered (brief.green platform) assessment of 50 global banks against 15 qualitative indicators covering governance, strategy, and risk integration; top performers: Standard Chartered, Barclays, Intesa Sanpaolo, National Australia Bank, Rabobank; lowest: Wells Fargo, Capital One, Truist, PNC Financial | — | Nov 2025 |
+| **Ignitia EW4All Innovation Challenge** | Ignitia / ITU / UNDRR | Global (pilot countries) | AI weather / disaster early warning | Top 4 finalist in ITU AI for Early Warnings for All Innovation Challenge (2025); invited to present at AI for Good Global Summit Jul 2025; proposed hyper-local storm alert system delivering real-time warnings via WhatsApp, IVR, and radio with up to 3-hour advance warning; nowcast produced in 2 minutes using AI model | — | Nov 2025 |
+| **Adaptation Economy Policy Framework** | Morphosis + Fundação Getulio Vargas (FGV) + Paulson Institute | Global (launched São Paulo) | Adaptation economy / enabling private capital | Released in São Paulo ahead of COP30 Nov 2025; 7 policy domains covering innovation & entrepreneurship, financial sector development, public procurement, and more; aims to advance adaptation as a core aspect of macroeconomic and industrial policy rather than a climate add-on | — | Nov 2025 |
 
 ---
 
@@ -100,6 +104,8 @@
 | **Burnt Island Ventures** | VC firm | — | Water-focused adaptation tech | Closed second $50mn fund Oct 2025; water sector had 7 liquidity events >$1bn in 2025 including acquisitions of Seven Seas and Ovivo; LP interest in water adaptation running high | Oct 2025 |
 | **Insurance Development Forum (IDF)** | Industry initiative | London, UK | Resilient infrastructure investment / insurance-backed finance | Infrastructure Resilience Development Fund (IDF-IRDF) achieved first close (backed by BlackRock and AXA); targets investment in resilient infrastructure to close protection gaps globally | Dec 2025 |
 | **Z Zurich Foundation** | Corporate philanthropy | Zurich, Switzerland | Climate adaptation programs and strategy | Recruiting Head of Adapting to Climate Change (Nov 2025) to operationalize adaptation goals, drive strategy, and oversee 4-year and annual adaptation plans; signals growing institutional focus on adaptation philanthropy | Nov 19, 2025 |
+| **ClimateAligned** | AI climate analytics startup | UK | Bank adaptation disclosure assessment | Developed brief.green generative AI platform; co-produced Global Bank Climate Adaptation Assessment 2025 with Climate Proof; evaluates thousands of pages of bank disclosures against 15 qualitative adaptation indicators; enables consistent, replicable cross-institution comparison | Nov 2025 |
+| **Morphosis** | Adaptation investment & advisory | Zurich, Switzerland | Adaptation economy, private capital mobilization | Co-founded by Simon Zadek; bridges gap between public ambition and private action for adaptation; published Adaptation Economy Policy Framework (with FGV and Paulson Institute) in São Paulo ahead of COP30; 7 policy domains; positions adaptation as macroeconomic and industrial policy priority | Nov 2025 |
 
 ### Insurance
 
@@ -196,6 +202,9 @@
 | **E3G** | Think tank | London, UK | Ana Mulio Alvarez (Policy Advisor, UNFCCC/Adaptation/Loss & Damage) tracked COP30 GGA indicator negotiations; found final outcome "satisfactory" but flagged last-minute alterations by a small group of negotiators that could render some Belém Adaptation Indicators "unusable"; ongoing global adaptation policy monitoring | Nov 2025 |
 | **Atlantic Council Climate Resilience Center** | Think tank | Washington DC, USA | Co-created FINI initiative with NRDC and Climate Champions at COP30 to make National Adaptation Plans investable; co-chairs UNFCCC NAP Implementation Alliance; focuses on public-private finance alignment for adaptation | Nov 20, 2025 |
 | **NRDC (Natural Resources Defense Council)** | NGO | New York, USA | Co-launched FINI with Atlantic Council at COP30; warned that Trump EPA WOTUS wetlands rollback (Nov 2025) could eliminate protections for 55M acres; promotes adaptation finance transparency and NAP implementation | Nov 2025 |
+| **WHO (World Health Organization)** | UN agency | Geneva, Switzerland | Climate-health adaptation | Published climate-health report at COP30 (Nov 2025): 1-in-12 hospitals globally at risk from climate disruption; heat deaths 546K/year (23% rise since 1990s); 154K deaths from wildfire smoke air pollution in 2024; dengue transmission potential up 49% since 1950s; called for $300mn for climate-health solutions | Nov 2025 |
+| **Instituto Talanoa** | Think tank | Brazil | Climate adaptation finance analysis | Brazilian climate finance advisory; Ben Abraham (adaptation finance consultant at Instituto Talanoa) analyzed COP30 outcomes; noted adaptation finance tripling-by-2035 target is "vaguely worded"; called for developed countries to immediately reverse aid cuts and put adaptation finance on sustained growth trajectory | Nov 2025 |
+| **Gates Foundation (Bill & Melinda Gates Foundation)** | Philanthropy | Seattle, USA | Smallholder farmer climate adaptation + climate-health | $1.4bn commitment for Sub-Saharan Africa and South Asia farmer adaptation announced at COP30; also among 35 philanthropies in $300mn COP30 climate-health pledge targeting extreme heat, air pollution, and infectious disease | Nov 2025 |
 
 ---
 
@@ -257,6 +266,8 @@
 | SCALE Platform Development Funding | The Lightsmith Group / GEF / Norwegian Ministry of Foreign Affairs | — | Global | Climate adaptation investment platform ("virtual green bank") for equity, credit, and technical assistance | Dec 2025 (COP30) |
 | UN Adaptation Fund COP30 Pledges | UNFCCC Adaptation Fund | $135mn | Global | Adaptation financing | Nov 22, 2025; Germany €60mn (largest donor); Spain, Sweden, Ireland contributed; UK, European Commission, Canada absent; vs $300mn fundraising target |
 | ISS STOXX Acquisition of Sust Global | ISS STOXX (ISS Sustainable Solutions) | Undisclosed | Global | Geospatial AI physical climate risk analytics | Aug 5, 2025; Sust Global founded 2020 by Josh Gilbert and Gopal Erinjippurath (CA-based); integrated into Real Asset Climate Solutions suite (Oct 2025) |
+| Gates Foundation Smallholder Farmer Climate Adaptation | Gates Foundation | $1.4bn | Sub-Saharan Africa + South Asia | Climate-smart agriculture / farmer resilience; digital advisories, climate-resilient crops, soil health | Nov 2025 |
+| COP30 Climate-Health Philanthropy Pledge | 35 global philanthropies incl. Bloomberg Philanthropies, Gates Foundation, Wellcome, IKEA Foundation, Quadrature Climate Foundation, Rockefeller Foundation, CIFF, Philanthropy Asia Alliance | $300mn | Global | Climate and health adaptation (extreme heat, air pollution, climate-sensitive infectious disease); first $300mn to accelerate solutions, innovations, policy, and research | Nov 2025 |
 
 ---
 
@@ -304,6 +315,7 @@
 | **ClimateFirst Building Risk Platform** | ClimateFirst (RWDI) | Physical climate risk assessment and resilience planning for commercial buildings | Commercial (Canada and NE USA) | Quantifies hazard exposure (flood, heat, wind, hurricane) for individual buildings; generates tailored resiliency plans; ROI case study (with BMO Climate Institute + IMCO): $250K flood protection investment → $3.6M projected loss reduction | Dec 2025 |
 | **ISS STOXX Real Asset Climate Solutions** | ISS STOXX / Sust Global | Physical climate risk for institutional investors and real asset portfolios | Commercial (launched Oct 2025) | Geospatial AI models covering 6 hazards (flood, sea level rise, wildfire, heat, drought, cyclones); global coverage; IPCC scenario-based annual projections through 2100; portfolio and asset-level physical risk analysis | Nov 2025 |
 | **Google Earth AI** | Google | Geospatial AI for climate adaptation risk assessment | Launched Jul 2025 | Gemini-powered agents fuse satellite imagery, population dynamics, and environmental forecasting; answers adaptation queries on flood exposure, population risk, and infrastructure impact; part of Google's growing investment in adaptation AI | Nov 2025 |
+| **brief.green AI Platform** | ClimateAligned | Bank climate adaptation disclosure assessment | Commercial (Nov 2025) | Generative AI evaluates thousands of pages of bank public disclosures against 15 qualitative adaptation indicators covering governance, strategy, and risk integration; enables consistent, transparent, and replicable cross-institution comparison; used for Global Bank Climate Adaptation Assessment 2025 (50 banks) | Nov 2025 |
 
 ---
 
@@ -379,6 +391,8 @@
 | **COP30 Belém Adaptation Finance Goal ("Global Mutirão")** | UNFCCC | Agreed Nov 22, 2025 | Tripling adaptation finance by 2035 (implied baseline: $40bn/year from Glasgow 2021 → ~$120bn/year new target); sub-target within NCQG framework; part of "Baku-to-Belém Roadmap" to $1.3trn/year; no explicit baseline stated in text; 2035 target year | Nov 22, 2025 |
 | **COP30 Belém Adaptation Indicators (GGA)** | UNFCCC | Agreed Nov 22, 2025 | 59 voluntary non-prescriptive Belém Adaptation Indicators adopted across 7 sectors (water, food, health, ecosystems, infrastructure, livelihoods, policy process); not linked to access to finance; 2-year operationalization programme; consolidated from 100 COP29-proposed indicators; some last-minute alterations flagged by E3G as potentially rendering indicators "unusable" | Nov 22, 2025 |
 | **NAP Implementation Alliance** | UNFCCC (COP30 Action Agenda) | Launched Nov 22, 2025 | Coordinating body of governments, development banks, multilateral institutions, private investors, philanthropies, and researchers to implement National Adaptation Plans; FINI adopted into Alliance; aims to transform NAPs into bankable projects; part of Belém Package | Nov 22, 2025 |
+| **Baku-to-Belém Climate Finance Roadmap** | UNFCCC / COP30 Presidency | Published ahead of COP30; tepidly received | Nine actions to scale finance for adaptation and loss & damage, including building on Glasgow $40bn/year adaptation goal, standardizing resilience bond issuance, and improving digital delivery tools; criticized as a "paper tiger" — Greenpeace noted it "does not go far enough in holding developed countries accountable"; functions as a guiding framework rather than binding financing mechanism | Nov 2025 |
+| **Brazil National Climate Adaptation Plan for Health** | Government of Brazil | Adopted Nov 2025 | First national climate adaptation plan specifically for the health sector, launched at COP30 in Belém; addresses climate-sensitive infectious disease, extreme heat, and air pollution; part of broader COP30 health and climate resilience agenda | Nov 2025 |
 
 ---
 
@@ -441,6 +455,11 @@
 | 53 | Turning Blueprints Into Billions: COP30 Pushes for Investible Adaptation Plans | Nov 20, 2025 | /p/turning-blueprints-into-billions-cop30-pushes-for-investible-adaptation-plans | ✅ |
 | 54 | People Moves: First Street Appoints CTO, MSCI Climate Research Chief Departs, Zurich Foundation Seeks Adaptation Head | Nov 19, 2025 | /p/people-moves-first-street-appoints-cto-msci-climate-research-chief-departs-zurich-foundation-seeks-a | ✅ |
 | 55 | Sabrina Bachrach on the Ground at COP30 | Nov 2025 | /p/sabrina-bachrach-on-the-ground-at-cop30 | ✅ |
+| 56 | Philanthropies' $300mn for Climate-Related Health Crisis, COP30 Indicator Negotiations Intensify | Nov 2025 | /p/philanthropies-300mn-for-climate-related-health-crisis-cop30-indicator-negotiations-intensify-expert | ✅ |
+| 57 | Are Banks Ready for a Hotter World? AI Benchmark Puts Climate Adaptation to the Test | Nov 2025 | /p/are-banks-ready-for-a-hotter-world-ai-benchmark-puts-climate-adaptation-to-the-test | ✅ |
+| 58 | Simon Zadek on Catalyzing the Adaptation Economy (interview) | Nov 2025 | /p/simon-zadek-on-catalyzing-the-adaptation-economy | ✅ |
+| 59 | Climate Finance Roadmap's Tepid Reception, Uneasy Start to Adaptation Indicators Negotiations, Gates' Billions for AgTech | Nov 2025 | /p/climate-finance-roadmap-s-tepid-reception-uneasy-start-to-adaptation-indicators-negotiations-gates-b | ✅ |
+| 60 | Ignitia Bets on AI to Disrupt the $3 Billion Hazard Warning Market | Nov 2025 | /p/ignitia-bets-on-ai-to-disrupt-the-3-billion-hazard-warning-market | ✅ |
 
-**Remaining unprocessed:** 300 issues  
+**Remaining unprocessed:** 295 issues  
 **Full archive URL list:** See `newsletter_urls.md`
