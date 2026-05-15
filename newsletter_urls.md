@@ -73,12 +73,12 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/simon-zadek-on-catalyzing-the-adaptation-economy
 - ✅ https://www.climateproof.news/p/climate-finance-roadmap-s-tepid-reception-uneasy-start-to-adaptation-indicators-negotiations-gates-b
 - ✅ https://www.climateproof.news/p/ignitia-bets-on-ai-to-disrupt-the-3-billion-hazard-warning-market
-- https://www.climateproof.news/p/ben-abraham-on-the-battle-for-adaptation-finance-at-cop30
-- https://www.climateproof.news/p/adaptation-finance-gap-widens-lancet-s-climate-health-risks-warning-firetech-start-up-raises-48mn-an
-- https://www.climateproof.news/p/adaptation10-regenerative-agriculture-ecosystem-restoration
-- https://www.climateproof.news/p/mishal-thadani-on-the-business-of-grid-resilience
-- https://www.climateproof.news/p/uk-financial-regulators-push-resilience-framework-un-national-adaptation-plan-report-watertech-fund
-- https://www.climateproof.news/p/europe-s-adaptation-agenda-grows-some-teeth
+- ✅ https://www.climateproof.news/p/ben-abraham-on-the-battle-for-adaptation-finance-at-cop30
+- ✅ https://www.climateproof.news/p/adaptation-finance-gap-widens-lancet-s-climate-health-risks-warning-firetech-start-up-raises-48mn-an
+- ✅ https://www.climateproof.news/p/adaptation10-regenerative-agriculture-ecosystem-restoration
+- ✅ https://www.climateproof.news/p/mishal-thadani-on-the-business-of-grid-resilience
+- ✅ https://www.climateproof.news/p/uk-financial-regulators-push-resilience-framework-un-national-adaptation-plan-report-watertech-fund
+- ✅ https://www.climateproof.news/p/europe-s-adaptation-agenda-grows-some-teeth
 - https://www.climateproof.news/p/theresa-hoffmann-on-reinventing-insulation-for-a-warming-world
 - https://www.climateproof.news/p/tokyo-issues-300mn-resilience-bond-uk-told-to-prepare-for-2-c-world-adaptation-funds-back-arup-tech
 - https://www.climateproof.news/p/american-corporates-tout-adaptation-playbooks-in-q3

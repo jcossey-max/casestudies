@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-05-14  
-**Issues processed:** 60 of 355  
+**Last updated:** 2026-05-15  
+**Issues processed:** 66 of 355  
 
 ---
 
@@ -163,6 +163,9 @@
 | **Klarna** | Stockholm, Sweden | Fintech / AI platforms | AI adaptation tools in lower- and middle-income countries | Launched "AI for Climate Resilience Program" with Milkywire; grants up to $300K per recipient plus 18-month mentoring; 1,200+ proposals received from global innovators; focus: early-warning systems, resource management, disaster preparedness in LMIC communities | Dec 2025 |
 | **ISS STOXX / Sust Global** | Frankfurt, Germany / San Francisco, USA | Geospatial AI physical climate risk | Institutional investor portfolio and real asset climate risk assessment | Acquired Sust Global (Aug 5, 2025) for geospatial AI-powered physical climate risk capabilities; launched Real Asset Climate Solutions suite (Oct 2025); models cover 6 hazards (flood, sea level rise, wildfire, heat, cyclone, drought); global coverage; IPCC scenario projections through 2100 | Nov 2025 |
 | **Google Earth AI** | Mountain View, USA | Geospatial AI / climate adaptation planning | Flood exposure, population risk, infrastructure impact assessment | Launched Jul 2025; Gemini-powered agents fuse satellite imagery, population dynamics, and environmental forecasting to answer adaptation-critical questions; part of Google's growing investment in adaptation AI | Nov 2025 |
+| **Frontline Wildfire Defense** | Jackson Hole, Wyoming, USA | Automated wildfire home protection (sprinklers + foam + monitoring software) | Wildfire defense / residential resilience | Closed $48mn Series A (Oct 28, 2025, led by Norwest Venture Partners); roof/eave-mounted sprinklers + biodegradable firefighting foam; auto-triggers when fire is within 7 miles via proprietary monitoring software; 61 homes activated in 2025 LA wildfires, 96% survived; TIME Best Inventions 2025 | Nov 3, 2025 |
+| **Cultivo** | — | Data platform for land restoration | Regenerative agriculture / ecosystem investment | Turns land regeneration into investable projects by creating data infrastructure to quantify and monetize restoration outcomes | Nov 2025 |
+| **Coral Vita** | Grand Bahama, Bahamas | Land-based coral reef restoration | Coastal resilience / reef restoration | Series A led by Builders Initiative (first institutional raise for a coral restoration company); land-based coral farming using climate-resilient propagation techniques; restores degraded reefs protecting coastlines, biodiversity, and local economies | 2025 |
 
 ### Research, Policy & NGOs
 
@@ -205,6 +208,8 @@
 | **WHO (World Health Organization)** | UN agency | Geneva, Switzerland | Climate-health adaptation | Published climate-health report at COP30 (Nov 2025): 1-in-12 hospitals globally at risk from climate disruption; heat deaths 546K/year (23% rise since 1990s); 154K deaths from wildfire smoke air pollution in 2024; dengue transmission potential up 49% since 1950s; called for $300mn for climate-health solutions | Nov 2025 |
 | **Instituto Talanoa** | Think tank | Brazil | Climate adaptation finance analysis | Brazilian climate finance advisory; Ben Abraham (adaptation finance consultant at Instituto Talanoa) analyzed COP30 outcomes; noted adaptation finance tripling-by-2035 target is "vaguely worded"; called for developed countries to immediately reverse aid cuts and put adaptation finance on sustained growth trajectory | Nov 2025 |
 | **Gates Foundation (Bill & Melinda Gates Foundation)** | Philanthropy | Seattle, USA | Smallholder farmer climate adaptation + climate-health | $1.4bn commitment for Sub-Saharan Africa and South Asia farmer adaptation announced at COP30; also among 35 philanthropies in $300mn COP30 climate-health pledge targeting extreme heat, air pollution, and infectious disease | Nov 2025 |
+| **CFRF (Climate Financial Risk Forum)** | UK regulatory industry initiative | London, UK | Published "From Risk to Resilience: Integrating Adaptation into Finance" (Oct 23, 2025); updated ABC (Aim–Build–Contingency) framework; joint FCA/PRA initiative; toolkit for operationalizing adaptation across asset classes and sectors; contributors include Standard Chartered, NatWest, Schroders, Columbia Threadneedle, Zurich, Aviva | Oct 2025 |
+| **UNEP (UN Environment Programme)** | UN agency | Nairobi, Kenya | Published Adaptation Gap Report 2025: international adaptation finance flows declined from $28bn (2022) to $26bn (2023); developing countries need $310–365bn/year by 2035 (~12–14× current flows); debt = 58% of flows; "adaptation investment trap" risk from growing share of non-concessional loans; Glasgow $40bn/year goal at risk | Oct 2025 |
 
 ---
 
@@ -268,6 +273,8 @@
 | ISS STOXX Acquisition of Sust Global | ISS STOXX (ISS Sustainable Solutions) | Undisclosed | Global | Geospatial AI physical climate risk analytics | Aug 5, 2025; Sust Global founded 2020 by Josh Gilbert and Gopal Erinjippurath (CA-based); integrated into Real Asset Climate Solutions suite (Oct 2025) |
 | Gates Foundation Smallholder Farmer Climate Adaptation | Gates Foundation | $1.4bn | Sub-Saharan Africa + South Asia | Climate-smart agriculture / farmer resilience; digital advisories, climate-resilient crops, soil health | Nov 2025 |
 | COP30 Climate-Health Philanthropy Pledge | 35 global philanthropies incl. Bloomberg Philanthropies, Gates Foundation, Wellcome, IKEA Foundation, Quadrature Climate Foundation, Rockefeller Foundation, CIFF, Philanthropy Asia Alliance | $300mn | Global | Climate and health adaptation (extreme heat, air pollution, climate-sensitive infectious disease); first $300mn to accelerate solutions, innovations, policy, and research | Nov 2025 |
+| Frontline Wildfire Defense Series A | Norwest Venture Partners + Wyoming Business Council | $48mn | USA | Automated wildfire home protection systems (exterior sprinklers, foam, monitoring software) | Oct 28, 2025 |
+| Coral Vita Series A | Builders Initiative (lead) | Undisclosed | Caribbean / Global | Coral reef restoration technology; first institutional Series A for a coral restoration company | 2025 |
 
 ---
 
@@ -316,6 +323,7 @@
 | **ISS STOXX Real Asset Climate Solutions** | ISS STOXX / Sust Global | Physical climate risk for institutional investors and real asset portfolios | Commercial (launched Oct 2025) | Geospatial AI models covering 6 hazards (flood, sea level rise, wildfire, heat, drought, cyclones); global coverage; IPCC scenario-based annual projections through 2100; portfolio and asset-level physical risk analysis | Nov 2025 |
 | **Google Earth AI** | Google | Geospatial AI for climate adaptation risk assessment | Launched Jul 2025 | Gemini-powered agents fuse satellite imagery, population dynamics, and environmental forecasting; answers adaptation queries on flood exposure, population risk, and infrastructure impact; part of Google's growing investment in adaptation AI | Nov 2025 |
 | **brief.green AI Platform** | ClimateAligned | Bank climate adaptation disclosure assessment | Commercial (Nov 2025) | Generative AI evaluates thousands of pages of bank public disclosures against 15 qualitative adaptation indicators covering governance, strategy, and risk integration; enables consistent, transparent, and replicable cross-institution comparison; used for Global Bank Climate Adaptation Assessment 2025 (50 banks) | Nov 2025 |
+| **Frontline Wildfire Defense System 2** | Frontline Wildfire Defense | Automated wildfire property protection | Commercial (deployed) | Roof/eave-mounted sprinklers + biodegradable firefighting foam; proprietary software continuously monitors all US fires via satellites, cameras, sensors, and weather stations; auto-triggers when fire is within 7 miles; designed for new and existing homes; independent of municipal infrastructure; 96% survival rate for homes activated during 2025 LA wildfires; TIME 2025 Best Inventions | Nov 3, 2025 |
 
 ---
 
@@ -348,6 +356,10 @@
 | **WEF Annual Meeting / Global Risks Report 2026** | World Economic Forum | Jan 2026 | Davos, Switzerland | Only 8% of experts cited extreme weather as top short-term crisis driver (down from 14%); climate/environmental risks remain top long-term threats; signals headwinds for adaptation finance from geopolitical and economic competition dominating short-term global agenda |
 | **US Congressional "Minibus" Bipartisan Climate Data Package** | US Congress | Jan 2026 | Washington DC, USA | $467bn bipartisan 3-bill package preserves NOAA ($6.1–6.2bn) and NASA Earth Science ($2.2bn); passed ahead of Jan 30 shutdown deadline; signals legislative resistance to proposed Trump administration cuts to climate data agencies |
 | **COP30 Belém Package (Final Outcomes)** | UNFCCC | Nov 22, 2025 | Belém, Brazil | Adaptation finance tripling by 2035 (~$120bn/year from $40bn Glasgow baseline); 59 Belém Adaptation Indicators adopted for GGA; NAP Implementation Alliance launched; Adaptation Fund secured $135mn (vs $300mn target); Germany €60mn lead donor; deal agreed ~1 day past scheduled close |
+| **UNEP Adaptation Gap Report 2025** | UNEP | Oct 2025 | Global | International adaptation finance flows declined from $28bn (2022) to $26bn (2023); developing countries need $310–365bn/year by 2035 (~12–14× current flows); debt instruments = 58% of adaptation finance (raising "adaptation investment trap" concerns); Glasgow $40bn/year goal likely to be missed |
+| **Lancet Countdown 2025 Report** | Lancet Countdown (global research consortium) | Oct/Nov 2025 | Global | 12 out of 20 climate-health indicators reached new highs in 2024; 63% increase in heat-related deaths since the 1990s; 546K average annual heat deaths; published ahead of COP30 in Belém |
+| **CFRF "From Risk to Resilience" Publication** | UK FCA/PRA (Climate Financial Risk Forum) | Oct 23, 2025 | UK | Comprehensive guidance for UK financial institutions on integrating climate adaptation; updated ABC (Aim–Build–Contingency) framework; covers incorporating adaptation into climate transition plans and crafting adaptation-focused financial products |
+| **UN NAP Progress Report 2025** | UNFCCC | Oct 2025 | Global | 144 countries initiated NAP process; 67 developing countries (23 LDCs, 14 SIDS) submitted full NAPs; decisive shift from planning to implementation; multi-hazard early warning systems now established in 119 countries; calls for scaled financial and technical support |
 
 ---
 
@@ -393,6 +405,7 @@
 | **NAP Implementation Alliance** | UNFCCC (COP30 Action Agenda) | Launched Nov 22, 2025 | Coordinating body of governments, development banks, multilateral institutions, private investors, philanthropies, and researchers to implement National Adaptation Plans; FINI adopted into Alliance; aims to transform NAPs into bankable projects; part of Belém Package | Nov 22, 2025 |
 | **Baku-to-Belém Climate Finance Roadmap** | UNFCCC / COP30 Presidency | Published ahead of COP30; tepidly received | Nine actions to scale finance for adaptation and loss & damage, including building on Glasgow $40bn/year adaptation goal, standardizing resilience bond issuance, and improving digital delivery tools; criticized as a "paper tiger" — Greenpeace noted it "does not go far enough in holding developed countries accountable"; functions as a guiding framework rather than binding financing mechanism | Nov 2025 |
 | **Brazil National Climate Adaptation Plan for Health** | Government of Brazil | Adopted Nov 2025 | First national climate adaptation plan specifically for the health sector, launched at COP30 in Belém; addresses climate-sensitive infectious disease, extreme heat, and air pollution; part of broader COP30 health and climate resilience agenda | Nov 2025 |
+| **CFRF "From Risk to Resilience" Framework** | UK | Published (voluntary guidance) Oct 23, 2025 | Joint FCA/PRA initiative; updated ABC (Aim–Build–Contingency) framework; first comprehensive toolkit for UK financial institutions to integrate climate adaptation across asset classes, sectors, and sovereign exposures; covers incorporating adaptation into climate transition plans and crafting adaptation-focused products; contributors: Standard Chartered, NatWest, Schroders, Columbia Threadneedle, Zurich, Aviva | Oct 2025 |
 
 ---
 
@@ -460,6 +473,12 @@
 | 58 | Simon Zadek on Catalyzing the Adaptation Economy (interview) | Nov 2025 | /p/simon-zadek-on-catalyzing-the-adaptation-economy | ✅ |
 | 59 | Climate Finance Roadmap's Tepid Reception, Uneasy Start to Adaptation Indicators Negotiations, Gates' Billions for AgTech | Nov 2025 | /p/climate-finance-roadmap-s-tepid-reception-uneasy-start-to-adaptation-indicators-negotiations-gates-b | ✅ |
 | 60 | Ignitia Bets on AI to Disrupt the $3 Billion Hazard Warning Market | Nov 2025 | /p/ignitia-bets-on-ai-to-disrupt-the-3-billion-hazard-warning-market | ✅ |
+| 61 | Adaptation Finance Gap Widens, Lancet's Climate-Health Risks Warning, FireTech Start-up Raises $48mn | Nov 3, 2025 | /p/adaptation-finance-gap-widens-lancet-s-climate-health-risks-warning-firetech-start-up-raises-48mn-an | ✅ |
+| 62 | Adaptation10: Regenerative Agriculture & Ecosystem Restoration | Nov 2025 | /p/adaptation10-regenerative-agriculture-ecosystem-restoration | ✅ |
+| 63 | Ben Abraham on the Battle for Adaptation Finance at COP30 (interview) | Nov 2025 | /p/ben-abraham-on-the-battle-for-adaptation-finance-at-cop30 | ✅ |
+| 64 | Mishal Thadani on the Business of Grid Resilience (interview) | Nov 2025 | /p/mishal-thadani-on-the-business-of-grid-resilience | ✅ |
+| 65 | UK Financial Regulators Push Resilience Framework, UN National Adaptation Plan Report, WaterTech Fund Raises $50mn | Oct/Nov 2025 | /p/uk-financial-regulators-push-resilience-framework-un-national-adaptation-plan-report-watertech-fund | ✅ |
+| 66 | Europe's Adaptation Agenda Grows Some Teeth | Dec 2025 | /p/europe-s-adaptation-agenda-grows-some-teeth | ✅ |
 
-**Remaining unprocessed:** 295 issues  
+**Remaining unprocessed:** 289 issues  
 **Full archive URL list:** See `newsletter_urls.md`
