@@ -57,7 +57,7 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/people-moves-howden-climate-resilience-exec-departs-ey-appoints-new-climate-change-lead-nvidia-seeks
 - ✅ https://www.climateproof.news/p/mckinsey-flags-cooling-irrigation-adaptation-costs-fema-overhaul-confusion-klarna-s-ai-for-resilienc
 - ✅ https://www.climateproof.news/p/adaptation-tech-finds-a-foothold-in-vc-but-lps-still-need-convincing
-- https://www.climateproof.news/p/will-everill-on-making-pests-invasives-bio-risk-tech-the-next-adaptation-frontier
+- ✅ https://www.climateproof.news/p/will-everill-on-making-pests-invasives-bio-risk-tech-the-next-adaptation-frontier
 - ✅ https://www.climateproof.news/p/eu-urged-to-tackle-resilience-financing-challenge-climate-risk-study-retracted-rhizome-partners-with
 - ✅ https://www.climateproof.news/p/how-is-adaptation-finance-faring-post-usaid
 - ✅ https://www.climateproof.news/p/mike-williams-on-scaling-real-estate-resilience
@@ -79,12 +79,12 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/mishal-thadani-on-the-business-of-grid-resilience
 - ✅ https://www.climateproof.news/p/uk-financial-regulators-push-resilience-framework-un-national-adaptation-plan-report-watertech-fund
 - ✅ https://www.climateproof.news/p/europe-s-adaptation-agenda-grows-some-teeth
-- https://www.climateproof.news/p/theresa-hoffmann-on-reinventing-insulation-for-a-warming-world
-- https://www.climateproof.news/p/tokyo-issues-300mn-resilience-bond-uk-told-to-prepare-for-2-c-world-adaptation-funds-back-arup-tech
-- https://www.climateproof.news/p/american-corporates-tout-adaptation-playbooks-in-q3
-- https://www.climateproof.news/p/hunter-maats-on-turning-climate-resilience-into-real-estate-alpha
-- https://www.climateproof.news/p/krista-tukiainen-on-leveraging-ai-for-adaptation-finance
-- https://www.climateproof.news/p/1-billion-adaptation-fund-closes-country-resilience-rankings-revealed-rcoast-maps-coastal-erosion-in
+- ✅ https://www.climateproof.news/p/theresa-hoffmann-on-reinventing-insulation-for-a-warming-world
+- ✅ https://www.climateproof.news/p/tokyo-issues-300mn-resilience-bond-uk-told-to-prepare-for-2-c-world-adaptation-funds-back-arup-tech
+- ✅ https://www.climateproof.news/p/american-corporates-tout-adaptation-playbooks-in-q3
+- ✅ https://www.climateproof.news/p/hunter-maats-on-turning-climate-resilience-into-real-estate-alpha
+- ✅ https://www.climateproof.news/p/krista-tukiainen-on-leveraging-ai-for-adaptation-finance
+- ✅ https://www.climateproof.news/p/1-billion-adaptation-fund-closes-country-resilience-rankings-revealed-rcoast-maps-coastal-erosion-in
 - https://www.climateproof.news/p/david-leathers-on-making-workforce-health-a-climate-priority
 - https://www.climateproof.news/p/mike-gulla-on-why-insurance-needs-a-makeover-for-a-changed-climate
 - https://www.climateproof.news/p/abby-ross-joe-rozza-on-why-resilience-is-the-new-bottom-line
