@@ -85,12 +85,12 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/hunter-maats-on-turning-climate-resilience-into-real-estate-alpha
 - ✅ https://www.climateproof.news/p/krista-tukiainen-on-leveraging-ai-for-adaptation-finance
 - ✅ https://www.climateproof.news/p/1-billion-adaptation-fund-closes-country-resilience-rankings-revealed-rcoast-maps-coastal-erosion-in
-- https://www.climateproof.news/p/david-leathers-on-making-workforce-health-a-climate-priority
-- https://www.climateproof.news/p/mike-gulla-on-why-insurance-needs-a-makeover-for-a-changed-climate
-- https://www.climateproof.news/p/abby-ross-joe-rozza-on-why-resilience-is-the-new-bottom-line
-- https://www.climateproof.news/p/people-moves-idb-invest-s-new-blended-finance-chief-ex-fed-official-joins-think-tank-firetech-hiring
-- https://www.climateproof.news/p/ben-deangelo-on-life-after-the-epa-and-the-future-of-adaptation
-- https://www.climateproof.news/p/fema-holds-emergency-preparedness-grants-hostage-shutdown-threat-to-us-flood-insurance-program-afric
+- ✅ https://www.climateproof.news/p/david-leathers-on-making-workforce-health-a-climate-priority
+- ✅ https://www.climateproof.news/p/mike-gulla-on-why-insurance-needs-a-makeover-for-a-changed-climate
+- ✅ https://www.climateproof.news/p/abby-ross-joe-rozza-on-why-resilience-is-the-new-bottom-line
+- ✅ https://www.climateproof.news/p/people-moves-idb-invest-s-new-blended-finance-chief-ex-fed-official-joins-think-tank-firetech-hiring
+- ✅ https://www.climateproof.news/p/ben-deangelo-on-life-after-the-epa-and-the-future-of-adaptation
+- ✅ https://www.climateproof.news/p/fema-holds-emergency-preparedness-grants-hostage-shutdown-threat-to-us-flood-insurance-program-afric
 - https://www.climateproof.news/p/lost-in-translation-results-from-the-adaptation-vs-resilience-survey
 - https://www.climateproof.news/p/andrew-lala-on-democratizing-weather-intelligence
 - https://www.climateproof.news/p/adaptation10-powering-through-the-storm-how-utilities-are-adapting-to-climate-risks

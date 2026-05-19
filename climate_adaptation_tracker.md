@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-05-18  
-**Issues processed:** 73 of 355  
+**Last updated:** 2026-05-19  
+**Issues processed:** 79 of 355  
 
 ---
 
@@ -72,6 +72,9 @@
 | **Climate Investor Two (CI2) Final Close** | Climate Fund Managers / IFC / European Commission (EFSD+) | Africa, Asia, Latin America | Water / waste / ocean adaptation infrastructure | Largest-ever emerging market climate adaptation infrastructure fund; blends public and private capital; targets water, waste and ocean infrastructure; 16.5M beneficiaries; restores 2.2M hectares; 25 projects committed ($339mn) since 2021 including water supply (Vietnam, Philippines), desalination (Thailand, Kenya), waste-to-energy (Sierra Leone, SA, Thailand), debt-for-nature swap (Ecuador); innovative Sanlam bridge-to-bond mechanism backed by EC guarantee | $1.065bn | Oct 13, 2025 |
 | **RCOAST Outer Banks Coastal Erosion Mapping** | RCOAST | Outer Banks (Buxton), North Carolina, USA | Coastal erosion / shoreline resilience | Aerial 3D mapping quantified shoreline retreat after storms; average retreat 68ft, max 141ft in Buxton; 800 dump trucks of sand lost in 5 weeks; data used to support coastal resilience planning and infrastructure decision-making | — | Oct 2025 |
 | **S&P 500 Q3 2025 Corporate Climate Risk Analysis** | Climate Proof (analysis) | USA (S&P 500 companies) | Physical risk / corporate resilience | Analysis of S&P 500 Q3 2025 earnings calls; weather impacts most commonly discussed in Utilities, Industrials, Consumer Discretionary sectors; leading companies presenting adaptation playbooks including grid hardening, storm preparedness investments, and diversification from climate-exposed geographies | — | Nov 2025 |
+| **MazaoHub Climate-Smart Farming Scale-Up** | MazaoHub | Tanzania / East Africa | Smallholder agriculture / drought resilience | AI + agronomy hybrid "Tech and Touch" platform: soil intelligence, crop management tools, Farmer Excellence Centres, CropSupply.com digital marketplace; reduces fertiliser use 30%, boosts organic manure adoption 5×, optimizes irrigation; $2M pre-seed (Sep 2025, Catalyst Fund lead); plans expand from 25 to 60 Farmer Excellence Centres across East Africa in 18 months | $2mn (pre-seed) | Oct 2025 |
+| **Resilient Delta Fund** | The Resiliency Company | Los Angeles, USA | Wildfire / residential resilience | Catalytic fund to support resilient home lending for LA wildfire rebuild; engages banks, CDFIs, and capital partners on resilient loan product design; $200mn+ potential | $200mn+ catalytic potential | Oct 8, 2025 |
+| **CRE Resilience Playbook ("From Vulnerability to Value")** | The Resiliency Company / Ryan Companies / JLL / Urban Land Institute | USA | Commercial real estate / multi-hazard resilience | First-of-its-kind industry-driven blueprint for integrating resilience across full CRE value chain from investors to insurers; 55 cross-sector leaders contributing, combined $2.5trn market cap; launched Sep 22, 2025; free resource | — | Oct 8, 2025 |
 
 ---
 
@@ -112,6 +115,7 @@
 | **Morphosis** | Adaptation investment & advisory | Zurich, Switzerland | Adaptation economy, private capital mobilization | Co-founded by Simon Zadek; bridges gap between public ambition and private action for adaptation; published Adaptation Economy Policy Framework (with FGV and Paulson Institute) in São Paulo ahead of COP30; 7 policy domains; positions adaptation as macroeconomic and industrial policy priority | Nov 2025 |
 | **UpRoot Capital** | VC / angel syndicate | USA | Pest / invasive species / bio-risk adaptation tech investing | Founded by Will Everill; targets early-stage companies helping clients detect, monitor, and control pests, invasive species, and biological risks that are expanding due to climate change; positions bio-risk as next frontier in climate adaptation tech; early-stage syndicate model | Oct 2025 |
 | **Resilience Investments** | Real estate asset manager | USA (Great Lakes focus) | Climate-resilient real estate acquisition and retrofit | Founded by Hunter Maats; acquires and retrofits affordable homes in climate-stable Great Lakes region; thesis: "insurability equals investability"; cites WSJ/Realtor.com Summer 2025 Housing Market Ranking showing top 20 US markets all in Midwest and Northeast; argues climate migration is driving capital north | Oct 2025 |
+| **The Resiliency Company** | Real estate resilience advisory / investment | Los Angeles, USA | CRE resilience / wildfire recovery | Founded by Abby Ross; co-produced CRE Resilience Playbook ("From Vulnerability to Value") with Ryan Companies, JLL, and ULI (Sep 22, 2025); launched Resilient Delta Fund for LA wildfire rebuild ($200mn+ catalytic lending potential); convenes cross-sector CRE leaders to integrate resilience across full building value chain | Oct 8, 2025 |
 
 ### Insurance
 
@@ -129,6 +133,8 @@
 | **Munich Re / Risk Management Partners (RMP)** | Reinsurer | Munich, Germany | Physical climate risk platform | Strategic global partnership with ICEYE (live Jan 2026) to embed Flood Archive and Flood Early Warning solutions into Location Risk Intelligence Platform; also integrates Wildfire Insights and Hurricane Rapid Impact products | Mar 5, 2026 |
 | **Ceres** | NGO / advocacy | Boston, USA | US insurer climate preparedness | 2025 Progress Report: only 29% of major US insurers disclosed metrics and targets; 28% disclosed across all 4 TCFD pillars; global protection gap projected at $1.86T (2025); California wildfire protection gap: $1.35–$2T | Mar 2026 |
 | **Howden** | Insurance broker / risk advisory | London, UK | Climate risk & resilience advisory | Rowan Douglas stepped down as Head of Climate Risk & Resilience after ~3 years; remains Senior Advisor; Douglas is a prominent figure in climate insurance and risk transfer advisory | Dec 2025 |
+| **Adaptive Insurance** | Insurtech startup | USA | Parametric power outage / climate resilience | Founded 2024 by CEO Mike Gulla (20+ yr career: Nationwide, Allstate, Hippo); GridProtect: first parametric short-term power outage insurance for SMBs; $5M seed (Feb 2025, Congruent Ventures lead); Tokio Marine HCC partnership (Jun 2025); available in 18 states; targets ~2.36M US SMEs; addresses $150bn/yr US power outage cost market | Oct 2025 |
+| **Tokio Marine HCC** | Specialty insurer | USA / Japan | Parametric specialty insurance capacity | Partnered with Adaptive Insurance on GridProtect parametric power outage product (Jun 2025); provides underwriting capacity for climate-linked business interruption coverage for SMBs | Oct 2025 |
 
 ### Technology Companies
 
@@ -174,6 +180,8 @@
 | **Coral Vita** | Grand Bahama, Bahamas | Land-based coral reef restoration | Coastal resilience / reef restoration | Series A led by Builders Initiative (first institutional raise for a coral restoration company); land-based coral farming using climate-resilient propagation techniques; restores degraded reefs protecting coastlines, biodiversity, and local economies | 2025 |
 | **NANOPLUME** | USA | Bio-aerogel insulation | Building thermal resilience / heat and cold adaptation | CEO Theresa Hoffmann (material sciences, Stanford); bio-based aerogel insulation 3× more insulating than traditional materials; 60% thinner and lighter; 100% biocompatible and non-toxic; solves manufacturing/cost issues of traditional silica-based aerogels; applicable to home insulation and temperature-sensitive goods transport | Oct 2025 |
 | **Class 3 Technologies** | San Francisco, USA | Building-level climate risk modeling | Physical climate risk assessment and resilience planning | Arup spinout; CEO Ibbi Almufti (ex-Arup Risk & Resilience lead, licensed structural engineer); Iris platform delivers building-specific vulnerability assessments bridging gap between broad climate projections and engineering-grade analysis; raised $3.5mn seed led by Powerhouse Ventures (Oct 2025) | Oct 2025 |
+| **MazaoHub** | Dar es Salaam, Tanzania | AI + agronomy / agri-tech | Climate-smart smallholder farming (East Africa) | Hybrid "Tech and Touch" model: AI soil intelligence, crop management platform, Farmer Excellence Centres, CropSupply.com digital marketplace connecting farmers to bulk buyers; $2M pre-seed (Sep 2025, Catalyst Fund lead); reduces fertiliser use 30%, optimizes irrigation; expanding to 60 centres across East Africa | Oct 2025 |
+| **Pano AI** | San Francisco, USA | AI wildfire detection / remote monitoring | Early wildfire detection for utilities and land managers | Rapid Detect solution combines sensor networks and AI analysis for early wildfire detection; hiring spree in Oct 2025 (Director of Product Management and other roles) signals commercial expansion | Oct 2025 |
 
 ### Research, Policy & NGOs
 
@@ -219,6 +227,9 @@
 | **CFRF (Climate Financial Risk Forum)** | UK regulatory industry initiative | London, UK | Published "From Risk to Resilience: Integrating Adaptation into Finance" (Oct 23, 2025); updated ABC (Aim–Build–Contingency) framework; joint FCA/PRA initiative; toolkit for operationalizing adaptation across asset classes and sectors; contributors include Standard Chartered, NatWest, Schroders, Columbia Threadneedle, Zurich, Aviva | Oct 2025 |
 | **UNEP (UN Environment Programme)** | UN agency | Nairobi, Kenya | Published Adaptation Gap Report 2025: international adaptation finance flows declined from $28bn (2022) to $26bn (2023); developing countries need $310–365bn/year by 2035 (~12–14× current flows); debt = 58% of flows; "adaptation investment trap" risk from growing share of non-concessional loans; Glasgow $40bn/year goal at risk | Oct 2025 |
 | **BloombergNEF (BNEF)** | Financial / energy research | New York, USA | Country climate adaptation preparedness ranking | Published "Ranking Resilience: Assessing Country Climate Adaptation" (Oct 2025); first BNEF country resilience scorecard across G20 + select SE Asian markets; Canada, Singapore, UK top; Saudi Arabia, Russia lowest; framework covers policies, risk assessments, and dedicated adaptation budgets; tool for investors assessing country resilience | Oct 2025 |
+| **Health Action Alliance** | Non-profit / employer coalition | Washington DC, USA | Workforce health and climate adaptation | Convenes business, health, and climate leaders through National Commission on Climate and Workforce Health; 76% of US employers report extreme weather already affecting workforce; productivity losses from climate-related health impacts ~$100bn/yr (projected $500bn by 2030); 63% of employers report rising insurance costs linked to extreme weather; launched Extreme Weather + Work initiative; partners: Mercer, CDC Foundation, Elevance Health, The Hartford, Google, de Beaumont Foundation | Sep 2025 |
+| **Meteorite** | Program strategy firm | USA | Climate workforce health strategy | Director of Program Strategy David Leathers leads strategy for National Commission on Climate and Workforce Health (Health Action Alliance); helps employers assess and address climate-related workforce risks and operational continuity | Sep 2025 |
+| **Operation Future LLC** | Advisory / consulting | USA | Climate adaptation consulting | Founded by Ben DeAngelo (first Director, EPA Office of Climate Adaptation and Sustainability, 2024–2025; 30-yr federal career at EPA, NOAA, OSTP); focuses on adaptation strategy for city/state governments, businesses, NGOs; services include infrastructure planning, water resource management, and natural resource conservation | Oct 2025 |
 
 ---
 
@@ -287,6 +298,8 @@
 | Climate Investor Two (CI2) Final Close | Climate Fund Managers / IFC / European Commission (EFSD+) | $1.065bn ($190mn new + €205mn EU guarantee) | Africa, Asia, Latin America | Water, waste and ocean adaptation infrastructure; largest EM climate adaptation infrastructure fund; bridge-to-bond mechanism via Sanlam | Oct 13, 2025 |
 | Tokyo Metropolitan Government Resilience Bond | Tokyo Metropolitan Government | €300mn (~$330mn) | Tokyo, Japan | Climate-resilient infrastructure (flood, storm, earthquake protection, 100-year horizon); first Climate Bonds Certified Resilience Bond globally | Oct 16, 2025 |
 | Class 3 Technologies Seed Round | Powerhouse Ventures + Sustainable Future Ventures + Tailwind Futures | $3.5mn | USA | Building-level climate risk modeling platform (Iris); Arup spinout | Oct 2025 |
+| Adaptive Insurance Seed Round | Congruent Ventures (lead) + Montauk Climate + Generation Space | $5mn | USA | Parametric power outage insurance (GridProtect) for climate-impacted SMBs | Feb 2025 |
+| MazaoHub Pre-Seed Round | Catalyst Fund (lead) + Nordic Impact Fund + Mercy Corps Ventures + elea Foundation + Impacc + DOB Equity + $500K non-dilutive (Livelihood Impact Fund) | $2mn ($1.5mn equity + $500K non-dilutive) | Tanzania | AI climate-smart farming platform scale-up across East Africa | Sep 2025 |
 
 ---
 
@@ -339,6 +352,7 @@
 | **NANOPLUME Bio-Aerogel Insulation** | NANOPLUME | Building thermal insulation / heat and cold resilience | Early-stage (Oct 2025) | Bio-based aerogel; 3× insulating value vs traditional materials; 60% thinner and lighter; 100% biocompatible and non-toxic; applicable to home insulation and temperature-sensitive goods/transport; reduces heating/cooling energy loads | Oct 2025 |
 | **Iris Climate Risk Platform** | Class 3 Technologies (Arup spinout) | Building-level physical climate risk assessment and resilience planning | Seed-funded (Oct 2025) | Simulation engine delivering building-specific vulnerability assessments; bridges gap between high-level climate projections and engineering-grade analysis; quantifies multi-hazard risk at asset level; used by institutional clients for site selection, acquisitions, and resilience investment planning | Oct 2025 |
 | **RCOAST Aerial 3D Coastal Erosion Mapping** | RCOAST | Coastal shoreline retreat quantification and resilience planning | Commercial (deployed 2025) | Aerial 3D photogrammetric mapping of shoreline changes; measured Buxton, NC retreat (avg 68ft, max 141ft after consecutive storms); enables engineering-grade coastal resilience planning; data used by state DEQ and resilience programs | Oct 2025 |
+| **GridProtect** | Adaptive Insurance | Parametric power outage insurance for SMBs | Commercial (18 US states, Jun 2025) | First short-term parametric power outage coverage; trigger: verified outage event; integrates geospatial and weather data for precise pricing and customization; instant payout; targets ~2.36M US SMEs; addresses $150bn/year US power outage cost market | Oct 2025 |
 
 ---
 
@@ -378,6 +392,8 @@
 | **Climate Investor Two (CI2) Final Close** | Climate Fund Managers | Oct 13, 2025 | Global (Africa, Asia, LatAm) | Largest-ever EM climate adaptation infrastructure fund close at $1.065bn; water, waste and ocean infrastructure focus; Sanlam bridge-to-bond mechanism |
 | **Tokyo Metropolitan Government Resilience Bond Issuance** | Tokyo Metropolitan Government | Oct 16, 2025 | Tokyo, Japan | First Climate Bonds Certified Resilience Bond globally; €300mn; finances 100-year flood, storm, earthquake protection program |
 | **BNEF Country Climate Resilience Rankings Launch** | BloombergNEF | Oct 2025 | Global | First-ever BNEF country scorecard on climate adaptation preparedness; G20 + SE Asia; Canada, Singapore, UK lead; Saudi Arabia and Russia lowest |
+| **US Government Shutdown / NFIP Lapse** | US Federal Government | Oct 1 – Nov 13, 2025 | USA | NFIP lapsed as government shut down Oct 1, 2025; no new flood insurance policies issued for 43 days; froze home sales in high-risk flood zones (NFIP underpins ~500K transactions/year, $1.3trn in housing value); reauthorized via HR 5371 (shutdown-ending bill) to Jan 30, 2026; exposes fragility of US flood insurance infrastructure |
+| **FEMA Emergency Preparedness Grant Freeze** | FEMA / US Federal | Oct 2025 | USA | FEMA suspended $300mn+ in Emergency Management Performance Grants, demanding states re-verify population numbers before funds released; also froze SAFER firefighter staffing grants; cited potential census distortions from mass deportations; threatens state/local disaster preparedness capacity |
 
 ---
 
@@ -425,6 +441,9 @@
 | **Brazil National Climate Adaptation Plan for Health** | Government of Brazil | Adopted Nov 2025 | First national climate adaptation plan specifically for the health sector, launched at COP30 in Belém; addresses climate-sensitive infectious disease, extreme heat, and air pollution; part of broader COP30 health and climate resilience agenda | Nov 2025 |
 | **CFRF "From Risk to Resilience" Framework** | UK | Published (voluntary guidance) Oct 23, 2025 | Joint FCA/PRA initiative; updated ABC (Aim–Build–Contingency) framework; first comprehensive toolkit for UK financial institutions to integrate climate adaptation across asset classes, sectors, and sovereign exposures; covers incorporating adaptation into climate transition plans and crafting adaptation-focused products; contributors: Standard Chartered, NatWest, Schroders, Columbia Threadneedle, Zurich, Aviva | Oct 2025 |
 | **UK Climate Change Committee 2025 Adaptation Progress Report** | UK (statutory) | Published Apr 2025; government response Oct 2025 | First statutory assessment of UK Third National Adaptation Programme (NAP3); concluded UK adaptation preparations remain inadequate; delivery stalled; government urged to plan for 2°C world; called for clarity on roles of government, private sector, and households; recommended stable long-term adaptation funding and clearer monitoring frameworks | Oct 20, 2025 |
+| **FEMA Emergency Management Performance Grants Freeze** | USA (federal) | Active Oct 2025 (partial release pending population verification) | FEMA suspended $300mn+ in Emergency Management Performance Grants; states must re-verify population counts before receiving funds; linked to potential census distortions from mass deportations; also froze SAFER firefighter staffing grants; threatens state/local disaster preparedness capacity (staff, equipment, public training) | Oct 2025 |
+| **NFIP Lapse — Oct–Nov 2025 Government Shutdown** | USA (federal) | Resolved Nov 13, 2025; reauthorized to Jan 30, 2026 | NFIP lapsed as US government shut down Oct 1, 2025 (43 days); no new flood policies issued; froze housing transactions in high-risk flood zones (NFIP underpins ~500K home sales/year); program carries $23bn in debt; 4.7M policies, $1.3trn in housing value; reauthorized via HR 5371 (shutdown-ending bill); requires permanent long-term congressional reform | Oct–Nov 2025 |
+| **EPA Office of Climate Adaptation and Sustainability Dissolved** | USA (federal) | Dissolved late 2025 | First-ever EPA Office of Climate Adaptation and Sustainability (created 2024 under Biden administration) formally dissolved under Trump/Zeldin EPA; career director Ben DeAngelo and all ~12 staff departed or reassigned; office had been charged with leading and coordinating adaptation activities across the entire agency; no significant EPA climate adaptation work ongoing despite Administrator Zeldin's earlier comments | 2025 |
 
 ---
 
@@ -505,6 +524,12 @@
 | 64 | Mishal Thadani on the Business of Grid Resilience (interview) | Nov 2025 | /p/mishal-thadani-on-the-business-of-grid-resilience | ✅ |
 | 65 | UK Financial Regulators Push Resilience Framework, UN National Adaptation Plan Report, WaterTech Fund Raises $50mn | Oct/Nov 2025 | /p/uk-financial-regulators-push-resilience-framework-un-national-adaptation-plan-report-watertech-fund | ✅ |
 | 66 | Europe's Adaptation Agenda Grows Some Teeth | Dec 2025 | /p/europe-s-adaptation-agenda-grows-some-teeth | ✅ |
+| 74 | David Leathers on Making Workforce Health a Climate Priority (interview) | Sep 2025 | /p/david-leathers-on-making-workforce-health-a-climate-priority | ✅ |
+| 75 | Mike Gulla on Why Insurance Needs a Makeover for a Changed Climate (interview) | Oct 2025 | /p/mike-gulla-on-why-insurance-needs-a-makeover-for-a-changed-climate | ✅ |
+| 76 | Abby Ross & Joe Rozza on Why Resilience Is the New Bottom Line (interview) | Oct 8, 2025 | /p/abby-ross-joe-rozza-on-why-resilience-is-the-new-bottom-line | ✅ |
+| 77 | People Moves: IDB Invest's New Blended Finance Chief, Ex-Fed Official Joins Think-Tank, FireTech Hiring Spree | Oct 2025 | /p/people-moves-idb-invest-s-new-blended-finance-chief-ex-fed-official-joins-think-tank-firetech-hiring | ✅ |
+| 78 | Ben DeAngelo on Life After the EPA and the Future of Adaptation (interview) | Oct 2025 | /p/ben-deangelo-on-life-after-the-epa-and-the-future-of-adaptation | ✅ |
+| 79 | FEMA Holds Emergency Preparedness Grants Hostage, Shutdown Threat to US Flood Insurance Program, African Climate Tech Start-up Raise, and More | Oct–Nov 2025 | /p/fema-holds-emergency-preparedness-grants-hostage-shutdown-threat-to-us-flood-insurance-program-afric | ✅ |
 
-**Remaining unprocessed:** 289 issues  
+**Remaining unprocessed:** 276 issues  
 **Full archive URL list:** See `newsletter_urls.md`
