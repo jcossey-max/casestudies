@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-05-19  
-**Issues processed:** 79 of 355  
+**Last updated:** 2026-05-22  
+**Issues processed:** 84 of 355  
 
 ---
 
@@ -182,6 +182,8 @@
 | **Class 3 Technologies** | San Francisco, USA | Building-level climate risk modeling | Physical climate risk assessment and resilience planning | Arup spinout; CEO Ibbi Almufti (ex-Arup Risk & Resilience lead, licensed structural engineer); Iris platform delivers building-specific vulnerability assessments bridging gap between broad climate projections and engineering-grade analysis; raised $3.5mn seed led by Powerhouse Ventures (Oct 2025) | Oct 2025 |
 | **MazaoHub** | Dar es Salaam, Tanzania | AI + agronomy / agri-tech | Climate-smart smallholder farming (East Africa) | Hybrid "Tech and Touch" model: AI soil intelligence, crop management platform, Farmer Excellence Centres, CropSupply.com digital marketplace connecting farmers to bulk buyers; $2M pre-seed (Sep 2025, Catalyst Fund lead); reduces fertiliser use 30%, optimizes irrigation; expanding to 60 centres across East Africa | Oct 2025 |
 | **Pano AI** | San Francisco, USA | AI wildfire detection / remote monitoring | Early wildfire detection for utilities and land managers | Rapid Detect solution combines sensor networks and AI analysis for early wildfire detection; hiring spree in Oct 2025 (Director of Product Management and other roles) signals commercial expansion | Oct 2025 |
+| **Earthmover** | New York, USA | Cloud-native tensor data platform | Weather/climate/geospatial data management for risk analytics | $7.2mn seed (Lowercarbon Capital, Costanoa Ventures, Preston-Werner Ventures); open-source Icechunk 1.0 data format; Flux geospatial API gateway; 100× performance improvement for NASA Earth observation data retrieval; customers: Kettle (wildfire insurance AI), RWE AI Research Lab, Sylvera (carbon credit ratings); positioned as "Snowflake of weather and geospatial data" | Sep 2025 |
+| **InfraSure** | USA | AI-powered climate risk analytics platform | Infrastructure climate risk management for investors, owners, and insurers | Founded by Prashant Mupparapu (ex-Citadel, Credit Suisse, Blue Owl); physics + ML risk engine producing P10-P90 outcomes and loss exceedance curves validated on historical data; AI contract reader maps legal obligations to financial climate exposure; proposes "resilience credits" incentive structure; enables high-resolution asset-specific analytics for infrastructure investment decisions | Sep 23, 2025 |
 
 ### Research, Policy & NGOs
 
@@ -230,6 +232,8 @@
 | **Health Action Alliance** | Non-profit / employer coalition | Washington DC, USA | Workforce health and climate adaptation | Convenes business, health, and climate leaders through National Commission on Climate and Workforce Health; 76% of US employers report extreme weather already affecting workforce; productivity losses from climate-related health impacts ~$100bn/yr (projected $500bn by 2030); 63% of employers report rising insurance costs linked to extreme weather; launched Extreme Weather + Work initiative; partners: Mercer, CDC Foundation, Elevance Health, The Hartford, Google, de Beaumont Foundation | Sep 2025 |
 | **Meteorite** | Program strategy firm | USA | Climate workforce health strategy | Director of Program Strategy David Leathers leads strategy for National Commission on Climate and Workforce Health (Health Action Alliance); helps employers assess and address climate-related workforce risks and operational continuity | Sep 2025 |
 | **Operation Future LLC** | Advisory / consulting | USA | Climate adaptation consulting | Founded by Ben DeAngelo (first Director, EPA Office of Climate Adaptation and Sustainability, 2024–2025; 30-yr federal career at EPA, NOAA, OSTP); focuses on adaptation strategy for city/state governments, businesses, NGOs; services include infrastructure planning, water resource management, and natural resource conservation | Oct 2025 |
+| **World Economic Forum** | International research/convening | Geneva, Switzerland | Sep 2025 climate-health risk report: climate-driven health crisis projected to cost $12.5trn and cause 14.5M excess deaths by mid-century (2025-2050) under probable climate trajectory; health/healthcare sector faces $200bn in worker availability losses + $1.1trn treatment burden; hunger, overheating, and insect-borne diseases cited as main drivers | Sep 2025 |
+| **Love Design Studio / Shade the UK** | Sustainability consultancy / community interest company | London, UK | UK building cooling and urban heat resilience; founder Andy Love addresses planning law barriers, heritage rules, poor architectural design choices, and cultural underestimation of heat risks in UK; promotes passive cooling, shade infrastructure, and climate-adapted building design; Shade the UK CIC advocates systemic urban shade; explains why UK is not ready for mass air conditioning adoption | ~Oct 2025 |
 
 ---
 
@@ -300,6 +304,7 @@
 | Class 3 Technologies Seed Round | Powerhouse Ventures + Sustainable Future Ventures + Tailwind Futures | $3.5mn | USA | Building-level climate risk modeling platform (Iris); Arup spinout | Oct 2025 |
 | Adaptive Insurance Seed Round | Congruent Ventures (lead) + Montauk Climate + Generation Space | $5mn | USA | Parametric power outage insurance (GridProtect) for climate-impacted SMBs | Feb 2025 |
 | MazaoHub Pre-Seed Round | Catalyst Fund (lead) + Nordic Impact Fund + Mercy Corps Ventures + elea Foundation + Impacc + DOB Equity + $500K non-dilutive (Livelihood Impact Fund) | $2mn ($1.5mn equity + $500K non-dilutive) | Tanzania | AI climate-smart farming platform scale-up across East Africa | Sep 2025 |
+| Earthmover Seed Round | Lowercarbon Capital (lead) + Costanoa Ventures + Preston-Werner Ventures | $7.2mn | USA | Cloud-native tensor data platform for weather/climate/geospatial data; enables climate risk analytics for insurers, energy companies, and carbon markets | Sep 2025 |
 
 ---
 
@@ -353,6 +358,8 @@
 | **Iris Climate Risk Platform** | Class 3 Technologies (Arup spinout) | Building-level physical climate risk assessment and resilience planning | Seed-funded (Oct 2025) | Simulation engine delivering building-specific vulnerability assessments; bridges gap between high-level climate projections and engineering-grade analysis; quantifies multi-hazard risk at asset level; used by institutional clients for site selection, acquisitions, and resilience investment planning | Oct 2025 |
 | **RCOAST Aerial 3D Coastal Erosion Mapping** | RCOAST | Coastal shoreline retreat quantification and resilience planning | Commercial (deployed 2025) | Aerial 3D photogrammetric mapping of shoreline changes; measured Buxton, NC retreat (avg 68ft, max 141ft after consecutive storms); enables engineering-grade coastal resilience planning; data used by state DEQ and resilience programs | Oct 2025 |
 | **GridProtect** | Adaptive Insurance | Parametric power outage insurance for SMBs | Commercial (18 US states, Jun 2025) | First short-term parametric power outage coverage; trigger: verified outage event; integrates geospatial and weather data for precise pricing and customization; instant payout; targets ~2.36M US SMEs; addresses $150bn/year US power outage cost market | Oct 2025 |
+| **Earthmover Platform** | Earthmover | Cloud-native weather/climate/geospatial tensor data management | Launched (commercial) | Exabyte-scale tensor data platform; open-source Icechunk 1.0 data format; Flux geospatial API gateway; achieved 100× performance improvement for NASA Earth observation data retrieval; customers: Kettle (wildfire insurance AI models), RWE AI Research Lab, Sylvera (carbon credit ratings); enables climate risk analytics, weather model development, and geospatial data collaboration | Sep 2025 |
+| **InfraSure Risk Platform** | InfraSure | Infrastructure climate risk simulation and contract analysis | Early-stage (commercial) | Physics + ML simulation of P10-P90 climate risk outcomes and loss exceedance curves validated on historical data; AI contract risk engine reads infrastructure project contracts to build risk matrix linking legal obligations to financial climate exposure; delivers high-resolution asset-specific climate risk analytics for infrastructure investment and insurance decisions | Sep 23, 2025 |
 
 ---
 
@@ -444,6 +451,7 @@
 | **FEMA Emergency Management Performance Grants Freeze** | USA (federal) | Active Oct 2025 (partial release pending population verification) | FEMA suspended $300mn+ in Emergency Management Performance Grants; states must re-verify population counts before receiving funds; linked to potential census distortions from mass deportations; also froze SAFER firefighter staffing grants; threatens state/local disaster preparedness capacity (staff, equipment, public training) | Oct 2025 |
 | **NFIP Lapse — Oct–Nov 2025 Government Shutdown** | USA (federal) | Resolved Nov 13, 2025; reauthorized to Jan 30, 2026 | NFIP lapsed as US government shut down Oct 1, 2025 (43 days); no new flood policies issued; froze housing transactions in high-risk flood zones (NFIP underpins ~500K home sales/year); program carries $23bn in debt; 4.7M policies, $1.3trn in housing value; reauthorized via HR 5371 (shutdown-ending bill); requires permanent long-term congressional reform | Oct–Nov 2025 |
 | **EPA Office of Climate Adaptation and Sustainability Dissolved** | USA (federal) | Dissolved late 2025 | First-ever EPA Office of Climate Adaptation and Sustainability (created 2024 under Biden administration) formally dissolved under Trump/Zeldin EPA; career director Ben DeAngelo and all ~12 staff departed or reassigned; office had been charged with leading and coordinating adaptation activities across the entire agency; no significant EPA climate adaptation work ongoing despite Administrator Zeldin's earlier comments | 2025 |
+| **US State Climate Superfund Laws — Multi-State DOJ Legal Challenge** | USA (multi-state: VT, NY, MI, HI + others considering) | Active litigation (2025-2026) | DOJ sued 4 states (Vermont, NY, Michigan, Hawaii) over state climate accountability laws requiring fossil fuel companies to fund state climate adaptation in proportion to historical GHG emissions; DOJ argument: laws unconstitutional, usurp federal jurisdiction over GHG emissions, violate Commerce Clause; federal courts rejected DOJ suits in Michigan and Hawaii; VT and NY challenges ongoing; 12+ additional states considering similar legislation; NJ and MD actively exploring climate superfund frameworks | Sep-Oct 2025 |
 
 ---
 
@@ -530,6 +538,11 @@
 | 77 | People Moves: IDB Invest's New Blended Finance Chief, Ex-Fed Official Joins Think-Tank, FireTech Hiring Spree | Oct 2025 | /p/people-moves-idb-invest-s-new-blended-finance-chief-ex-fed-official-joins-think-tank-firetech-hiring | ✅ |
 | 78 | Ben DeAngelo on Life After the EPA and the Future of Adaptation (interview) | Oct 2025 | /p/ben-deangelo-on-life-after-the-epa-and-the-future-of-adaptation | ✅ |
 | 79 | FEMA Holds Emergency Preparedness Grants Hostage, Shutdown Threat to US Flood Insurance Program, African Climate Tech Start-up Raise, and More | Oct–Nov 2025 | /p/fema-holds-emergency-preparedness-grants-hostage-shutdown-threat-to-us-flood-insurance-program-afric | ✅ |
+| 80 | Andrew Lala on Democratizing Weather Intelligence (interview — Ignitia CEO) | Sep 30, 2025 | /p/andrew-lala-on-democratizing-weather-intelligence | ✅ |
+| 81 | Prashant Mupparapu on Enabling Climate-Resilient Infrastructure (interview — InfraSure founder) | Sep 23, 2025 | /p/prashant-mupparapu-on-enabling-climate-resilient-infrastructure | ✅ |
+| 82 | Climate-Health Threats to Global Economy, Vermont Climate Superfund Under Siege, Earthmover Raise, and More | Sep 2025 | /p/climate-health-threats-to-global-economy-vermont-climate-superfund-under-siege-earthmover-raise-and | ✅ |
+| 83 | Want States to Pay for Climate Resilience? Don't Sue Them for Trying | Sep-Oct 2025 | /p/want-states-to-pay-for-climate-resilience-don-t-sue-them-for-trying | ✅ |
+| 84 | Andy Love on Cooling the UK: Buildings, Shade, and Heat Resilience (interview) | ~Oct 2025 | /p/andy-love-on-cooling-the-uk-buildings-shade-heat-resilience | ✅ |
 
-**Remaining unprocessed:** 276 issues  
+**Remaining unprocessed:** 271 issues  
 **Full archive URL list:** See `newsletter_urls.md`
