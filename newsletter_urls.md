@@ -93,16 +93,16 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/fema-holds-emergency-preparedness-grants-hostage-shutdown-threat-to-us-flood-insurance-program-afric
 - https://www.climateproof.news/p/lost-in-translation-results-from-the-adaptation-vs-resilience-survey
 - ✅ https://www.climateproof.news/p/andrew-lala-on-democratizing-weather-intelligence
-- https://www.climateproof.news/p/adaptation10-powering-through-the-storm-how-utilities-are-adapting-to-climate-risks
+- ✅ https://www.climateproof.news/p/adaptation10-powering-through-the-storm-how-utilities-are-adapting-to-climate-risks
 - ✅ https://www.climateproof.news/p/prashant-mupparapu-on-enabling-climate-resilient-infrastructure
 - ✅ https://www.climateproof.news/p/climate-health-threats-to-global-economy-vermont-climate-superfund-under-siege-earthmover-raise-and
 - ✅ https://www.climateproof.news/p/want-states-to-pay-for-climate-resilience-don-t-sue-them-for-trying
 - ✅ https://www.climateproof.news/p/andy-love-on-cooling-the-uk-buildings-shade-heat-resilience
-- https://www.climateproof.news/p/development-banks-climate-finance-record-un-adaptation-indicators-shortlist-cloud-seeding-start-up-c
+- ✅ https://www.climateproof.news/p/development-banks-climate-finance-record-un-adaptation-indicators-shortlist-cloud-seeding-start-up-c
 - https://www.climateproof.news/p/check-out-the-new-improved-climate-risk-signals-explorer
-- https://www.climateproof.news/p/people-moves-ex-fed-regulator-joins-nyc-comptroller-s-office-adaptation-pros-launch-consultancies-cl
-- https://www.climateproof.news/p/jake-rascoff-steven-rothstein-on-exposing-climate-risk-in-the-4-trillion-muni-bond-market
-- https://www.climateproof.news/p/doj-escalates-fight-over-new-york-climate-superfund-fema-staffers-warning-on-us-disaster-preparednes-f9f5
+- ✅ https://www.climateproof.news/p/people-moves-ex-fed-regulator-joins-nyc-comptroller-s-office-adaptation-pros-launch-consultancies-cl
+- ✅ https://www.climateproof.news/p/jake-rascoff-steven-rothstein-on-exposing-climate-risk-in-the-4-trillion-muni-bond-market
+- ✅ https://www.climateproof.news/p/doj-escalates-fight-over-new-york-climate-superfund-fema-staffers-warning-on-us-disaster-preparednes-f9f5
 - https://www.climateproof.news/p/can-the-private-sector-deliver-on-adaptation-a-new-report-says-not-really
 - https://www.climateproof.news/p/anjana-agarwal-on-adaptation-tech-for-utilities
 - https://www.climateproof.news/p/doj-escalates-fight-over-new-york-climate-superfund-fema-staffers-warning-on-us-disaster-preparednes

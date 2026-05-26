@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-05-22  
-**Issues processed:** 84 of 355  
+**Last updated:** 2026-05-26  
+**Issues processed:** 89 of 355  
 
 ---
 
@@ -75,6 +75,8 @@
 | **MazaoHub Climate-Smart Farming Scale-Up** | MazaoHub | Tanzania / East Africa | Smallholder agriculture / drought resilience | AI + agronomy hybrid "Tech and Touch" platform: soil intelligence, crop management tools, Farmer Excellence Centres, CropSupply.com digital marketplace; reduces fertiliser use 30%, boosts organic manure adoption 5×, optimizes irrigation; $2M pre-seed (Sep 2025, Catalyst Fund lead); plans expand from 25 to 60 Farmer Excellence Centres across East Africa in 18 months | $2mn (pre-seed) | Oct 2025 |
 | **Resilient Delta Fund** | The Resiliency Company | Los Angeles, USA | Wildfire / residential resilience | Catalytic fund to support resilient home lending for LA wildfire rebuild; engages banks, CDFIs, and capital partners on resilient loan product design; $200mn+ potential | $200mn+ catalytic potential | Oct 8, 2025 |
 | **CRE Resilience Playbook ("From Vulnerability to Value")** | The Resiliency Company / Ryan Companies / JLL / Urban Land Institute | USA | Commercial real estate / multi-hazard resilience | First-of-its-kind industry-driven blueprint for integrating resilience across full CRE value chain from investors to insurers; 55 cross-sector leaders contributing, combined $2.5trn market cap; launched Sep 22, 2025; free resource | — | Oct 8, 2025 |
+| **MDB Record Climate Finance 2024** | MDB Group (World Bank, ADB, AfDB, AIIB, EBRD, EIB, IDB, NDB) | Global (low/middle income focus) | Climate finance — adaptation portion | Record $137bn in total MDB climate finance for 2024 (10% increase vs prior year); low/middle income economies received $85.1bn (+14%); adaptation: $26.3bn; mitigation: $58.8bn; published in joint annual MDB report | $137bn ($26.3bn adaptation) | Sep 15, 2025 |
+| **Enel Italy Grid Resiliency Plan** | Enel | Italy | Grid resilience / heat adaptation | 3-year resiliency plan for Italy grid using future heatwave projection data to identify infrastructure priorities; substituting underground cables with heat-resilient technologies; forward-looking climate data integrated into capital planning; highlighted at Sep 2025 Climate Proof utilities adaptation report | — | Sep 25, 2025 |
 
 ---
 
@@ -116,6 +118,7 @@
 | **UpRoot Capital** | VC / angel syndicate | USA | Pest / invasive species / bio-risk adaptation tech investing | Founded by Will Everill; targets early-stage companies helping clients detect, monitor, and control pests, invasive species, and biological risks that are expanding due to climate change; positions bio-risk as next frontier in climate adaptation tech; early-stage syndicate model | Oct 2025 |
 | **Resilience Investments** | Real estate asset manager | USA (Great Lakes focus) | Climate-resilient real estate acquisition and retrofit | Founded by Hunter Maats; acquires and retrofits affordable homes in climate-stable Great Lakes region; thesis: "insurability equals investability"; cites WSJ/Realtor.com Summer 2025 Housing Market Ranking showing top 20 US markets all in Midwest and Northeast; argues climate migration is driving capital north | Oct 2025 |
 | **The Resiliency Company** | Real estate resilience advisory / investment | Los Angeles, USA | CRE resilience / wildfire recovery | Founded by Abby Ross; co-produced CRE Resilience Playbook ("From Vulnerability to Value") with Ryan Companies, JLL, and ULI (Sep 22, 2025); launched Resilient Delta Fund for LA wildfire rebuild ($200mn+ catalytic lending potential); convenes cross-sector CRE leaders to integrate resilience across full building value chain | Oct 8, 2025 |
+| **NYC Comptroller's Office (Climate)** | Government — pension fund stewardship | New York City, USA | City pension fund climate risk and adaptation investment | Hired Yue (Nina) Chen as Senior Climate Finance Officer (Sep 2025); Chen formerly OCC Chief Climate Risk Officer under Biden and NY DFS Executive Deputy Superintendent, Climate Division; will craft strategies on how NYC pension funds address climate risks and opportunities through investment strategy, proxy voting, and corporate engagement | Sep 2025 |
 
 ### Insurance
 
@@ -184,6 +187,8 @@
 | **Pano AI** | San Francisco, USA | AI wildfire detection / remote monitoring | Early wildfire detection for utilities and land managers | Rapid Detect solution combines sensor networks and AI analysis for early wildfire detection; hiring spree in Oct 2025 (Director of Product Management and other roles) signals commercial expansion | Oct 2025 |
 | **Earthmover** | New York, USA | Cloud-native tensor data platform | Weather/climate/geospatial data management for risk analytics | $7.2mn seed (Lowercarbon Capital, Costanoa Ventures, Preston-Werner Ventures); open-source Icechunk 1.0 data format; Flux geospatial API gateway; 100× performance improvement for NASA Earth observation data retrieval; customers: Kettle (wildfire insurance AI), RWE AI Research Lab, Sylvera (carbon credit ratings); positioned as "Snowflake of weather and geospatial data" | Sep 2025 |
 | **InfraSure** | USA | AI-powered climate risk analytics platform | Infrastructure climate risk management for investors, owners, and insurers | Founded by Prashant Mupparapu (ex-Citadel, Credit Suisse, Blue Owl); physics + ML risk engine producing P10-P90 outcomes and loss exceedance curves validated on historical data; AI contract reader maps legal obligations to financial climate exposure; proposes "resilience credits" incentive structure; enables high-resolution asset-specific analytics for infrastructure investment decisions | Sep 23, 2025 |
+| **TransZero** | Surrey, UK | AI-powered multi-peril physical climate risk analytics | Property portfolio and supply chain climate risk assessment | Launched Sep 2025; founded by Dan Yarnold, David Bamford, Iain Willis; cloud-hosted platform + API using best-in-class climate/hazard models covering flood, windstorm, drought, hail, subsidence, and heatwave; projects risk 2025–2100 under alternative climate pathways; serves asset management, banking, insurance, and retail; partnerships with JBA Risk Management and Kita (carbon insurance market) | Sep 2025 |
+| **Rainmaker Technologies** | USA | Drone-based cloud seeding for rainfall augmentation | Water scarcity and drought adaptation | Founded by Augustus Doricko; drone-mounted pyrotechnic flares seed clouds to induce rainfall; more precise and cost-effective than manned aircraft approaches; $25mn raised; FAA regulatory review triggered by Air Line Pilots Association (ALPA) safety objections to pyrotechnic devices in busy airspace; targeting water-stressed regions adapting to more severe droughts | Sep 2025 |
 
 ### Research, Policy & NGOs
 
@@ -234,6 +239,7 @@
 | **Operation Future LLC** | Advisory / consulting | USA | Climate adaptation consulting | Founded by Ben DeAngelo (first Director, EPA Office of Climate Adaptation and Sustainability, 2024–2025; 30-yr federal career at EPA, NOAA, OSTP); focuses on adaptation strategy for city/state governments, businesses, NGOs; services include infrastructure planning, water resource management, and natural resource conservation | Oct 2025 |
 | **World Economic Forum** | International research/convening | Geneva, Switzerland | Sep 2025 climate-health risk report: climate-driven health crisis projected to cost $12.5trn and cause 14.5M excess deaths by mid-century (2025-2050) under probable climate trajectory; health/healthcare sector faces $200bn in worker availability losses + $1.1trn treatment burden; hunger, overheating, and insect-borne diseases cited as main drivers | Sep 2025 |
 | **Love Design Studio / Shade the UK** | Sustainability consultancy / community interest company | London, UK | UK building cooling and urban heat resilience; founder Andy Love addresses planning law barriers, heritage rules, poor architectural design choices, and cultural underestimation of heat risks in UK; promotes passive cooling, shade infrastructure, and climate-adapted building design; Shade the UK CIC advocates systemic urban shade; explains why UK is not ready for mass air conditioning adoption | ~Oct 2025 |
+| **Ceres** | NGO / advocacy | Boston, USA | Muni bond market climate risk disclosure | Published guidance (Sep 2025) recommending state/local governments issuing municipal bonds develop transparent, forward-looking climate risk disclosures for the $4 trillion US muni bond market; notes current disclosure "inconsistent and inadequate"; recommends disclosures describe climate risks to repayment ability and current/future adaptation actions; led by Steven Rothstein (MD, Ceres Accelerator) and Jake Rascoff | Sep 9, 2025 |
 
 ---
 
@@ -305,6 +311,8 @@
 | Adaptive Insurance Seed Round | Congruent Ventures (lead) + Montauk Climate + Generation Space | $5mn | USA | Parametric power outage insurance (GridProtect) for climate-impacted SMBs | Feb 2025 |
 | MazaoHub Pre-Seed Round | Catalyst Fund (lead) + Nordic Impact Fund + Mercy Corps Ventures + elea Foundation + Impacc + DOB Equity + $500K non-dilutive (Livelihood Impact Fund) | $2mn ($1.5mn equity + $500K non-dilutive) | Tanzania | AI climate-smart farming platform scale-up across East Africa | Sep 2025 |
 | Earthmover Seed Round | Lowercarbon Capital (lead) + Costanoa Ventures + Preston-Werner Ventures | $7.2mn | USA | Cloud-native tensor data platform for weather/climate/geospatial data; enables climate risk analytics for insurers, energy companies, and carbon markets | Sep 2025 |
+| MDB Joint Climate Finance 2024 | World Bank, ADB, AfDB, AIIB, EBRD, EIB, IDB, NDB | $137bn total ($26.3bn adaptation) | Global (priority: low/middle income economies) | Record MDB climate finance (10% increase); adaptation $26.3bn; low/middle income economies received $85.1bn (+14%) | 2024 data; Sep 15, 2025 |
+| Rainmaker Technologies Raise | Rainmaker Technologies | $25mn | USA | Drone-based cloud seeding / water scarcity adaptation technology | Sep 2025 |
 
 ---
 
@@ -360,6 +368,8 @@
 | **GridProtect** | Adaptive Insurance | Parametric power outage insurance for SMBs | Commercial (18 US states, Jun 2025) | First short-term parametric power outage coverage; trigger: verified outage event; integrates geospatial and weather data for precise pricing and customization; instant payout; targets ~2.36M US SMEs; addresses $150bn/year US power outage cost market | Oct 2025 |
 | **Earthmover Platform** | Earthmover | Cloud-native weather/climate/geospatial tensor data management | Launched (commercial) | Exabyte-scale tensor data platform; open-source Icechunk 1.0 data format; Flux geospatial API gateway; achieved 100× performance improvement for NASA Earth observation data retrieval; customers: Kettle (wildfire insurance AI models), RWE AI Research Lab, Sylvera (carbon credit ratings); enables climate risk analytics, weather model development, and geospatial data collaboration | Sep 2025 |
 | **InfraSure Risk Platform** | InfraSure | Infrastructure climate risk simulation and contract analysis | Early-stage (commercial) | Physics + ML simulation of P10-P90 climate risk outcomes and loss exceedance curves validated on historical data; AI contract risk engine reads infrastructure project contracts to build risk matrix linking legal obligations to financial climate exposure; delivers high-resolution asset-specific climate risk analytics for infrastructure investment and insurance decisions | Sep 23, 2025 |
+| **TransZero Climate Risk Platform** | TransZero | Multi-peril physical climate risk for property portfolios and supply chains | Commercial (launched Sep 2025) | AI + geospatial + hazard models covering flood, windstorm, drought, hail, subsidence, and heatwave; projects risk 2025–2100 under alternative climate pathways; property portfolio, asset-level, and supply chain risk views; climate-related disclosure support; partnership with JBA Risk Management for flood risk insights | Sep 2025 |
+| **Rainmaker Drone Cloud Seeding System** | Rainmaker Technologies | Rainfall augmentation / weather modification for drought and water scarcity resilience | FAA regulatory review | Drone-mounted pyrotechnic flares for cloud seeding; more precise and cost-effective than traditional manned aircraft; FAA reviewing after Air Line Pilots Association (ALPA) safety objections; founder Augustus Doricko; targets water-scarce regions adapting to intensifying droughts | Sep 2025 |
 
 ---
 
@@ -543,6 +553,11 @@
 | 82 | Climate-Health Threats to Global Economy, Vermont Climate Superfund Under Siege, Earthmover Raise, and More | Sep 2025 | /p/climate-health-threats-to-global-economy-vermont-climate-superfund-under-siege-earthmover-raise-and | ✅ |
 | 83 | Want States to Pay for Climate Resilience? Don't Sue Them for Trying | Sep-Oct 2025 | /p/want-states-to-pay-for-climate-resilience-don-t-sue-them-for-trying | ✅ |
 | 84 | Andy Love on Cooling the UK: Buildings, Shade, and Heat Resilience (interview) | ~Oct 2025 | /p/andy-love-on-cooling-the-uk-buildings-shade-heat-resilience | ✅ |
+| 85 | Adaptation10: Powering Through the Storm — How Utilities Are Adapting to Climate Risks | Sep 25, 2025 | /p/adaptation10-powering-through-the-storm-how-utilities-are-adapting-to-climate-risks | ✅ |
+| 86 | Development Banks' Climate Finance Record, UN Adaptation Indicators Shortlist, Cloud-Seeding Start-up Challenged by Airline Pilots, and More | Sep 15, 2025 | /p/development-banks-climate-finance-record-un-adaptation-indicators-shortlist-cloud-seeding-start-up-c | ✅ |
+| 87 | People Moves: Ex-Fed Regulator Joins NYC Comptroller's Office, Adaptation Pros Launch Consultancies, Climate Resilience Fund Hiring | Sep 2025 | /p/people-moves-ex-fed-regulator-joins-nyc-comptroller-s-office-adaptation-pros-launch-consultancies-cl | ✅ |
+| 88 | Jake Rascoff & Steven Rothstein on Exposing Climate Risk in the $4 Trillion Muni Bond Market (interview) | Sep 9, 2025 | /p/jake-rascoff-steven-rothstein-on-exposing-climate-risk-in-the-4-trillion-muni-bond-market | ✅ |
+| 89 | DOJ Escalates Fight Over New York Climate Superfund, FEMA Staffers' Warning on US Disaster Preparedness, New Climate Risk Platform, and More | Sep 2025 | /p/doj-escalates-fight-over-new-york-climate-superfund-fema-staffers-warning-on-us-disaster-preparednes-f9f5 | ✅ |
 
-**Remaining unprocessed:** 271 issues  
+**Remaining unprocessed:** 266 issues  
 **Full archive URL list:** See `newsletter_urls.md`
