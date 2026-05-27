@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-05-26  
-**Issues processed:** 89 of 355  
+**Last updated:** 2026-05-27  
+**Issues processed:** 93 of 355  
 
 ---
 
@@ -77,6 +77,7 @@
 | **CRE Resilience Playbook ("From Vulnerability to Value")** | The Resiliency Company / Ryan Companies / JLL / Urban Land Institute | USA | Commercial real estate / multi-hazard resilience | First-of-its-kind industry-driven blueprint for integrating resilience across full CRE value chain from investors to insurers; 55 cross-sector leaders contributing, combined $2.5trn market cap; launched Sep 22, 2025; free resource | — | Oct 8, 2025 |
 | **MDB Record Climate Finance 2024** | MDB Group (World Bank, ADB, AfDB, AIIB, EBRD, EIB, IDB, NDB) | Global (low/middle income focus) | Climate finance — adaptation portion | Record $137bn in total MDB climate finance for 2024 (10% increase vs prior year); low/middle income economies received $85.1bn (+14%); adaptation: $26.3bn; mitigation: $58.8bn; published in joint annual MDB report | $137bn ($26.3bn adaptation) | Sep 15, 2025 |
 | **Enel Italy Grid Resiliency Plan** | Enel | Italy | Grid resilience / heat adaptation | 3-year resiliency plan for Italy grid using future heatwave projection data to identify infrastructure priorities; substituting underground cables with heat-resilient technologies; forward-looking climate data integrated into capital planning; highlighted at Sep 2025 Climate Proof utilities adaptation report | — | Sep 25, 2025 |
+| **Chicago Urban Flood Sensor Network** | Hyfi / Verizon / Center for Neighborhood Technology | Chicago, Illinois, USA | Urban flood / early warning | 50 sonar-based 5G-connected floodwater sensors deployed across flood-prone neighborhoods (launched Aug 11, 2025); real-time water level data for city managers and emergency responders; ~1 hour advance flood warning capability; solar-powered; web app for community access; Center for Neighborhood Technology facilitating community engagement on South and Northwest sides | — | Aug 25, 2025 |
 
 ---
 
@@ -189,6 +190,7 @@
 | **InfraSure** | USA | AI-powered climate risk analytics platform | Infrastructure climate risk management for investors, owners, and insurers | Founded by Prashant Mupparapu (ex-Citadel, Credit Suisse, Blue Owl); physics + ML risk engine producing P10-P90 outcomes and loss exceedance curves validated on historical data; AI contract reader maps legal obligations to financial climate exposure; proposes "resilience credits" incentive structure; enables high-resolution asset-specific analytics for infrastructure investment decisions | Sep 23, 2025 |
 | **TransZero** | Surrey, UK | AI-powered multi-peril physical climate risk analytics | Property portfolio and supply chain climate risk assessment | Launched Sep 2025; founded by Dan Yarnold, David Bamford, Iain Willis; cloud-hosted platform + API using best-in-class climate/hazard models covering flood, windstorm, drought, hail, subsidence, and heatwave; projects risk 2025–2100 under alternative climate pathways; serves asset management, banking, insurance, and retail; partnerships with JBA Risk Management and Kita (carbon insurance market) | Sep 2025 |
 | **Rainmaker Technologies** | USA | Drone-based cloud seeding for rainfall augmentation | Water scarcity and drought adaptation | Founded by Augustus Doricko; drone-mounted pyrotechnic flares seed clouds to induce rainfall; more precise and cost-effective than manned aircraft approaches; $25mn raised; FAA regulatory review triggered by Air Line Pilots Association (ALPA) safety objections to pyrotechnic devices in busy airspace; targeting water-stressed regions adapting to more severe droughts | Sep 2025 |
+| **Hyfi** | Michigan, USA | IoT flood sensor platform | Urban flood early warning | Sonar wireless water level sensors on Verizon 5G; solar-powered, autonomous calibration (no field visits needed); web-based real-time flood map for city managers and communities; deployed 50 sensors in Chicago (Aug 2025) with Verizon and Center for Neighborhood Technology; ~1 hour advance flood warning; winner of Verizon Climate Resilience Prize | Aug 25, 2025 |
 
 ### Research, Policy & NGOs
 
@@ -240,6 +242,7 @@
 | **World Economic Forum** | International research/convening | Geneva, Switzerland | Sep 2025 climate-health risk report: climate-driven health crisis projected to cost $12.5trn and cause 14.5M excess deaths by mid-century (2025-2050) under probable climate trajectory; health/healthcare sector faces $200bn in worker availability losses + $1.1trn treatment burden; hunger, overheating, and insect-borne diseases cited as main drivers | Sep 2025 |
 | **Love Design Studio / Shade the UK** | Sustainability consultancy / community interest company | London, UK | UK building cooling and urban heat resilience; founder Andy Love addresses planning law barriers, heritage rules, poor architectural design choices, and cultural underestimation of heat risks in UK; promotes passive cooling, shade infrastructure, and climate-adapted building design; Shade the UK CIC advocates systemic urban shade; explains why UK is not ready for mass air conditioning adoption | ~Oct 2025 |
 | **Ceres** | NGO / advocacy | Boston, USA | Muni bond market climate risk disclosure | Published guidance (Sep 2025) recommending state/local governments issuing municipal bonds develop transparent, forward-looking climate risk disclosures for the $4 trillion US muni bond market; notes current disclosure "inconsistent and inadequate"; recommends disclosures describe climate risks to repayment ability and current/future adaptation actions; led by Steven Rothstein (MD, Ceres Accelerator) and Jake Rascoff | Sep 9, 2025 |
+| **Zurich Climate Resilience Alliance (ZCRA)** | Research consortium (12 institutions incl. IIASA, Mercy Corps) | Global | Private sector adaptation finance evidence and analysis | Published "Adaptation Finance and the Private Sector" evidence report (Sep 2025) with Mercy Corps; finds private sector can deliver max ~15% (~$45-50bn/yr) of adaptation needs by 2035, up from 3% today (~$10bn); blended finance mobilizes only $0.51 private per $1 public; warns popular blended finance approaches underdeliver; advocates clearer "financing" vs "funding" distinction in adaptation; funded by Zurich Foundation | Oct 22, 2025 |
 
 ---
 
@@ -370,6 +373,7 @@
 | **InfraSure Risk Platform** | InfraSure | Infrastructure climate risk simulation and contract analysis | Early-stage (commercial) | Physics + ML simulation of P10-P90 climate risk outcomes and loss exceedance curves validated on historical data; AI contract risk engine reads infrastructure project contracts to build risk matrix linking legal obligations to financial climate exposure; delivers high-resolution asset-specific climate risk analytics for infrastructure investment and insurance decisions | Sep 23, 2025 |
 | **TransZero Climate Risk Platform** | TransZero | Multi-peril physical climate risk for property portfolios and supply chains | Commercial (launched Sep 2025) | AI + geospatial + hazard models covering flood, windstorm, drought, hail, subsidence, and heatwave; projects risk 2025–2100 under alternative climate pathways; property portfolio, asset-level, and supply chain risk views; climate-related disclosure support; partnership with JBA Risk Management for flood risk insights | Sep 2025 |
 | **Rainmaker Drone Cloud Seeding System** | Rainmaker Technologies | Rainfall augmentation / weather modification for drought and water scarcity resilience | FAA regulatory review | Drone-mounted pyrotechnic flares for cloud seeding; more precise and cost-effective than traditional manned aircraft; FAA reviewing after Air Line Pilots Association (ALPA) safety objections; founder Augustus Doricko; targets water-scarce regions adapting to intensifying droughts | Sep 2025 |
+| **Hyfi Flood Sensor Platform** | Hyfi | Urban flood early warning and stormwater monitoring | Commercial (deployed Chicago Aug 2025) | Sonar-based wireless water level sensors on Verizon 5G; real-time urban flood monitoring via web app; ~1 hour advance flood warning before inundation; solar-powered, autonomous calibration (no field visits); community-accessible app; scalable nationally; partnership with Verizon and Center for Neighborhood Technology for Chicago deployment | Aug 25, 2025 |
 
 ---
 
@@ -411,6 +415,7 @@
 | **BNEF Country Climate Resilience Rankings Launch** | BloombergNEF | Oct 2025 | Global | First-ever BNEF country scorecard on climate adaptation preparedness; G20 + SE Asia; Canada, Singapore, UK lead; Saudi Arabia and Russia lowest |
 | **US Government Shutdown / NFIP Lapse** | US Federal Government | Oct 1 – Nov 13, 2025 | USA | NFIP lapsed as government shut down Oct 1, 2025; no new flood insurance policies issued for 43 days; froze home sales in high-risk flood zones (NFIP underpins ~500K transactions/year, $1.3trn in housing value); reauthorized via HR 5371 (shutdown-ending bill) to Jan 30, 2026; exposes fragility of US flood insurance infrastructure |
 | **FEMA Emergency Preparedness Grant Freeze** | FEMA / US Federal | Oct 2025 | USA | FEMA suspended $300mn+ in Emergency Management Performance Grants, demanding states re-verify population numbers before funds released; also froze SAFER firefighter staffing grants; cited potential census distortions from mass deportations; threatens state/local disaster preparedness capacity |
+| **"Climate Change and Workplace Heat Stress" Report** | WHO / WMO | Aug 22, 2025 | Geneva, Switzerland | Joint WHO/WMO report drawing on 5 decades of evidence: 2.4bn workers globally exposed to excessive heat; 22.85M heat-related occupational injuries/year; calls for targeted occupational heat-health policies and protections for older/chronic-condition workers; guidance for health professionals; ILO-aligned call for urgent coordinated global action on workplace heat stress |
 
 ---
 
@@ -558,6 +563,10 @@
 | 87 | People Moves: Ex-Fed Regulator Joins NYC Comptroller's Office, Adaptation Pros Launch Consultancies, Climate Resilience Fund Hiring | Sep 2025 | /p/people-moves-ex-fed-regulator-joins-nyc-comptroller-s-office-adaptation-pros-launch-consultancies-cl | ✅ |
 | 88 | Jake Rascoff & Steven Rothstein on Exposing Climate Risk in the $4 Trillion Muni Bond Market (interview) | Sep 9, 2025 | /p/jake-rascoff-steven-rothstein-on-exposing-climate-risk-in-the-4-trillion-muni-bond-market | ✅ |
 | 89 | DOJ Escalates Fight Over New York Climate Superfund, FEMA Staffers' Warning on US Disaster Preparedness, New Climate Risk Platform, and More | Sep 2025 | /p/doj-escalates-fight-over-new-york-climate-superfund-fema-staffers-warning-on-us-disaster-preparednes-f9f5 | ✅ |
+| 90 | Climate Superfund Fight, UN Warns on Heat Stress, Chicago's New Flood Sensors, and More | Aug 25, 2025 | /p/climate-superfund-fight-un-warning-on-heat-stress-chicago-s-new-flood-sensors-and-more | ✅ |
+| 91 | Adaptation vs Resilience: Let's Settle This Once and For All | Aug 28, 2025 | /p/adaptation-vs-resilience-let-s-settle-this-once-and-for-all | ✅ |
+| 92 | DOJ Escalates Fight Over New York Climate Superfund, FEMA Staffers' Warning on US Disaster Preparedness (alt. URL — content same as #89) | Sep 1, 2025 | /p/doj-escalates-fight-over-new-york-climate-superfund-fema-staffers-warning-on-us-disaster-preparednes | ✅ |
+| 93 | Can the Private Sector Deliver on Adaptation? A New Report Says: Not Really | Oct 22, 2025 | /p/can-the-private-sector-deliver-on-adaptation-a-new-report-says-not-really | ✅ |
 
-**Remaining unprocessed:** 266 issues  
+**Remaining unprocessed:** 262 issues  
 **Full archive URL list:** See `newsletter_urls.md`

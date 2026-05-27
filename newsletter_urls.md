@@ -103,11 +103,11 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/people-moves-ex-fed-regulator-joins-nyc-comptroller-s-office-adaptation-pros-launch-consultancies-cl
 - ✅ https://www.climateproof.news/p/jake-rascoff-steven-rothstein-on-exposing-climate-risk-in-the-4-trillion-muni-bond-market
 - ✅ https://www.climateproof.news/p/doj-escalates-fight-over-new-york-climate-superfund-fema-staffers-warning-on-us-disaster-preparednes-f9f5
-- https://www.climateproof.news/p/can-the-private-sector-deliver-on-adaptation-a-new-report-says-not-really
+- ✅ https://www.climateproof.news/p/can-the-private-sector-deliver-on-adaptation-a-new-report-says-not-really
 - https://www.climateproof.news/p/anjana-agarwal-on-adaptation-tech-for-utilities
-- https://www.climateproof.news/p/doj-escalates-fight-over-new-york-climate-superfund-fema-staffers-warning-on-us-disaster-preparednes
-- https://www.climateproof.news/p/adaptation-vs-resilience-let-s-settle-this-once-and-for-all
-- https://www.climateproof.news/p/climate-superfund-fight-un-warning-on-heat-stress-chicago-s-new-flood-sensors-and-more
+- ✅ https://www.climateproof.news/p/doj-escalates-fight-over-new-york-climate-superfund-fema-staffers-warning-on-us-disaster-preparednes
+- ✅ https://www.climateproof.news/p/adaptation-vs-resilience-let-s-settle-this-once-and-for-all
+- ✅ https://www.climateproof.news/p/climate-superfund-fight-un-warning-on-heat-stress-chicago-s-new-flood-sensors-and-more
 - https://www.climateproof.news/p/inside-california-s-new-wildfire-model-regime
 - https://www.climateproof.news/p/us-insurance-cops-under-pressure-spanish-premier-calls-for-national-climate-pact-uk-railway-deploys
 - https://www.climateproof.news/p/icj-opinion-raises-the-stakes-for-adaptation-plans
