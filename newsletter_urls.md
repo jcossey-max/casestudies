@@ -44,7 +44,7 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/climate-adaptation-laws-are-booming-but-still-falling-short
 - ✅ https://www.climateproof.news/p/climate-economic-models-under-fire-europeans-lagging-on-household-resilience-ai-native-weather-satel
 - ✅ https://www.climateproof.news/p/how-to-guide-for-adaptation-finance-vehicles-america-s-disaster-aid-bottleneck-wildfire-tech-collab
-- https://www.climateproof.news/p/adaptation10-extreme-cold-snow-ice
+- ✅ https://www.climateproof.news/p/adaptation10-extreme-cold-snow-ice
 - ✅ https://www.climateproof.news/p/people-moves-bhattacharya-joins-tailwind-futures-vanston-out-at-msci-financial-institutions-seek-cli
 - ✅ https://www.climateproof.news/p/ai-analysis-reveals-corporate-s-extreme-weather-costs-uk-warns-of-biodiversity-loss-threat-to-nation
 - ✅ https://www.climateproof.news/p/the-un-s-new-adaptation-metrics-need-eyes-in-the-sky
@@ -112,11 +112,11 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/us-insurance-cops-under-pressure-spanish-premier-calls-for-national-climate-pact-uk-railway-deploys
 - ✅ https://www.climateproof.news/p/icj-opinion-raises-the-stakes-for-adaptation-plans
 - ✅ https://www.climateproof.news/p/people-moves-topping-takes-uk-climate-change-committee-chair-systemiq-launches-in-us-california-seek
-- https://www.climateproof.news/p/judge-freezes-transfer-of-us-adaptation-grants-national-weather-service-hiring-spree-sust-global-acq
-- https://www.climateproof.news/p/can-philanthropy-fix-adaptation-finance-a-50-million-fund-wants-to-try
-- https://www.climateproof.news/p/california-adopts-wildfire-models-for-insurers-eu-climate-resilience-initiative-google-s-virtual-sat
-- https://www.climateproof.news/p/america-s-flood-risk-draws-a-global-crowd-of-climate-startups
-- https://www.climateproof.news/p/climate-proofers-summer-playlist
+- ✅ https://www.climateproof.news/p/judge-freezes-transfer-of-us-adaptation-grants-national-weather-service-hiring-spree-sust-global-acq
+- ✅ https://www.climateproof.news/p/can-philanthropy-fix-adaptation-finance-a-50-million-fund-wants-to-try
+- ✅ https://www.climateproof.news/p/california-adopts-wildfire-models-for-insurers-eu-climate-resilience-initiative-google-s-virtual-sat
+- ✅ https://www.climateproof.news/p/america-s-flood-risk-draws-a-global-crowd-of-climate-startups
+- ✅ https://www.climateproof.news/p/climate-proofers-summer-playlist
 - https://www.climateproof.news/p/green-central-banks-back-adaptation-plans-world-court-issues-climate-opinion-china-s-ai-early-warnin
 - https://www.climateproof.news/p/can-a-250-million-blended-fund-make-la-homes-wildfire-resilient
 - https://www.climateproof.news/p/ben-andrews-on-building-an-adaptation-consultancy
