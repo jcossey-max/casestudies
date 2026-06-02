@@ -117,12 +117,12 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/california-adopts-wildfire-models-for-insurers-eu-climate-resilience-initiative-google-s-virtual-sat
 - ✅ https://www.climateproof.news/p/america-s-flood-risk-draws-a-global-crowd-of-climate-startups
 - ✅ https://www.climateproof.news/p/climate-proofers-summer-playlist
-- https://www.climateproof.news/p/green-central-banks-back-adaptation-plans-world-court-issues-climate-opinion-china-s-ai-early-warnin
-- https://www.climateproof.news/p/can-a-250-million-blended-fund-make-la-homes-wildfire-resilient
-- https://www.climateproof.news/p/ben-andrews-on-building-an-adaptation-consultancy
-- https://www.climateproof.news/p/global-financial-regulators-pivot-to-physical-climate-risk-epa-shutters-scientific-office-geospatial
-- https://www.climateproof.news/p/texas-flood-fallout-exposes-blind-spots-in-4-trillion-muni-bond-market
-- https://www.climateproof.news/p/debbie-hillier-on-adaptation-indicators-finance-the-bonn-climate-talks
+- ✅ https://www.climateproof.news/p/green-central-banks-back-adaptation-plans-world-court-issues-climate-opinion-china-s-ai-early-warnin
+- ✅ https://www.climateproof.news/p/can-a-250-million-blended-fund-make-la-homes-wildfire-resilient
+- ✅ https://www.climateproof.news/p/ben-andrews-on-building-an-adaptation-consultancy
+- ✅ https://www.climateproof.news/p/global-financial-regulators-pivot-to-physical-climate-risk-epa-shutters-scientific-office-geospatial
+- ✅ https://www.climateproof.news/p/texas-flood-fallout-exposes-blind-spots-in-4-trillion-muni-bond-market
+- ✅ https://www.climateproof.news/p/debbie-hillier-on-adaptation-indicators-finance-the-bonn-climate-talks
 - https://www.climateproof.news/p/democratic-states-fight-unlawful-resilience-grants-freeze-texas-flood-response-climate-threat-to-dat
 - https://www.climateproof.news/p/grid-crunch-looms-as-trump-s-beautiful-bill-undermines-resilience
 - https://www.climateproof.news/p/people-moves-epa-adaptation-director-departs-ex-fema-official-joins-duke-and-more
