@@ -123,12 +123,12 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/global-financial-regulators-pivot-to-physical-climate-risk-epa-shutters-scientific-office-geospatial
 - ✅ https://www.climateproof.news/p/texas-flood-fallout-exposes-blind-spots-in-4-trillion-muni-bond-market
 - ✅ https://www.climateproof.news/p/debbie-hillier-on-adaptation-indicators-finance-the-bonn-climate-talks
-- https://www.climateproof.news/p/democratic-states-fight-unlawful-resilience-grants-freeze-texas-flood-response-climate-threat-to-dat
-- https://www.climateproof.news/p/grid-crunch-looms-as-trump-s-beautiful-bill-undermines-resilience
-- https://www.climateproof.news/p/people-moves-epa-adaptation-director-departs-ex-fema-official-joins-duke-and-more
-- https://www.climateproof.news/p/alice-hill-on-texas-floods-trump-s-anti-resilience-budget-bill-and-climate-realism
-- https://www.climateproof.news/p/financing-summit-boosts-debt-swaps-trump-bill-hinders-us-resilience-allianz-adaptation-platform-and
-- https://www.climateproof.news/p/storms-fires-and-hail-leave-lasting-scars-on-corporate-america
+- ✅ https://www.climateproof.news/p/democratic-states-fight-unlawful-resilience-grants-freeze-texas-flood-response-climate-threat-to-dat
+- ✅ https://www.climateproof.news/p/grid-crunch-looms-as-trump-s-beautiful-bill-undermines-resilience
+- ✅ https://www.climateproof.news/p/people-moves-epa-adaptation-director-departs-ex-fema-official-joins-duke-and-more
+- ✅ https://www.climateproof.news/p/alice-hill-on-texas-floods-trump-s-anti-resilience-budget-bill-and-climate-realism
+- ✅ https://www.climateproof.news/p/financing-summit-boosts-debt-swaps-trump-bill-hinders-us-resilience-allianz-adaptation-platform-and
+- ✅ https://www.climateproof.news/p/storms-fires-and-hail-leave-lasting-scars-on-corporate-america
 - https://www.climateproof.news/p/jonathan-cook-jainey-bavishi-on-the-state-of-adaptation-post-biden
 - https://www.climateproof.news/p/adaptation-finance-slump-bonn-breakthrough-climate-vulnerability-index-and-more
 - https://www.climateproof.news/p/adaptation10-personal-climate-defense
