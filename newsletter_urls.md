@@ -129,12 +129,12 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/alice-hill-on-texas-floods-trump-s-anti-resilience-budget-bill-and-climate-realism
 - ✅ https://www.climateproof.news/p/financing-summit-boosts-debt-swaps-trump-bill-hinders-us-resilience-allianz-adaptation-platform-and
 - ✅ https://www.climateproof.news/p/storms-fires-and-hail-leave-lasting-scars-on-corporate-america
-- https://www.climateproof.news/p/jonathan-cook-jainey-bavishi-on-the-state-of-adaptation-post-biden
-- https://www.climateproof.news/p/adaptation-finance-slump-bonn-breakthrough-climate-vulnerability-index-and-more
+- ✅ https://www.climateproof.news/p/jonathan-cook-jainey-bavishi-on-the-state-of-adaptation-post-biden
+- ✅ https://www.climateproof.news/p/adaptation-finance-slump-bonn-breakthrough-climate-vulnerability-index-and-more
 - https://www.climateproof.news/p/adaptation10-personal-climate-defense
-- https://www.climateproof.news/p/katie-walsh-on-financing-the-86-billion-city-climate-gap
-- https://www.climateproof.news/p/resilient-la-delta-fund-bonn-adaptation-talks-fathom-s-flood-model-upgrade-and-more
-- https://www.climateproof.news/p/extreme-heat-gets-a-price-tag
+- ✅ https://www.climateproof.news/p/katie-walsh-on-financing-the-86-billion-city-climate-gap
+- ✅ https://www.climateproof.news/p/resilient-la-delta-fund-bonn-adaptation-talks-fathom-s-flood-model-upgrade-and-more
+- ✅ https://www.climateproof.news/p/extreme-heat-gets-a-price-tag
 - https://www.climateproof.news/p/garrett-kephart-on-scaling-climate-intelligence-through-spatial-finance
 - https://www.climateproof.news/p/10bn-for-uk-flood-defenses-trump-doubles-down-on-fema-attacks-nvidia-s-climate-in-a-bottle-and-more
 - https://www.climateproof.news/p/how-do-you-measure-adaptation-un-diplomats-try-to-agree
