@@ -135,11 +135,11 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/katie-walsh-on-financing-the-86-billion-city-climate-gap
 - ✅ https://www.climateproof.news/p/resilient-la-delta-fund-bonn-adaptation-talks-fathom-s-flood-model-upgrade-and-more
 - ✅ https://www.climateproof.news/p/extreme-heat-gets-a-price-tag
-- https://www.climateproof.news/p/garrett-kephart-on-scaling-climate-intelligence-through-spatial-finance
-- https://www.climateproof.news/p/10bn-for-uk-flood-defenses-trump-doubles-down-on-fema-attacks-nvidia-s-climate-in-a-bottle-and-more
-- https://www.climateproof.news/p/how-do-you-measure-adaptation-un-diplomats-try-to-agree
-- https://www.climateproof.news/p/people-moves-prof-ranger-switches-oxford-for-lse-bachrach-tapped-for-unfccc-adaptation-finance-role
-- https://www.climateproof.news/p/yue-nina-chen-on-embedding-climate-risk-into-bank-supervision
+- ✅ https://www.climateproof.news/p/garrett-kephart-on-scaling-climate-intelligence-through-spatial-finance
+- ✅ https://www.climateproof.news/p/10bn-for-uk-flood-defenses-trump-doubles-down-on-fema-attacks-nvidia-s-climate-in-a-bottle-and-more
+- ✅ https://www.climateproof.news/p/how-do-you-measure-adaptation-un-diplomats-try-to-agree
+- ✅ https://www.climateproof.news/p/people-moves-prof-ranger-switches-oxford-for-lse-bachrach-tapped-for-unfccc-adaptation-finance-role
+- ✅ https://www.climateproof.news/p/yue-nina-chen-on-embedding-climate-risk-into-bank-supervision
 - https://www.climateproof.news/p/wri-s-adaptation-investment-case-un-ocean-summit-wind-turbine-robot-start-up-and-more
 - https://www.climateproof.news/p/inside-the-geospatial-ai-boom-reshaping-climate-risk-analysis
 - https://www.climateproof.news/p/paige-roepers-on-geospatial-data-for-coastal-resilience
