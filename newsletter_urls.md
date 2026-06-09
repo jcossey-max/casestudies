@@ -140,12 +140,12 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/how-do-you-measure-adaptation-un-diplomats-try-to-agree
 - ✅ https://www.climateproof.news/p/people-moves-prof-ranger-switches-oxford-for-lse-bachrach-tapped-for-unfccc-adaptation-finance-role
 - ✅ https://www.climateproof.news/p/yue-nina-chen-on-embedding-climate-risk-into-bank-supervision
-- https://www.climateproof.news/p/wri-s-adaptation-investment-case-un-ocean-summit-wind-turbine-robot-start-up-and-more
-- https://www.climateproof.news/p/inside-the-geospatial-ai-boom-reshaping-climate-risk-analysis
-- https://www.climateproof.news/p/paige-roepers-on-geospatial-data-for-coastal-resilience
-- https://www.climateproof.news/p/global-disaster-costs-top-us-2trn-hawaii-climate-resilience-tax-proposed-nasa-cuts-and-more
-- https://www.climateproof.news/p/adaptation10-heat-health-the-race-to-adapt
-- https://www.climateproof.news/p/laurie-schoeman-on-why-adaptation-needs-a-seat-at-the-top-table
+- ✅ https://www.climateproof.news/p/wri-s-adaptation-investment-case-un-ocean-summit-wind-turbine-robot-start-up-and-more
+- ✅ https://www.climateproof.news/p/inside-the-geospatial-ai-boom-reshaping-climate-risk-analysis
+- ✅ https://www.climateproof.news/p/paige-roepers-on-geospatial-data-for-coastal-resilience
+- ✅ https://www.climateproof.news/p/global-disaster-costs-top-us-2trn-hawaii-climate-resilience-tax-proposed-nasa-cuts-and-more
+- ✅ https://www.climateproof.news/p/adaptation10-heat-health-the-race-to-adapt
+- ✅ https://www.climateproof.news/p/laurie-schoeman-on-why-adaptation-needs-a-seat-at-the-top-table
 - https://www.climateproof.news/p/gloomy-blended-finance-outlook-un-adaptation-indicators-and-microsoft-s-ai-weather-forecaster
 - https://www.climateproof.news/p/are-we-building-the-wrong-adaptation-tech
 - https://www.climateproof.news/p/jo-kerr-jonny-casey-on-climate-proofing-scotland
