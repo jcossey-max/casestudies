@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
 **Last updated:** 2026-06-09  
-**Issues processed:** 132 of 355  
+**Issues processed:** 137 of 355  
 
 ---
 
@@ -138,6 +138,7 @@
 | **Earth Finance** | Sustainability strategy, financing & climate risk advisory | Seattle, USA | Physical climate risk / spatial finance for corporations and investors | CEO Garrett Kephart; acquired Climate Engine (SpatiaFi) Apr 7, 2025 — third acquisition in 2 years (Molecule LLC 2023 for transportation sector; Water Foundry 2024 for water/nature practice); spatial finance model: overlays financial and policy layers onto geospatial environmental data to help clients understand physical climate risk and identify adaptation needs; serves corporations and institutional investors | Apr 2025 |
 | **OCC (Office of the Comptroller of the Currency)** | US banking regulator | Washington DC, USA | Bank climate risk supervision | Under Biden administration, Yue (Nina) Chen appointed first Chief Climate Risk Officer (2022); built climate risk function from ground up including bank supervisor education program on climate risk; developed and published first-of-kind climate risk principles for large banks (2023); principles jointly withdrawn Oct 2025 alongside Fed and FDIC guidelines; Chen subsequently moved to NYC Comptroller's Office (Sep 2025) | Oct 2025 |
 | **Partners for the Common Good** | CDFI / national loan fund | Takoma Park, MD, USA | Community climate adaptation and resilience finance | Chief Investment and Impact Officer Laurie Schoeman (former Biden admin Senior Advisor for Climate Risk and Resilience + Senior Housing Policy Advisor); structured $500mn+ into sustainability/adaptability projects over career; advising Blue Ribbon Commission on Climate Action and Fire Safe Recovery (LA wildfires); argues adaptation needs seat at top economic decision-making tables | Jun 2025 |
+| **Convergence** | Research / think tank | Toronto, Canada | Blended finance market analytics and reporting | Published "State of Blended Finance 2025" (May 2025): 123 blended finance deals totaling $18bn closed in 2024; 49% climate-focused ($11bn); median deal size up from $38mn (2020–2023) to $65mn (2024); USAID historically most active development agency in blended finance; CEO Joan Larrea warned that USAID dismantling and ODA cuts will undermine future blended finance volumes, especially in Africa | May 2025 |
 
 ### Insurance
 
@@ -229,6 +230,7 @@
 | **ThermoShade** | Los Angeles, USA | Passive cooling panels for outdoor spaces | Extreme heat adaptation for public spaces, outdoor labor, and events | Patented cooling panels attach to outdoor structures; create shaded areas up to 20°F cooler than traditional awnings; no electricity or water required; passive low-maintenance urban heat adaptation | Jun 2025 |
 | **Epicore Biosystems** | USA | Sweat-sensing wearable health tech | Heat stress monitoring and prevention for outdoor workers | $26M Series B raised; flexible skin-like Connected Hydration Armband continuously monitors sweat rate, electrolyte loss, skin temperature, and motion; paired with mobile app for personalized real-time hydration guidance; designed for outdoor workers, athletes, and climate-exposed communities | Jun 2025 |
 | **Cryogenx** | London, UK | Rapid-cooling medical device | Intervention in heat-related illness (heatstroke treatment) | CGX1: body-conforming pad activated by non-toxic compressed coolant; delivers medical-grade cooling within 2 minutes of diagnosis; portable for healthcare facilities, outdoor events, and remote worksites | Jun 2025 |
+| **Microsoft** | Redmond, USA | AI foundation model for weather and climate | Global weather forecasting / extreme weather risk / early warning for climate adaptation | Launched Aurora (May 2025): 1.3B parameter AI foundation model trained on 1M+ hours of Earth system data; beats current numerical and AI forecasting approaches at 91%+ of city-scale targets for medium-range weather; also covers air quality, tropical cyclones, and ocean waves; generates forecasts 5,000× faster than traditional NWP supercomputers; open-source; supports national meteorological services in Global South to build local forecasting capacity | May 2025 |
 
 ### Research, Policy & NGOs
 
@@ -295,6 +297,7 @@
 | **UNDRR (UN Office for Disaster Risk Reduction)** | UN Agency | Geneva, Switzerland | Disaster risk reduction and adaptation investment evidence | Published GAR 2025 "Resilience Pays: Financing and Investing for our Future"; found true annual global disaster cost = $2.3trn when indirect impacts included (~10× official direct-loss figures ~$202bn/year); calls for major scaling of pre-disaster resilience investment | Jun 2025 |
 | **WRI (World Resources Institute)** | Research / NGO | Washington DC, USA | Adaptation investment case research | Published "Triple Dividend" study (Jun 2025): analyzed 320 real-world adaptation investments across 12 countries (2014–2024); $133bn total cost → $1.4trn projected benefits; $1 invested = $10.50 returned over 10 years; health sector 78% returns; aimed to unlock global adaptation investment pipeline | Jun 2025 |
 | **DSR & Partners** | Climate adaptation advisory | Germany (global) | Climate adaptation strategy and Adaptation10 research | Founded by Daniel Schmitz-Remberg; produces monthly Adaptation10 series (co-published with Climate Proof) profiling 10 climate adaptation companies per hazard theme; themes covered include heat-health, urban resilience, wildfire, utilities, geospatial, cold/ice, agriculture/ecosystem, personal defense; advises businesses on adaptation risk and strategy | 2025 |
+| **Verture** (formerly Sniffer) | Charity / NGO | Scotland, UK | Regional climate adaptation partnerships and community resilience capacity building | CEO Jo Kerr; Head of Climate Ready Leadership Jonny Casey; coordinates cross-sector, cross-community regional adaptation partnerships (Climate Ready Clyde and Highland Adapts) promoting local ownership and community buy-in; five core principles including place-based design and just resilience; prepares Scotland for higher winter rainfall, damaging wind storms, heat extremes, and worsening drought; promotes role of private finance and technology in supporting public-sector adaptation | May 2025 |
 
 ---
 
@@ -451,6 +454,7 @@
 | **ThermoShade Passive Cooling Panels** | ThermoShade | Outdoor extreme heat adaptation for public spaces, outdoor labor, and events | Commercial | Patented cooling panels attach to outdoor structures; create shaded areas up to 20°F cooler than traditional awnings; no electricity or water required; addresses rising outdoor heat exposure risk | Jun 2025 |
 | **Epicore Biosystems Connected Hydration Armband** | Epicore Biosystems | Heat stress monitoring and prevention for outdoor workers and vulnerable populations | Commercial ($26M Series B) | Flexible skin-like wearable patch continuously monitors sweat rate, electrolyte loss, skin temperature, and motion; paired with mobile app for personalized real-time hydration guidance; designed for outdoor workers, athletes, and climate-exposed communities | Jun 2025 |
 | **Cryogenx CGX1 Cooling System** | Cryogenx | Rapid intervention in heat-related illness (heatstroke) | Commercial | Body-conforming pad activated by non-toxic compressed coolant; delivers medical-grade cooling within 2 minutes of diagnosis; portable for healthcare facilities, outdoor events, and remote worksites; addresses rising burden of heatstroke | Jun 2025 |
+| **Aurora AI Weather Foundation Model** | Microsoft | Global weather forecasting and extreme weather risk management for adaptation planning | Open-source (published May 2025) | 1.3B parameter AI foundation model trained on 1M+ hours of Earth system data; beats existing numerical and AI forecasting approaches at 91%+ of city-scale targets; covers medium-range weather, air quality, tropical cyclones, and ocean waves; 5,000× faster than traditional NWP supercomputers; open-source to support National Meteorological Services globally, particularly in Global South | May 2025 |
 
 ---
 
@@ -574,6 +578,8 @@
 | **Trump Administration "Weaning" States Off FEMA** | USA (federal) | Policy statement / active (2025-2026) | President Trump publicly stated intention to shift disaster response responsibility from FEMA to state governors after 2026 hurricane season; ~12,000 public comments submitted in a FEMA consultation opposing reduction of federal role; part of broader administration push for FEMA overhaul and reduced federal disaster response footprint | 2025/2026 |
 | **Hawaii Climate Green Fee (Transient Accommodations Tax Increase)** | Hawaii, USA | Enacted May 2025; effective Jan 1, 2026 | First US state climate impact fee on tourism; +0.75pp tourist accommodation tax (10.25% → 11%); projected ~$100mn/year revenue; funds wildfire mitigation (clearing invasive grasses), beach replenishment, shoreline protection; signed by Governor Josh Green | Jun 2025 (signed May 2025) |
 | **NASA Earth Science Budget Cuts (FY 2026 Proposal)** | USA (federal) | Proposed Jun 2025; bipartisan Congressional opposition; declared "dead on arrival" | Trump administration proposed 25% cut to total NASA budget ($24.9bn → $18.8bn); 53% cut to Earth Science (to ~$1bn); would terminate Terra, Aqua, Aura satellites (2+ decades of climate data); end Atmosphere Observing System (AOS); eliminate Earth-facing Deep Space Climate Observatory instruments; 20+ climate-monitoring satellites threatened; scientists and Congress pushed back strongly | Jun 2025 |
+| **BCBS Voluntary Climate Risk Disclosure Framework** | Global (Basel Committee on Banking Supervision member jurisdictions) | Published Jun 13, 2025 (voluntary, not mandatory) | Voluntary framework for bank disclosure of climate-related financial risks; made voluntary — not mandatory — after US pressure to drop climate-related work entirely; covers bank reporting on governance, strategy, risk management, climate metrics and targets; promotes forward-looking climate scenario analysis and stress testing; applies across 140+ BCBS member jurisdictions; significant milestone for global bank climate regulation despite non-binding nature | May/Jun 2025 |
+| **G7 Climate Resilient Debt Clauses Reaffirmation** | G7 / Global | Reaffirmed May 2025 | G7 finance ministers reaffirmed commitment to including climate resilient debt clauses in sovereign loan agreements with climate-vulnerable developing countries; clauses allow debt payment deferrals when climate disasters strike; protects developing nations' fiscal space for climate adaptation investment; part of G7 climate finance governance | May 2025 |
 
 ---
 
@@ -713,6 +719,11 @@
 | 130 | Global Disaster Costs Top US$2trn, Hawaii Climate Resilience Tax, Proposed NASA Cuts, and More | Jun 2, 2025 | /p/global-disaster-costs-top-us-2trn-hawaii-climate-resilience-tax-proposed-nasa-cuts-and-more | ✅ |
 | 131 | Adaptation10: Heat, Health & the Race to Adapt | Jun 2025 | /p/adaptation10-heat-health-the-race-to-adapt | ✅ |
 | 132 | Laurie Schoeman on Why Adaptation Needs a Seat at the Top Table (interview — Partners for the Common Good CIIO) | Jun 2025 | /p/laurie-schoeman-on-why-adaptation-needs-a-seat-at-the-top-table | ✅ |
+| 133 | Gloomy Blended Finance Outlook, UN Adaptation Indicators, and Microsoft's AI Weather Forecaster | May 26, 2025 | /p/gloomy-blended-finance-outlook-un-adaptation-indicators-and-microsoft-s-ai-weather-forecaster | ✅ |
+| 134 | Bank Watchdogs Advance Climate Work, What Trump's Tax Bill Means for Resilience, 'Earth Intelligence' Startup, and More | May 19, 2025 | /p/bank-watchdogs-advance-climate-work-what-trump-s-tax-bill-means-for-resilience-earth-intelligence-st | ✅ |
+| 135 | Jo Kerr & Jonny Casey on Climate-Proofing Scotland (interview — Verture CEO and Head of Climate Ready Leadership) | May 2025 | /p/jo-kerr-jonny-casey-on-climate-proofing-scotland | ✅ |
+| 136 | Not-Quite-Unbounded Optimism In New York (Adapt Unbound USA 2025 conference coverage) | May 16, 2025 | /p/not-quite-unbounded-optimism-in-new-york | ✅ |
+| 137 | Are We Building the Wrong Adaptation Tech? (analysis: <$7bn of 2020–2023 climate tech to built environment vs $53bn to transport; investment skew concern) | May 2025 | /p/are-we-building-the-wrong-adaptation-tech | ✅ |
 
-**Remaining unprocessed:** 223 issues  
+**Remaining unprocessed:** 218 issues  
 **Full archive URL list:** See `newsletter_urls.md`

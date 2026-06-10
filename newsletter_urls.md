@@ -146,11 +146,11 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/global-disaster-costs-top-us-2trn-hawaii-climate-resilience-tax-proposed-nasa-cuts-and-more
 - ✅ https://www.climateproof.news/p/adaptation10-heat-health-the-race-to-adapt
 - ✅ https://www.climateproof.news/p/laurie-schoeman-on-why-adaptation-needs-a-seat-at-the-top-table
-- https://www.climateproof.news/p/gloomy-blended-finance-outlook-un-adaptation-indicators-and-microsoft-s-ai-weather-forecaster
-- https://www.climateproof.news/p/are-we-building-the-wrong-adaptation-tech
-- https://www.climateproof.news/p/jo-kerr-jonny-casey-on-climate-proofing-scotland
-- https://www.climateproof.news/p/bank-watchdogs-advance-climate-work-what-trump-s-tax-bill-means-for-resilience-earth-intelligence-st
-- https://www.climateproof.news/p/not-quite-unbounded-optimism-in-new-york
+- ✅ https://www.climateproof.news/p/gloomy-blended-finance-outlook-un-adaptation-indicators-and-microsoft-s-ai-weather-forecaster
+- ✅ https://www.climateproof.news/p/are-we-building-the-wrong-adaptation-tech
+- ✅ https://www.climateproof.news/p/jo-kerr-jonny-casey-on-climate-proofing-scotland
+- ✅ https://www.climateproof.news/p/bank-watchdogs-advance-climate-work-what-trump-s-tax-bill-means-for-resilience-earth-intelligence-st
+- ✅ https://www.climateproof.news/p/not-quite-unbounded-optimism-in-new-york
 - https://www.climateproof.news/p/people-moves-tailwind-climate-s-macdonald-joins-rwdi-climate-policy-initiative-taps-ex-state-dept-st
 - https://www.climateproof.news/p/josh-hacker-on-the-evolution-of-climate-risk-models
 - https://www.climateproof.news/p/adaptation-s-promise-for-private-equity-noaa-s-billion-dollar-disasters-database-frozen-floodtech-to
