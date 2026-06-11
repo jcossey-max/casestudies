@@ -151,11 +151,11 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/jo-kerr-jonny-casey-on-climate-proofing-scotland
 - ✅ https://www.climateproof.news/p/bank-watchdogs-advance-climate-work-what-trump-s-tax-bill-means-for-resilience-earth-intelligence-st
 - ✅ https://www.climateproof.news/p/not-quite-unbounded-optimism-in-new-york
-- https://www.climateproof.news/p/people-moves-tailwind-climate-s-macdonald-joins-rwdi-climate-policy-initiative-taps-ex-state-dept-st
-- https://www.climateproof.news/p/josh-hacker-on-the-evolution-of-climate-risk-models
-- https://www.climateproof.news/p/adaptation-s-promise-for-private-equity-noaa-s-billion-dollar-disasters-database-frozen-floodtech-to
-- https://www.climateproof.news/p/resilience-rebrand-trump-s-disaster-strategy-shifts-power-shrinks-support
-- https://www.climateproof.news/p/sarah-farrell-on-financing-the-resilience-continuum
+- ✅ https://www.climateproof.news/p/people-moves-tailwind-climate-s-macdonald-joins-rwdi-climate-policy-initiative-taps-ex-state-dept-st
+- ✅ https://www.climateproof.news/p/josh-hacker-on-the-evolution-of-climate-risk-models
+- ✅ https://www.climateproof.news/p/adaptation-s-promise-for-private-equity-noaa-s-billion-dollar-disasters-database-frozen-floodtech-to
+- ✅ https://www.climateproof.news/p/resilience-rebrand-trump-s-disaster-strategy-shifts-power-shrinks-support
+- ✅ https://www.climateproof.news/p/sarah-farrell-on-financing-the-resilience-continuum
 - https://www.climateproof.news/p/adaptation-s-9trn-opportunity-watchdog-slams-uk-climate-preparedness-grid-resiliency-post-iberian-bl
 - https://www.climateproof.news/p/adaptation10-april-2025
 - https://www.climateproof.news/p/washington-insurance-commissioner-kuderer-on-her-climate-risk-priorities
