@@ -156,11 +156,11 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/adaptation-s-promise-for-private-equity-noaa-s-billion-dollar-disasters-database-frozen-floodtech-to
 - ✅ https://www.climateproof.news/p/resilience-rebrand-trump-s-disaster-strategy-shifts-power-shrinks-support
 - ✅ https://www.climateproof.news/p/sarah-farrell-on-financing-the-resilience-continuum
-- https://www.climateproof.news/p/adaptation-s-9trn-opportunity-watchdog-slams-uk-climate-preparedness-grid-resiliency-post-iberian-bl
+- ✅ https://www.climateproof.news/p/adaptation-s-9trn-opportunity-watchdog-slams-uk-climate-preparedness-grid-resiliency-post-iberian-bl
 - https://www.climateproof.news/p/adaptation10-april-2025
-- https://www.climateproof.news/p/washington-insurance-commissioner-kuderer-on-her-climate-risk-priorities
-- https://www.climateproof.news/p/world-bank-imf-slammed-by-us-for-climate-focus-boost-for-polluters-pay-laws-sf-climate-week-and-more
-- https://www.climateproof.news/p/wildfires-disrupt-earnings-across-s-p-500-from-insurance-to-energy-drinks
+- ✅ https://www.climateproof.news/p/washington-insurance-commissioner-kuderer-on-her-climate-risk-priorities
+- ✅ https://www.climateproof.news/p/world-bank-imf-slammed-by-us-for-climate-focus-boost-for-polluters-pay-laws-sf-climate-week-and-more
+- ✅ https://www.climateproof.news/p/wildfires-disrupt-earnings-across-s-p-500-from-insurance-to-energy-drinks
 - https://www.climateproof.news/p/jyotsna-puri-on-rethinking-adaptation-finance
 - https://www.climateproof.news/p/us-court-battle-over-climate-grants-heats-up-european-cities-make-progress-on-adaptation-and-more
 - https://www.climateproof.news/p/adaptation-finance-is-having-its-don-t-look-away-moment
