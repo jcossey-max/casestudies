@@ -131,7 +131,7 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/storms-fires-and-hail-leave-lasting-scars-on-corporate-america
 - ✅ https://www.climateproof.news/p/jonathan-cook-jainey-bavishi-on-the-state-of-adaptation-post-biden
 - ✅ https://www.climateproof.news/p/adaptation-finance-slump-bonn-breakthrough-climate-vulnerability-index-and-more
-- https://www.climateproof.news/p/adaptation10-personal-climate-defense
+- ✅ https://www.climateproof.news/p/adaptation10-personal-climate-defense
 - ✅ https://www.climateproof.news/p/katie-walsh-on-financing-the-86-billion-city-climate-gap
 - ✅ https://www.climateproof.news/p/resilient-la-delta-fund-bonn-adaptation-talks-fathom-s-flood-model-upgrade-and-more
 - ✅ https://www.climateproof.news/p/extreme-heat-gets-a-price-tag
@@ -161,10 +161,10 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/washington-insurance-commissioner-kuderer-on-her-climate-risk-priorities
 - ✅ https://www.climateproof.news/p/world-bank-imf-slammed-by-us-for-climate-focus-boost-for-polluters-pay-laws-sf-climate-week-and-more
 - ✅ https://www.climateproof.news/p/wildfires-disrupt-earnings-across-s-p-500-from-insurance-to-energy-drinks
-- https://www.climateproof.news/p/jyotsna-puri-on-rethinking-adaptation-finance
-- https://www.climateproof.news/p/us-court-battle-over-climate-grants-heats-up-european-cities-make-progress-on-adaptation-and-more
-- https://www.climateproof.news/p/adaptation-finance-is-having-its-don-t-look-away-moment
-- https://www.climateproof.news/p/susan-crawford-on-how-the-us-government-is-failing-adaptation
+- ✅ https://www.climateproof.news/p/jyotsna-puri-on-rethinking-adaptation-finance
+- ✅ https://www.climateproof.news/p/us-court-battle-over-climate-grants-heats-up-european-cities-make-progress-on-adaptation-and-more
+- ✅ https://www.climateproof.news/p/adaptation-finance-is-having-its-don-t-look-away-moment
+- ✅ https://www.climateproof.news/p/susan-crawford-on-how-the-us-government-is-failing-adaptation
 - https://www.climateproof.news/p/muni-bond-issuers-urged-to-improve-climate-disclosures-white-house-moves-to-gut-noaa-spatial-finance
 - https://www.climateproof.news/p/climate-language-fades-from-naic-agenda-but-resilience-efforts-persist
 - https://www.climateproof.news/p/sonam-velani-on-why-cities-are-the-frontlines-of-climate-adaptation

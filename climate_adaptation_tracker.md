@@ -1,7 +1,7 @@
 # Climate Adaptation Newsletter Tracker
 **Source:** Climate Proof Newsletter — [climateproof.news/archive](https://www.climateproof.news/archive)  
-**Last updated:** 2026-06-19  
-**Issues processed:** 146 of 355  
+**Last updated:** 2026-06-22  
+**Issues processed:** 151 of 355  
 
 ---
 
@@ -242,6 +242,7 @@
 | **Microsoft** | Redmond, USA | AI foundation model for weather and climate | Global weather forecasting / extreme weather risk / early warning for climate adaptation | Launched Aurora (May 2025): 1.3B parameter AI foundation model trained on 1M+ hours of Earth system data; beats current numerical and AI forecasting approaches at 91%+ of city-scale targets for medium-range weather; also covers air quality, tropical cyclones, and ocean waves; generates forecasts 5,000× faster than traditional NWP supercomputers; open-source; supports national meteorological services in Global South to build local forecasting capacity | May 2025 |
 | **Jupiter Intelligence** | Climate risk analytics | San Mateo, CA, USA | Physical climate risk modeling | CSO Josh Hacker profiled in Climate Proofers podcast (May 13, 2025); company built from science outward; emphasizes transparent, science-based climate risk models with rigorous uncertainty quantification and accountability; Hacker: "we're able to explain strengths and weaknesses, explain uncertainty…in ways that a lot of other companies just can't do"; Arcadis partnership introduced PRICE Adaptation Framework (2026) to help organizations quantify adaptation ROI | — | May 13, 2025 |
 | **True Flood Risk** | AI-powered flood risk analytics | Canada/USA | Property-level flood risk and structural elevation data | Founded by CEO Shelly Klose (Hurricane Sandy survivor); launched Canada's first national foundational dataset for property-level structural elevation (First Floor Height/FFE) using patented AI (May 2025); partnered with Fathom for combined flood mapping tool; dataset enables flood insurance underwriting, mitigation planning, and community resilience investment decisions | — | May 2025 |
+| **E.COOLINE** | Europe | Smart cooling garments (phase change materials + 3D smart fabric) | Personal heat adaptation / occupational heat safety | Phase change material textiles deliver up to 660W cooling without electricity; product range: vests, shirts, headgear, accessories; designed for heat-sensitive individuals (MS, POTS, chronic fatigue), outdoor workers, athletes; featured in Adaptation10: Personal Climate Defense | Aug 2025 |
 
 ### Research, Policy & NGOs
 
@@ -312,6 +313,8 @@
 | **SouthSouthNorth** | NGO | Cape Town, South Africa | Climate adaptation and resilience finance | Works with Impatience Earth on the "Resilience Continuum" framework — moves donors and investors beyond the adaptation-mitigation binary toward community-level long-term resilience; connects philanthropic and development finance to locally led adaptation needs in Global South | May 6, 2025 |
 | **Impatience Earth** | Climate philanthropy | International | Climate philanthropy advisory and adaptation finance | Climate Philanthropy Advisory Director Sarah Farrell argues philanthropic investment in climate resilience represents "a leap of faith" yet is essential to unlock transformative adaptation at community level; works with SouthSouthNorth on the Resilience Continuum framework | May 6, 2025 |
 | **RWDI (Rowan Williams Davies & Irwin)** | Engineering / climate resilience consulting | Guelph, Ontario, Canada (global) | Climate resilience engineering and consulting | Hired Katie MacDonald (co-founder of Tailwind Climate) as Director of Ventures; MacDonald remains Advisor to Tailwind's Research & Advisory Practice and Venture Partner with the resilience-focused fund; RWDI's hire signals deepening intersection between engineering firms and the climate adaptation investment ecosystem | May 2025 |
+| **Jyotsna (Jo) Puri** | Senior UN official / economist | Geneva, Switzerland | Director of Policy and Programme Division at UNEP; former inaugural head of GCF Independent Evaluation Unit; former IFAD adaptation programs lead; interviewed Apr 2025 on rethinking adaptation finance; introduced "resilience credits" concept for investable, measurable adaptation outcomes in Global South; argues IFRS and Basel Standards must be rewritten to reward resilience investment | Apr 2025 |
+| **Susan Crawford** | Scholar / policy researcher | Cambridge, MA, USA | Emeritus professor at Harvard Law School; Senior Fellow at Carnegie Endowment for International Peace; writes "Moving Day" Substack on climate and finance; interviewed Apr 15, 2025 on US government failures in climate adaptation; warns of climate risks in $4trn muni bond market; flags insurance market slow-motion collapse in high climate risk areas; notes local governments incentivized to downplay escalating climate threats to protect tax base | Apr 2025 |
 
 ---
 
@@ -392,6 +395,7 @@
 | Aerones Wind Turbine Robotics Raise | Activate Capital + S2G Investments (co-leads) + Carbon Equity, Overlap Holdings, Lightrock, Blume Equity | $62M | Latvia / global (30+ countries) | AI-driven robotic wind turbine inspection and maintenance enabling renewable energy infrastructure climate resilience | Jun 3, 2025 |
 | Ocean Ledger Pre-Seed | Ananda Impact Ventures + Silverstrand Capital | $900K (~€900K) | USA / Netherlands | Coastal geospatial climate risk analytics for insurance, ILS, and parametric products | Mar 2025 |
 | Hawaii Climate Green Fee (annual revenue) | State of Hawaii | ~$100mn/year projected | Hawaii, USA | Wildfire mitigation, beach replenishment, and shoreline hardening; first US state climate impact fee on tourism | Effective Jan 1, 2026; signed May 2025 |
+| EU Water Resilience EIB Investment | European Investment Bank | €15bn (2025–2027) | EU | Water resilience infrastructure; supports EU Water Resilience Strategy; targets 10% water consumption reduction by 2030; part of proposed Water Resilience Investment Accelerator | Jun 2025 |
 
 ---
 
@@ -470,6 +474,7 @@
 | **Cryogenx CGX1 Cooling System** | Cryogenx | Rapid intervention in heat-related illness (heatstroke) | Commercial | Body-conforming pad activated by non-toxic compressed coolant; delivers medical-grade cooling within 2 minutes of diagnosis; portable for healthcare facilities, outdoor events, and remote worksites; addresses rising burden of heatstroke | Jun 2025 |
 | **Aurora AI Weather Foundation Model** | Microsoft | Global weather forecasting and extreme weather risk management for adaptation planning | Open-source (published May 2025) | 1.3B parameter AI foundation model trained on 1M+ hours of Earth system data; beats existing numerical and AI forecasting approaches at 91%+ of city-scale targets; covers medium-range weather, air quality, tropical cyclones, and ocean waves; 5,000× faster than traditional NWP supercomputers; open-source to support National Meteorological Services globally, particularly in Global South | May 2025 |
 | **True Flood Risk Canada Structural Elevation Dataset** | True Flood Risk | Property-level flood risk and insurance underwriting | Launched May 2025 | Canada's first national foundational dataset for property-level structural elevation; patented AI estimates First Floor Height (FFH) and First Floor Elevation (FFE) at building level instantly, cost-effectively, and at scale; enables flood insurance underwriting, mitigation planning, and community resilience decision-making; developed in partnership with Fathom for combined flood mapping | May 2025 |
+| **E.COOLINE Smart Cooling Garments** | E.COOLINE | Personal heat adaptation / occupational heat safety | Commercial | Phase change materials and 3D smart fabric deliver up to 660W cooling without electricity; product range: vests, shirts, headgear, accessories; supports heat-sensitive individuals, outdoor workers, athletes; featured in Adaptation10: Personal Climate Defense | Aug 2025 |
 
 ---
 
@@ -534,6 +539,8 @@
 | **Exelon 2c2i 2026 Application Deadline** | Exelon / Exelon Foundation | Sep 15, 2025 | USA | Deadline for applications to Exelon's 2026 Climate Change Investment Initiative; $20mn commitment for climate adaptation startups in urban infrastructure (flood/stormwater/temperature resilience); 34-company active portfolio |
 | **SF Climate Week 2025** | Various (annual event) | Apr 18–26, 2025 | San Francisco, USA | Annual San Francisco climate and cleantech innovation week; 2025 edition highlighted adaptation and resilience investment themes including spatial finance and wildfire/water/agriculture tech; participants cited shift: "adaptation is moving from nice-to-have to must-have"; covered by Climate Proof alongside World Bank/IMF controversy |
 | **World Bank / IMF Spring Meetings 2025** | World Bank / IMF | Apr 21–26, 2025 | Washington DC, USA | US Treasury Secretary Bessent accused IMF of "mission creep" on climate; pressed World Bank to prioritize fossil fuels; World Bank Development Committee (Apr 25) responded by urging continuation of climate resilience and adaptation investment work |
+| **ClimateTech Connect 2025 (Inaugural)** | ClimateTech Connect | Apr 15–16, 2025 | Ronald Reagan Building and International Trade Center, Washington DC, USA | First dedicated global conference on climate risk and resilience tech; 1,500+ attendees from re/insurance, financial services, real estate, public sectors; speakers from Tomorrow.io, Marsh McLennan, JP Morgan, FEMA, Munich Re; featured panel on adaptation finance under Trump administration; followed by ClimateTech Connect 2026 (Apr 8–9, 2026) |
+| **EU Water Resilience Strategy Adoption** | European Commission | June 4, 2025 | Brussels, EU | European Commission adopted comprehensive water resilience framework; 30+ actions to enhance water management efficiency; 10% water consumption reduction target by 2030; €15bn EIB financing 2025-2027; annual investment gap ~€23bn; key adaptation measure for drought and water security |
 
 ---
 
@@ -605,6 +612,7 @@
 | **US Pressure on IMF and World Bank to Deprioritize Climate Work** | USA (international) | Active Apr 2025 | Treasury Secretary Scott Bessent accused IMF of "mission creep" on climate at April 2025 Spring Meetings; pressed World Bank to prioritize fossil fuel investments over climate; World Bank Development Committee (Apr 25, 2025) pushed back, urging bank to continue working with clients on climate disaster response and adaptation/resilience investment | Apr 28, 2025 |
 | **Climate Change Financial Risk Act — Polluters Pay Reintroduction** | USA (federal) | Reintroduced Apr 2025 | Congressional Democrats reintroduced legislation requiring fossil fuel companies to fund federal climate adaptation programs proportional to historical GHG emissions; backed by attribution science frameworks linking specific major emitters to measurable climate damages | Apr 28, 2025 |
 | **National Science Foundation Grant Cuts to Climate Adaptation Startups** | USA (federal) | Active Apr–May 2025 | NSF cull of science grants affected climate adaptation startups that had depended on federal research and innovation funding; flagged by Climate Proof as undermining the US climate tech pipeline at a critical moment for private capital formation in adaptation | Apr/May 2025 |
+| **EU Water Resilience Strategy** | EU | Adopted June 4, 2025 | Comprehensive EU water resource management framework; 30+ actions; 10% water consumption reduction by 2030 target; €15bn EIB financing 2025-2027; annual investment gap ~€23bn; promotes water efficiency and reuse across all sectors; key climate adaptation tool for drought resilience and water security | Jun 2025 |
 
 ---
 
@@ -758,6 +766,11 @@
 | 144 | Adaptation's $9trn Opportunity, Watchdog Slams UK Climate Preparedness, Grid Resiliency Post-Iberian Blackout, and More | May 5, 2025 | /p/adaptation-s-9trn-opportunity-watchdog-slams-uk-climate-preparedness-grid-resiliency-post-iberian-bl | ✅ |
 | 145 | Washington Insurance Commissioner Kuderer on Her Climate Risk Priorities (interview) | May 2025 | /p/washington-insurance-commissioner-kuderer-on-her-climate-risk-priorities | ✅ |
 | 146 | World Bank, IMF Slammed by US for Climate Focus, Boost for Polluters Pay Laws, SF Climate Week, and More | Apr 28, 2025 | /p/world-bank-imf-slammed-by-us-for-climate-focus-boost-for-polluters-pay-laws-sf-climate-week-and-more | ✅ |
+| 147 | Adaptation10: Personal Climate Defense | Aug 2025 | /p/adaptation10-personal-climate-defense | ✅ |
+| 148 | Jyotsna Puri on Rethinking Adaptation Finance | Apr 2025 | /p/jyotsna-puri-on-rethinking-adaptation-finance | ✅ |
+| 149 | US Court Battle Over Climate Grants Heats Up, European Cities Make Progress on Adaptation, and More | May/Jun 2025 | /p/us-court-battle-over-climate-grants-heats-up-european-cities-make-progress-on-adaptation-and-more | ✅ |
+| 150 | Adaptation Finance is Having its 'Don't Look Away' Moment | Apr 2025 | /p/adaptation-finance-is-having-its-don-t-look-away-moment | ✅ |
+| 151 | Susan Crawford on How the US Government Is Failing Adaptation | Apr 15, 2025 | /p/susan-crawford-on-how-the-us-government-is-failing-adaptation | ✅ |
 
-**Remaining unprocessed:** 209 issues  
+**Remaining unprocessed:** 204 issues  
 **Full archive URL list:** See `newsletter_urls.md`
