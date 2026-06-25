@@ -170,13 +170,13 @@ Mark each URL with ✅ when processed into climate_adaptation_tracker.md
 - ✅ https://www.climateproof.news/p/sonam-velani-on-why-cities-are-the-frontlines-of-climate-adaptation
 - ✅ https://www.climateproof.news/p/wildfire-insurance-innovation-fema-resilience-grants-scrapped-insurtechs-accelerator-and-more
 - ✅ https://www.climateproof.news/p/adaptation10-chemicals-giants-scramble-to-climate-proof-as-weather-risks-mount
-- https://www.climateproof.news/p/theo-bachrach-on-championing-corporate-climate-resilience
-- https://www.climateproof.news/p/citizenship-for-climate-finance-trump-s-national-resilience-strategy-ai-adaptation-decision-making-a-3d66
-- https://www.climateproof.news/p/federal-retreat-on-wetlands-sets-off-alarms-over-future-floods
-- https://www.climateproof.news/p/oliver-wing-on-the-future-of-flood-risk-modeling
-- https://www.climateproof.news/p/citizenship-for-climate-finance-trump-s-national-resilience-strategy-ai-adaptation-decision-making-a
-- https://www.climateproof.news/p/carolyn-kousky-on-building-resilience-through-insurance
-- https://www.climateproof.news/p/global-corporates-face-us-1-2trn-in-climate-costs-reinsurers-back-noaa-epa-threatens-wetlands-and-mo
+- ✅ https://www.climateproof.news/p/theo-bachrach-on-championing-corporate-climate-resilience
+- ✅ https://www.climateproof.news/p/citizenship-for-climate-finance-trump-s-national-resilience-strategy-ai-adaptation-decision-making-a-3d66
+- ✅ https://www.climateproof.news/p/federal-retreat-on-wetlands-sets-off-alarms-over-future-floods
+- ✅ https://www.climateproof.news/p/oliver-wing-on-the-future-of-flood-risk-modeling
+- ✅ https://www.climateproof.news/p/citizenship-for-climate-finance-trump-s-national-resilience-strategy-ai-adaptation-decision-making-a
+- ✅ https://www.climateproof.news/p/carolyn-kousky-on-building-resilience-through-insurance
+- ✅ https://www.climateproof.news/p/global-corporates-face-us-1-2trn-in-climate-costs-reinsurers-back-noaa-epa-threatens-wetlands-and-mo
 - https://www.climateproof.news/p/adaptation-funds-hit-growing-pains
 - https://www.climateproof.news/p/avinash-persaud-on-unlocking-development-banks-potential-for-adaptation
 - https://www.climateproof.news/p/new-climate-resilience-investment-framework-83-of-usaid-projects-scrapped-canadian-adaptation-tech-a
